@@ -1,0 +1,5 @@
+kite-wubi
+Copyright 2026 Killian2026
+
+本项目的五笔全码来自 KyleBing/rime-wubi86-jidian(https://github.com/KyleBing/rime-wubi86-jidian) ，该软件基于 Apache License 2.0 许可。
+本项目用算法改变全码，重分配简码及顺序，以此做出新码表。  

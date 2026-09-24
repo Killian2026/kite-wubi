@@ -1,0 +1,9 @@
+# Rime default settings
+# encoding: utf-8
+#
+# 只做一件事：把风鸢五笔挂进输入方案列表。
+# ⚠ 如果你已经有 default.custom.yaml，别整个覆盖 —— 把 schema_list 里那一行并进去就行。
+
+patch:
+  schema_list:
+    - schema: kite_wubi          # 风鸢五笔

@@ -1,0 +1,6293 @@
+---
+name: kite_wubi_teshuci
+version: "beta1"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+东莞市	aaym	30010	441900
+项羽	adnn	30010
+	aghg	10010
+AirPods	airp	30030
+AirPods Pro	airp	30020
+AirPower	airp	30010
+莒县	akeg	30010	371122
+	apwl	10010
+萧县	aveg	30010	341322
+甘肃省	avit	30010	620000
+苏州市	ayym	30010	320500
+陀螺仪	bjwy	30010
+	bnnj	10010
+辽宁省	bpit	30010	210000
+陕西省	bsit	30010	610000
+÷	bwny	10010
+台湾省	ciit	30010	710000
+	cnye	10010
+	coap	10020
+⌘	coa	10010
+。	cobd	10460
+，	cobd	10450
+、	cobd	10440
+；	cobd	10430
+：	cobd	10420
+？	cobd	10410
+！	cobd	10400
+…	cobd	10390
+—	cobd	10380
+·	cobd	10370
+．	cobd	10360
+ˉ	cobd	10350
+ˇ	cobd	10340
+¨	cobd	10330
+‘	cobd	10320
+’	cobd	10310
+“	cobd	10300
+”	cobd	10290
+々	cobd	10280
+～	cobd	10270
+‖	cobd	10260
+∶	cobd	10250
+＂	cobd	10240
+＇	cobd	10230
+｀	cobd	10220
+｜	cobd	10210
+〔	cobd	10200
+〕	cobd	10190
+〈	cobd	10180
+〉	cobd	10170
+《	cobd	10160
+》	cobd	10150
+「	cobd	10140
+」	cobd	10130
+『	cobd	10120
+』	cob	10110
+〖	cobd	10100
+〗	cobd	10090
+【	cobd	10080
+】	cobd	10070
+（	cobd	10060
+）	cobd	10050
+［	cobd	10040
+］	cobd	10030
+｛	cobd	10020
+｝	cobd	10010
+℃	rqya	10010
+⒈	cods	10200
+⒉	cods	10190
+⒊	cods	10180
+⒋	cods	10170
+⒌	cods	10160
+⒍	cods	10150
+⒎	cods	10140
+⒏	cods	10130
+⒐	cods	10120
+⒑	cods	10110
+⒒	cods	10100
+⒓	cods	10090
+⒔	cods	10080
+⒕	cods	10070
+⒖	cods	10060
+⒗	cods	10050
+⒘	cods	10040
+⒙	cods	10030
+⒚	cods	10020
+⒛	cods	10010
+А	code	10330
+Б	code	10320
+В	code	10310
+Г	code	10300
+Д	code	10290
+Е	code	10280
+Ж	code	10270
+З	code	10260
+И	code	10250
+Й	code	10240
+К	code	10230
+Л	code	10220
+М	code	10210
+Н	code	10200
+О	code	10190
+П	code	10180
+Р	code	10170
+С	code	10160
+Т	code	10150
+У	code	10140
+Ф	code	10130
+Х	code	10120
+Ц	code	10110
+Ч	code	10100
+Ш	code	10090
+Щ	code	10080
+Ъ	code	10070
+Ы	code	10060
+Ь	code	10050
+Э	code	10040
+Ю	code	10030
+Я	code	10020
+Ё	code	10010
+Ⅰ	codl	10120
+Ⅱ	codl	10110
+Ⅲ	codl	10100
+Ⅳ	codl	10090
+Ⅴ	codl	10080
+Ⅵ	codl	10070
+Ⅶ	codl	10060
+Ⅷ	codl	10050
+Ⅸ	codl	10040
+Ⅹ	codl	10030
+Ⅺ	codl	10020
+Ⅻ	codl	10010
+㎎	codw	10110
+㎏	codw	10100
+㎜	codw	10090
+㎝	codw	10080
+㎞	codw	10070
+㎡	guy	10060
+㏄	codw	10050
+㏎	codw	10040
+㏑	codw	10030
+㏒	codw	10020
+㏕	codw	10010
+Α	codx	10240
+Β	codx	10230
+Γ	codx	10220
+Δ	codx	10210
+Ε	codx	10200
+Ζ	codx	10190
+Η	codx	10180
+Θ	codx	10170
+Ι	codx	10160
+Κ	codx	10150
+Λ	codx	10140
+Μ	codx	10130
+Ν	codx	10120
+Ξ	codx	10110
+Ο	codx	10100
+Π	cod	10090
+Ρ	codx	10080
+Σ	codx	10070
+Τ	codx	10060
+Υ	codx	10050
+Φ	codx	10040
+Χ	codx	10030
+Ψ	codx	10020
+Ω	aqvx	10010
+⑴	coks	10200
+⑵	coks	10190
+⑶	coks	10180
+⑷	coks	10170
+⑸	coks	10160
+⑹	coks	10150
+⑺	coks	10140
+⑻	coks	10130
+⑼	coks	10120
+⑽	coks	10110
+⑾	coks	10100
+⑿	coks	10090
+⒀	cok	10080
+⒁	coks	10070
+⒂	coks	10060
+⒃	coks	10050
+⒄	coks	10040
+⒅	coks	10030
+⒆	coks	10020
+⒇	coks	10010
+＄	cohb	10060
+￠	cohb	10050
+￡	coh	10040
+￥	cohb	10030
+¤	cohb	10020
+	cohb	10010
+→	cojt	10080
+↑	cojt	10070
+←	cojt	10060
+↓	cojt	10050
+↖	cojt	10040
+↗	cojt	10030
+↘	cojt	10020
+↙	cojt	10010
+ァ	cojp	10890
+ア	cojp	10880
+ィ	cojp	10870
+イ	cojp	10860
+ゥ	cojp	10850
+ウ	cojp	10840
+ェ	cojp	10830
+エ	cojp	10820
+ォ	cojp	10810
+オ	cojp	10800
+カ	cojp	10790
+ガ	cojp	10780
+キ	cojp	10770
+ギ	cojp	10760
+ク	cojp	10750
+グ	cojp	10740
+ケ	cojp	10730
+ゲ	cojp	10720
+コ	cojp	10710
+ゴ	cojp	10700
+サ	cojp	10690
+ザ	cojp	10680
+シ	cojp	10670
+ジ	cojp	10660
+ス	cojp	10650
+ズ	cojp	10640
+セ	cojp	10630
+ゼ	cojp	10620
+ソ	cojp	10610
+ゾ	cojp	10600
+タ	cojp	10590
+ダ	cojp	10580
+チ	cojp	10570
+ヂ	cojp	10560
+ッ	cojp	10550
+ツ	cojp	10540
+ヅ	cojp	10530
+テ	cojp	10520
+デ	cojp	10510
+ト	cojp	10500
+ド	cojp	10490
+ナ	cojp	10480
+ニ	cojp	10470
+ヌ	cojp	10460
+ネ	cojp	10450
+ノ	cojp	10440
+ハ	cojp	10430
+バ	cojp	10420
+パ	cojp	10410
+ヒ	cojp	10400
+ビ	cojp	10390
+ピ	cojp	10380
+フ	cojp	10370
+ブ	cojp	10360
+プ	cojp	10350
+ヘ	cojp	10340
+ベ	cojp	10330
+ペ	cojp	10320
+ホ	cojp	10310
+ボ	cojp	10300
+ポ	cojp	10290
+マ	cojp	10280
+ミ	cojp	10270
+ム	cojp	10260
+メ	cojp	10250
+モ	cojp	10240
+ャ	cojp	10230
+ヤ	cojp	10220
+ュ	cojp	10210
+ユ	cojp	10200
+ョ	cojp	10190
+ヨ	cojp	10180
+ラ	cojp	10170
+リ	cojp	10160
+ル	cojp	10150
+レ	cojp	10140
+ロ	cojp	10130
+ヮ	cojp	10120
+ワ	cojp	10110
+ヰ	cojp	10100
+ヱ	cojp	10090
+ヲ	cojp	10080
+ン	cojp	10070
+ヴ	cojp	10060
+ヵ	cojp	10050
+ヶ	cojp	10040
+ー	cojp	10030
+ヽ	coj	10020
+ヾ	cojp	10010
+	cokg	10010	全角空格
+㈠	coos	10100
+㈡	coos	10090
+㈢	coos	10080
+㈣	coos	10070
+㈤	coos	10060
+㈥	coos	10050
+㈦	coo	10040
+㈧	coos	10030
+㈨	coos	10020
+㈩	coos	10010
+ㄅ	cooy	10370
+ㄆ	cooy	10360
+ㄇ	cooy	10350
+ㄈ	cooy	10340
+ㄉ	cooy	10330
+ㄊ	cooy	10320
+ㄋ	cooy	10310
+ㄌ	cooy	10300
+ㄍ	cooy	10290
+ㄎ	cooy	10280
+ㄏ	cooy	10270
+ㄐ	cooy	10260
+ㄑ	cooy	10250
+ㄒ	cooy	10240
+ㄓ	cooy	10230
+ㄔ	cooy	10220
+ㄕ	cooy	10210
+ㄖ	cooy	10200
+ㄗ	cooy	10190
+ㄘ	cooy	10180
+ㄙ	cooy	10170
+ㄧ	cooy	10160
+ㄨ	cooy	10150
+ㄩ	cooy	10140
+ㄚ	cooy	10130
+ㄛ	cooy	10120
+ㄜ	cooy	10110
+ㄝ	cooy	10100
+ㄞ	cooy	10090
+ㄟ	cooy	10080
+ㄠ	cooy	10070
+ㄡ	cooy	10060
+ㄢ	cooy	10050
+ㄣ	cooy	10040
+ㄤ	cooy	10030
+ㄥ	cooy	10020
+ㄦ	cooy	10010
+ā	copy	10050
+á	copy	10040
+ǎ	copy	10030
+à	copy	10020
+a	copa	10010
+ē	copy	10050
+é	copy	10040
+ě	copy	10030
+è	copy	10020
+ê	copy	10010
+ī	copy	10050
+í	copy	10040
+ǐ	copy	10030
+ì	copy	10020
+i	copi	10010
+ぁ	copj	10860
+あ	copj	10850
+ぃ	copj	10840
+い	copj	10830
+ぅ	copj	10820
+う	copj	10810
+ぇ	copj	10800
+え	copj	10790
+ぉ	copj	10780
+お	copj	10770
+か	copj	10760
+が	copj	10750
+き	copj	10740
+ぎ	copj	10730
+く	copj	10720
+ぐ	copj	10710
+け	copj	10700
+げ	copj	10690
+こ	copj	10680
+ご	copj	10670
+さ	copj	10660
+ざ	copj	10650
+し	copj	10640
+じ	copj	10630
+す	copj	10620
+ず	copj	10610
+せ	copj	10600
+ぜ	copj	10590
+そ	copj	10580
+ぞ	copj	10570
+た	copj	10560
+だ	copj	10550
+ち	copj	10540
+ぢ	copj	10530
+っ	copj	10520
+つ	copj	10510
+づ	copj	10500
+て	copj	10490
+で	copj	10480
+と	copj	10470
+ど	copj	10460
+な	copj	10450
+に	copj	10440
+ぬ	copj	10430
+ね	copj	10420
+の	copj	10410
+は	copj	10400
+ば	copj	10390
+ひ	copj	10380
+び	copj	10370
+ぴ	copj	10360
+ふ	copj	10350
+ぶ	copj	10340
+ぷ	copj	10330
+へ	copj	10320
+べ	copj	10310
+ぺ	copj	10300
+ほ	copj	10290
+ぼ	copj	10280
+ぽ	copj	10270
+ま	copj	10260
+み	copj	10250
+む	copj	10240
+め	copj	10230
+も	copj	10220
+ゃ	copj	10210
+や	copj	10200
+ゅ	copj	10190
+ゆ	copj	10180
+ょ	copj	10170
+よ	copj	10160
+ら	copj	10150
+り	copj	10140
+る	copj	10130
+れ	cop	10120
+ろ	copj	10110
+ゎ	copj	10100
+わ	copj	10090
+ゐ	copj	10080
+ゑ	copj	10070
+を	copj	10060
+ん	copj	10050
+゛	copj	10040
+゜	copj	10030
+ゝ	copj	10020
+ゞ	copj	10010
+ō	copy	10050
+ó	copy	10040
+ǒ	copy	10030
+ò	copy	10020
+o	copo	10010
+ū	copy	10050
+ú	copy	10040
+ǔ	copy	10030
+ù	copy	10020
+u	copu	10010
+ǖ	copv	10050
+ǘ	copv	10040
+ǚ	copv	10030
+ǜ	copv	10020
+ü	copv	10010
+＋	cosx	10460
+－	cosx	10450
+＜	cosx	10440
+＝	cosx	10430
+＞	cosx	10420
+±	cosx	10410
+×	tun	10400
+π	cosx	10380
+∈	cosx	10370
+∏	cosx	10360
+∑	cosx	10350
+∕	cosx	10340
+√	svk	10330
+∝	cosx	10320
+∞	cosx	10310
+∟	cosx	10300
+∠	cos	10290
+∣	cosx	10280
+∥	cosx	10270
+∧	cosx	10260
+∨	cosx	10250
+∩	cosx	10240
+∪	cosx	10230
+∫	cosx	10220
+∮	cosx	10210
+∴	cosx	10200
+∵	cosx	10190
+∷	cosx	10170
+∽	cosx	10160
+≈	xtgf	10150
+≌	cosx	10140
+≒	cosx	10130
+≠	cosx	10120
+≡	cosx	10110
+≤	cosx	10100
+≥	cosx	10090
+≦	cosx	10080
+≧	cosx	10070
+≮	cosx	10060
+≯	cosx	10050
+⊕	cosx	10040
+⊙	cosx	10030
+⊥	cosx	10020
+⊿	cosx	10010
+№	cots	10270
+°	qeya	10260
+‰	twp	10250
+♂	cots	10240
+♀	cots	10230
+§	cots	10220
+☆	cots	10200
+★	cots	10190
+○	cots	10180
+●	cots	10170
+◎	cots	10160
+◇	cots	10150
+◆	cots	10140
+□	cots	10130
+■	cots	10120
+△	cots	10110
+▲	cots	10100
+※	cots	10090
+〓	cots	10080
+＃	cots	10070
+＆	cots	10060
+＠	cots	10050
+＼	cots	10040
+＾	cots	10030
+＿	cots	10020
+￣	cot	10010
+а	coxe	10340
+б	coxe	10330
+в	coxe	10320
+г	coxe	10310
+д	coxe	10300
+е	coxe	10290
+ж	coxe	10280
+з	coxe	10270
+и	coxe	10260
+й	coxe	10250
+к	coxe	10240
+л	coxe	10230
+м	coxe	10220
+н	coxe	10210
+о	coxe	10200
+п	coxe	10190
+р	coxe	10180
+с	coxe	10170
+т	coxe	10160
+у	coxe	10150
+ф	coxe	10140
+х	coxe	10130
+ц	coxe	10120
+ч	coxe	10110
+ш	coxe	10100
+щ	coxe	10090
+ъ	coxe	10080
+ы	coxe	10070
+ь	coxe	10060
+э	coxe	10050
+ю	coxe	10040
+я	coxe	10030
+ё	coxe	10020
+ⅰ	coxl	10100
+ⅱ	coxl	10090
+ⅲ	coxl	10080
+ⅳ	coxl	10070
+ⅴ	coxl	10060
+ⅵ	coxl	10050
+ⅶ	coxl	10040
+ⅷ	coxl	10030
+ⅸ	coxl	10020
+ⅹ	coxl	10010
+α	coxx	10240
+β	coxx	10230
+γ	coxx	10220
+δ	coxx	10210
+ε	coxx	10200
+ζ	coxx	10190
+η	coxx	10180
+θ	coxx	10170
+ι	coxx	10160
+κ	cox	10150
+λ	coxx	10140
+μ	coxx	10130
+ν	coxx	10120
+ξ	coxx	10110
+ο	coxx	10100
+ρ	coxx	10080
+σ	coxx	10070
+τ	coxx	10060
+υ	coxx	10050
+φ	coxx	10040
+χ	coxx	10030
+ψ	coxx	10020
+ω	coxx	10010
+①	coys	10100
+②	coys	10090
+③	coys	10080
+④	coys	10070
+⑤	coys	10060
+⑥	coy	10050
+⑦	coys	10040
+⑧	coys	10030
+⑨	coys	10020
+⑩	coys	10010
+成都市	dfym	30010	510100
+历下区	dgaq	30010	370102
+	dgtv	10010
+	dilc	10010
+	dilx	10010
+大连市	dlym	30010	210200
+万达	dndp	30020
+厦门市	duym	30020	350200
+	dwie	10010
+	dxg	10010
+矿区	dyaq	30010	140303
+胎压	ecdf	30010
+	efny	10010
+	eudg	10010
+	faev	10010
+城区	fdaq	30010	140302
+老城区	ffaq	30010	410302
+云南省	ffit	30010	530000
+	fjjv	10010
+南区	fmaq	30010	810004
+元歌	fqsk	30010
+无锡市	fqym	30010	320200
+吉林省	fsit	30010	220000
+南京市	fyym	30010	320100
+	geqg	10010
+环县	ggeg	30010	621022
+	gggg	10010
+王筝	ggtq	30010
+下屯	ghgb	30020
+青海省	giit	30010	630000
+天津市	giym	30010	120000
+	gmhg	10010
+	gqjg	10010
+	gqkm	10010
+青岛市	gqym	30010	370200
+斑马	gycn	30020
+	haqt	10020
+	haqt	10010
+	hdq	10010
+上海市	hiym	30020	310000
+	hov	10010
+江苏省	iait	30010	320000
+浦东新区	iaua	30010	310115
+沈阳市	ibym	30010	210100
+	idp	10010
+海南省	ifit	30030	460000
+济南市	ifym	30010	370100
+	ihyt	10010
+海淀区	iiaq	30010	110108
+浙江省	iiit	30010	330000
+海口市	ikym	30010	460100
+	ipbx	10010
+沂水	irii	30020
+江西省	isit	30010	360000
+河北省	iuit	30020	130000
+湖北省	iuit	30010	420000
+澳门特别行政区	iuta	30010	820000
+汕头市	iuym	30010	440500
+®	iymm	10010
+昆明市	jjym	30010	530100
+贵阳市	kbym	30010	520100
+	khfe	10010
+	kkmw	10010
+中山市	kmym	30010	442000
+	kun	10020
+	kunt	10010
+贵州省	kyit	30010	520000
+黑龙江省	ldii	30010	230000
+四川省	lkit	30010	510000
+〇	llll	10020
+内蒙古自治区	mada	30010	150000
+山东省	mait	30010	370000
+	mgeg	10020
+	mgeg	10010
+山西省	msit	30010	140000
+	nhde	10010
+	nhty	10010
+	nkug	10010
+	nnll	10020
+	nnll	10010
+	nqbt	10010
+	nqv	10010
+	oopb	10010
+宁夏回族自治区	pdla	30010	640000
+宁波市	piym	30010	330200
+宜昌市	pjym	30010	420500
+	pqbw	10010
+安徽省	ptit	30010	340000
+	pukm	10020
+	pukm	10010
+福建省	pvit	30010	350000
+	qafj	10010
+	qaht	10010
+	qgdj	10010
+	qgqb	10010
+	qgug	10010
+	qhhc	10010
+银川市	qkym	30010	640100
+	qnty	10010
+	qtne	10010
+	qudk	10010
+包头市	quym	30010	150200
+解放区	qyaq	30010	410802
+	qynn	10020
+	qynn	10010
+	rccy	10010
+	rhag	10010
+	ria	10010
+	rmqy	10010
+	rtgt	10010
+	rtty	10010
+	rwyc	10010
+西藏自治区	sata	30010	540000
+	smqy	10010
+西安市	spym	30010	610100
+杭州市	syym	30010	330100
+	tcd	10010
+长春市	tdym	30010	220100
+	tfdj	10010
+©	thsc	10010
+香港特别行政区	tita	30010	810000
+长沙市	tiym	30010	430100
+徽县	tmeg	30010	621227
+	ttge	10010
+	ttgy	10010
+重庆市	tyym	30010	500000
+	udi	10010
+	udre	10010
+	ugfy	10010
+新型冠状病毒	ugpg	30010
+♩	ujtw	10070
+♪	ujtw	10060
+♫	ujtw	10050
+♬	ujtw	10040
+♭	ujtw	10030
+♮	ujtw	10020
+郊区	uqaq	30010	140311
+	uqvh	10020
+	uqvh	10010
+	uwwf	10020
+	uwwf	10010
+新疆维吾尔自治区	uxxa	30010	650000
+北京市	uyym	30030	110000
+	vhgd	10010
+合肥市	weym	30010	340100
+佛山市	wmym	30010	440600
+	wqbt	10010
+	wqv	10010
+℉	wxq	10010
+	xmgi	10010
+	xyxy	10010
+广东省	yait	30010	440000
+	yauo	10010
+扁鹊	ynaj	30010
+	yrhx	10010
+广西壮族自治区	ysua	30010	450000
+广州市	yyym	30010	440100
+朗逸	yvqk	30000
+验车	cwlg	30000
+一汽	ggir	30000
+一汽大众	gidw	30000
+速腾	gkeu	30000
+上汽	hhir	30000
+上汽大众	hidw	30000
+科三	tudg	30000
+科二	tufg	30000
+科一	tugg	30100
+科四	tulh	30000
+凌渡	ufiy	30000
+迈腾	dneu	30000
+自驾	thlk	30020
+自驾游	tliy	30000
+宝来	pggo	30000
+手动挡	rfri	30000
+新能源	ucid	30000
+插电	rtjn	30000
+混动	ijfc	30000
+插混	rtij	30100
+荣威	apdg	30000
+哈弗	kwxj	30000
+埃安	fcpv	30000
+AION	aion	30000
+记录仪	yvwy	30020
+好猫	vbqt	30000
+欧拉	aqru	30000
+帝豪	upyp	30000
+名爵	qkel	30000
+纯电	xgjn	30100
+零跑	fwkh	30000
+奥特能	ttce	30000
+改款	ntff	30000
+高配	ymsg	30000
+低配	wqsg	30100
+车商	lgum	30000
+朗行	yvtf	30000
+三厢	dgds	30000
+行车记录仪	tlyw	30000
+CarPlay	carp	30000
+挡位	riwu	30020
+自动挡	tfri	30000
+防滑链	biql	30000
+临牌	jtth	30000
+加满	lkia	30000
+内饰	mwqn	30000
+车损	lgrk	30000
+授理	regj	30000
+三者	dgft	30000
+三者险	dfbw	30100
+车标	lgsf	30000
+全合成	wwdn	30000
+底壳	yqfp	30000
+点烟器	hokk	30000
+区间测速	auig	30000
+静电贴	gjmh	30000
+高速费	ygxj	30000
+过路费	fkxj	30000
+途观	wtcm	30000
+后备箱	rtts	30000
+烧胎	oaec	30000
+前刹	ueqs	30000
+后刹	rgqs	30000
+车展	lgna	30000
+火花塞	oapf	30000
+滤芯	ihan	30000
+车缝	lgxt	30000
+车机	lgsm	30000
+断轴	onlm	30000
+易捷	jqrg	30000
+挪车	rvlg	30000
+加油卡	lihh	30000
+审车	pjlg	30000
+侧方位	wywu	30030
+倒车入库	wlty	30020
+福特	pytr	30000
+皮卡	hchh	30000
+斯巴鲁	acqg	30000
+后驱	rgca	30020
+马自达	ctdp	30020
+炸街	ottf	30000
+四驱	lhca	30020
+两驱	gmca	30020
+两驱车	gclg	30020
+四驱车	lclg	30020
+小齿	ihhw	30000
+比亚迪	xgmp	30000
+乘联会	tbwf	30000
+主驾	yglk	30000
+副驾驶	glck	30000
+主驾驶	ylck	30000
+安全带	pwgk	30030
+凯美瑞	mugm	30000
+日系	jjtx	30020
+德系	tftx	30020
+兰博基尼	ufan	30020
+自吸	thke	30020
+涡轮增压	ilfd	30020
+单盘	ujte	30000
+双盘	ccte	30000
+CBR500R	cbr	30000
+GoPro	gop	30000
+GSX250R	gsx	30000
+曼岛TT	jqtt	30000
+排量	rdjg	30100
+护杠	rysa	30000
+摩托范	yrai	30000
+摩托邦	yrdt	30000
+CBR650R	cbr	30010
+试戴	yafa	30000
+降挡	btri	30000
+挡把	rirc	30020
+四缸	lhrm	30000
+双D扣	cdrk	30000
+禁摩	ssys	30000
+死亡摇摆	gyrr	30000
+横风	samq	30020
+酒驾	islk	30020
+醉驾	sglk	30020
+起车	fhlg	30008
+起车架	fllk	30000
+起车钉	flqs	30000
+高架桥	ylst	30000
+钻车缝	qlxt	30000
+防御性驾驶	btnc	30000
+姜戈	ugag	30000
+九号E125	vtkg	30000
+九号E200p	vtkg	30000
+九号E200p mk2	vtkg	30000
+九号E300p	vtkg	30000
+Ninja400	ninj	30000
+Ninja650	ninj	30000
+黄忠	amkh	30000
+太乙真人	dnfw	30000
+蔡文姬	ayva	30000
+虞姬	hava	30000
+李元芳	sfay	30000
+刘备	yjtl	30000
+橘右京	sdyi	30000
+安琪拉	pgru	30000
+甄姬	sfva	30000
+赢政	yngh	30000
+妲己	vjnn	30000
+小乔	ihtd	30000
+娜可露露	vsff	30000
+典韦	mafn	30000
+钟无艳	qfdh	30000
+赵云	fhfc	30000
+关羽	udnn	30000
+杨戬	sngo	30000
+露娜	fkvv	30000
+兰陵王	ubgg	30000
+程咬金	tkqq	30000
+白起	rrfh	30000
+牛魔	rhys	30000
+亚瑟	gogg	30000
+夏侯惇	dwny	30000
+韩信	fjwy	30000
+老夫子	ffbb	30000
+宫本武藏	psga	30000
+阿轲	bsls	30000
+不知火舞	gtor	30000
+武则天	gmgd	30000
+王昭君	gjvt	30000
+高渐离	yiyb	30000
+东皇太一	ardg	30000
+狄仁杰	qwso	30000
+鲁班七号	qgak	30000
+百里守约	djpx	30000
+百里玄策	djyt	30000
+上官婉儿	hpvq	30000
+公孙离	wbyb	30000
+马超	cnfh	30000
+芈月	gjee	30000
+干将莫邪	fuaa	30000
+沈梦溪	isie	30000
+盾山	rfmm	30000
+蒙犽	apqt	30000
+鲁班大师	qgdj	30000
+云中君	fkvt	30000
+盘古	tedg	30000
+李信	sbwy	30000
+伽罗	wllq	30000
+司马懿	ncfp	30000
+孙策	bitg	30000
+米莱狄	oaqt	30000
+狂铁	qtqr	30000
+弈星	yojt	30000
+裴擒虎	drha	30000
+杨玉环	sggg	30000
+明世隐	jabq	30000
+梦奇	ssds	30000
+苏烈	algq	30000
+大乔	ddtd	30000
+桑启	ccyn	30000
+戈娅	agvg	30000
+海月	itee	30000
+莱西奥	astm	30000
+司空震	npfd	30000
+云樱	fcsm	30000
+朵莉亚	mago	30000
+海诺	itya	30000
+金蝉	qqju	30000
+云缨	fcxm	30000
+艾琳	aqgs	30000
+空空儿	ppqt	30000
+蚩奼	bhvt	10000
+元流之子	fipb	30000
+六耳	uybg	30000
+黑镜	lfqu	30000
+夏洛特烦恼	ditn	30000
+你好，李焕英	soam	30000
+危情三日	qndj	30000
+时间旅行者的妻子	juyb	30000
+星际穿越	jbpf	30000
+无敌破坏王	ftdg	30000
+盗梦空间	uspu	30000
+黑客帝国	lpul	30000
+利刃出鞘	tvba	30000
+电锯惊魂	jqnf	30000
+阿凡达	bmdp	30000
+切尔诺贝利	aqyt	30000
+极盗者	suft	30000
+王牌特工	gtta	30000
+暮光之城	aipf	30000
+狼嚎	qtky	30000
+冰海陷落	uiba	30000
+灰猎犬号	dqdk	30000
+触不可及	qgse	30000
+铁齿铜牙纪晓岚	qhqm	30000
+纪晓岚	xjmm	30000
+和珅	tkgj	30000
+男人帮	lwdt	30000
+莫娣	ajvu	30000
+隐入烟尘	btoi	30000
+西虹市首富	sjyp	30000
+满江红	iixa	30100
+武林外传	gsqw	30000
+赤焰战场	fohf	30000
+银河护卫队	qirb	30000
+驯龙高手	cdyr	30000
+血钻	tlqh	30000
+疾速追杀	ugwq	30000
+昆汀	jxis	30000
+盖·里奇	ujds	30000
+奥本海默	tsil	30000
+生化危机	twqs	30000
+钢铁侠	qqwg	30020
+惊奇队长	ndbt	30000
+哥斯拉	saru	30000
+奇异博士	dnff	30000
+绿巨人	xaww	30000
+伸冤人	wpww	30000
+变形金刚	ygqm	30000
+鹊刀门	avuy	30020
+海王	itgg	30030
+功夫熊猫	afcq	30000
+沈墨	iplf	30000
+死神来了	gpgb	30000
+死侍	gqwf	30030
+五月槐花香	gest	30000
+变相怪杰	ysns	30000
+加勒比海盗	laxu	30000
+漫长的季节	itra	30000
+鱿鱼游戏	qqic	30000
+天龙特攻队	gdtb	30000
+罗曼蒂克消亡史	ljak	30000
+敦刻尔克	yyqd	30000
+谍影重重	yjtt	30000
+满城尽待黄金甲	ifnl	30000
+谢春花	ydaw	30000
+王贰浪	gaiy	30000
+阿悄	bsni	30000
+薛之谦	apyu	30000
+张碧晨	xgjd	30000
+那英	vfam	30000
+王菲	ggad	30000
+庆庆	ydyd	30000
+周杰伦	msww	30000
+陈粒	baou	30000
+解忧邵帅	qnvj	30000
+龙梅子	dsbb	30000
+张峰奇	xmds	30000
+莫艳琳	adgs	30000
+陈雪凝	bfux	30000
+李荣浩	sait	30000
+陈慧娴	bdvu	30000
+郑源	udid	30000
+华晨宇	wjpg	30000
+邓紫棋	chsa	30000
+张蔷	xtaf	30000
+王心凌	gnuf	30000
+蔡依林	awss	30000
+孙燕姿	bauq	30000
+莫叫姐姐	akvv	30000
+徐怀钰	tnqg	30000
+姫神	vapy	30000
+李玟	sbgy	30000
+韩红	fjxa	30000
+郭顶	ybsd	30000
+麻园诗人	ylyw	30020
+五月天	gegd	30000
+毛不易	tgjq	30030
+刘烨溦	yoim	30000
+凤凰传奇	mmwd	30000
+张杰	xtso	30020
+周韵	mfuj	30000
+姜文	ugyy	30000
+姜武	ugga	30000
+舒淇	wfia	30000
+赵薇	fhat	30000
+葛尤	ajdn	30000
+甄子丹	sbmy	30000
+李连杰	slso	30000
+姚晨	vijd	30000
+王洛丹	gimy	30000
+孙红雷	bxfl	30000
+沙溢	iiiu	30000
+张艺谋	xaya	30000
+郭达	ybdp	30000
+尹正	vtgh	30020
+费翔	xjud	30000
+周冬雨	mtfg	30000
+宋丹丹	pmmy	30020
+秦岚	dwmm	30005
+于和伟	gtwf	30000
+王子文	gbyy	30000
+任素汐	wgiq	30000
+范伟	aiwf	30000
+倪妮	wvvn	30020
+易烊千玺	jotq	30000
+寄居蟹	pnqe	30000
+醉清风	simq	30000
+借我	watr	30000
+无骨无花，无我无他	fmfw	30000
+大天篷	dgtt	30000
+孤芒	bray	30000
+伊兰爱情故事	wueg	30000
+千千阙歌	ttus	30000
+依然范特西	wqas	30020
+范特西	atsg	30020
+祝融	pygk	30000
+一两个月	ggwe	30000
+母胎	xgec	30000
+网抑云	mrfc	30000
+动效	fcuq	30000
+底库	yqyl	30000
+旁通	upce	30000
+延长线	ttxg	30100
+　	cokg	10000	全角空格 co空格
+困意	lsuj	30000
+小笼包	itqn	30000
+一泻千里	gitj	30000
+夜猫	ywqt	30000
+绿幕	xvaj	30000
+U盘	utel	30020
+水基	iiad	30000
+灭火器	gokk	30000
+水基灭火器	iagk	30000
+看一下	rggh	30000
+毫安时	ypjf	30000
+雷雳	flfd	30000
+前叉	uecy	30000
+随机数	bsov	30000
+运存	fcdh	30000
+后视	rgpy	30000
+红轴	xalm	30000
+青轴	gelm	30000
+茶轴	awlm	30100
+黑轴	lflm	30100
+白轴	rrlm	30000
+博主	fgyg	30000
+德邦	tfdt	30000
+楼道	sout	30100
+懵逼	nagk	30000
+滴滴	iuiu	30000
+逢集	tdwy	30000
+煎包	ueqn	30000
+守岁	pfmq	30000
+烤串	ofkk	30030
+笑死	ttgq	30000
+医保卡	awhh	30000
+社保卡	pwhh	30000
+烤肠	ofen	30000
+螺蛳粉	jjow	30000
+简简单单	ttuu	30000
+竖版	jcth	30000
+城东	fdai	30000
+至亲	gcus	30000
+生不如死	tgvg	30000
+自理	thgj	30000
+虚头巴脑	huce	30000
+炸串	otkk	30000
+顺风车	kmlg	30000
+同款	mgff	30000
+结痂	xful	30000
+无氧运动	frff	30000
+有氧运动	drff	30000
+有氧	dern	30000
+无氧	fqrn	30000
+无穷大	fpdd	30000
+无穷小	fpih	30000
+斗鸡眼	uchv	30000
+炸货	otwx	30000
+亲娘	usvy	30000
+声线	fnxg	30100
+惊悚	nyng	30000
+静好	gevb	30000
+岁月静好	megv	30000
+买车	nulg	30000
+卖车	fnlg	30000
+广场舞	yfrl	30000
+短链	tdql	30000
+透明度	tjya	30000
+充电线	yjxg	30000
+也就是	byjg	30020
+虚化	hawx	30000
+亡命天涯	ywgi	30000
+武士刀	gfvn	30000
+电锯	jnqn	30000
+手机卡	rshh	30000
+占比	hkxx	30000
+鬼压床	rdys	30000
+纯音乐	xuqi	30000
+美缝	ugxt	30000
+稍安勿躁	tpqk	30000
+翻找	tora	30000
+吱嘎	kfkd	30000
+落格	aist	30000
+热力图	rllt	30000
+知书达理	tndg	30000
+常亮	ipyp	30000
+浴火重生	iott	30000
+沉得住气	itwr	30000
+幸存者偏差	fdfu	30000
+米粉节	ooab	30000
+可可爱爱	ssee	30000
+鼻血	thtl	30000
+退朝	vefj	30000
+方方面面	yydd	30000
+榴莲	sqal	30000
+正装	ghuf	30000
+沙县小吃	ieik	30000
+沙县	iieg	30000	350427
+中转站	kluh	30000
+电竞椅	jusd	30000
+电竞	jnuk	30000
+床褥	yspu	30000
+炒鸡	oicq	30000
+氮气	rnrn	30000
+操控台	rrck	30000
+泡泡	iqiq	30000
+邀请码	rydc	30000
+布娃娃	dvvf	30000
+副驾	gklk	30000
+蛋炒饭	noqn	30000
+双节棍	casj	30000
+<kbd></kbd>	kbd	30000
+狗拎刀	qrvn	30000
+L/百公里	imdi	30000
+拉胯	rued	30100
+L/100km	dwjf	30000
+莱芜	agaf	30000
+莱钢	agqm	30000
+方正	yygh	30000
+泗水	ilii	30000
+虾线	jgxg	30000
+小红书	ixnn	30000
+双截棍	cfsj	30000
+电商	jnum	30000
+微商	tmum	30000
+个自	whth	30000
+主路	ygkh	30000
+机动车道	sflu	30000
+非机动车道	dsfu	30000
+露营灯	faos	30000
+贪吃蛇	wkjp	30000
+玻璃水	ggii	30000
+时好时坏	jvjf	30000
+备付金	twqq	30000
+神器	pykk	30000
+微辣	tmug	30000
+补漆	puis	30000
+融创	gkwb	30000
+融创茂	gwad	30000
+人偶服	wweb	30000
+合二为一	wfyg	30000
+隐形眼镜	bghq	30000
+日抛	jjrv	30000
+月抛	eerv	30000
+半年抛	urrv	30000
+取决于	bugf	30000
+游泳圈	iilu	30000
+运动量	ffjg	30000
+单页	ujdm	30000
+道克	utdq	30000
+金枕	qqsp	30000
+金枕榴莲	qssa	30000
+浓稠	iptm	30000
+码率	dcyx	30000
+看车	rhlg	30000
+啫喱	kfkd	30000
+啫喱水	kkii	30000
+蜜瓜	pnrc	30000
+鹿皮巾	yhmh	30000
+风噪	mqkk	30000
+直射	fhtm	30000
+水杯	iisg	30000
+自研	thdg	30000
+预判	cbud	30000
+痛点	uchk	30100
+绿钻	xvqh	30000
+黄钻	amqh	30000
+黑钻	lfqh	30000
+储物	wytr	30000
+储物箱	wtts	30000
+凉皮	uyhc	30000
+凉面	uydm	30000
+藤壶	aefp	30000
+鸡毛掸子	ctrb	30000
+Thunder	thun	30000
+采样率	esyx	30000
+飚车	mqlg	30010
+浓浓	ipip	30000
+图床	ltys	30100
+奔狼	dfqt	30000
+补卡	puhh	30100
+常开	ipga	30100
+像是	wqjg	30100
+定睛一看	phgr	30000
+甲抗	lhry	30000
+户口本	yksg	30100
+笼布	tddm	30100
+糯米粉	ooow	30100
+全网	wgmq	30100
+撬棒	rtsd	30100
+如图所示	vlrf	30000
+绿联	xvbu	30000
+接头	ruud	30000
+丑萌	nfaj	30000
+点图	hklt	30000
+垃圾袋	ffwa	30000
+嚼劲	keca	30000
+过够	fpqk	30000
+表头	geud	30100
+下来了	ggbn	30000
+猫眼螺	qhjl	30000
+不负此行	gqht	30000
+火龙果	odjs	30000
+秒数	tiov	30000
+群文件	vywr	30000
+比心	xxny	30000
+出生率	btyx	30000
+偏光镜	wiqu	30100
+夹片	guth	30000
+片尾	thnt	30000
+静下	gegh	30000
+所处	rnth	30000
+三条	dgts	30000
+童心未泯	unfi	30100
+从左到右	wdgd	30100
+人民日报	wnjr	30000
+戴眼镜	fhqu	30100
+法线	ifxg	30000
+%RH	ijya	30000
+行不行	tgtf	30100
+磁吸	duke	30000
+Web	web	30100
+淀粉肠	ioen	30000
+破壁机	dnsm	30100
+自由职业者	tmbf	30100
+沉底	ipyq	30000
+FinalCutPro	fina	30000
+犄角旮旯	tqvj	30000
+控制台	rrck	30100
+直辖市	flym	30000
+飙车	ddlg	30100
+二货	fgwx	30100
+app	app	30000
+下架	ghlk	30000
+狼人杀	qwqs	30000
+液位	iywu	30100
+液面	iydm	30100
+iPadOS	ipad	30019
+出风口	bmkk	30011
+靠前	tfue	30000
+褪去	pufc	30021
+晒伤	jswt	30000
+盘库	teyl	30000
+山河大学	midi	30000
+烟味	olkf	30020
+研磨剂	dyyj	30000
+尼玛	nxgc	30000
+非死即残	dgvg	30000
+夜黑风高	ylmy	30000
+别着急	kuqv	30020
+还完	gipf	30020
+一副	gggk	30000
+一副没见过世面的样子	ggib	30000
+挨个	rcwh	30020
+两圈	gmlu	30020
+物业费	toxj	30020
+AirDrop	aird	30020
+嫌累	vulx	30020
+回滚	lkiu	30030
+弧角	xrqe	30000
+自愈	thwg	30000
+常去	ipfc	30000
+陪跑	bukh	30020
+小饭煲	iqwk	30000
+小爱	ihep	30000
+小爱同学	iemi	30000
+Siri	siri	30000
+天猫精灵	gqov	30000
+床头灯	yuos	30000
+体重秤	wttg	30000
+折叠椅	rcsd	30000
+篮球鞋	tgaf	30000
+指甲刀	rlvn	30000
+自充气	tyrn	30000
+熨烫机	nism	30000
+甜甜圈	ttlu	30000
+每帧	txmh	30000
+饭铲	qnqu	30000
+吃土	ktff	30000
+耳坠	bgbw	30020
+爱思助手	eler	30000
+生命周期	twma	30000
+轮滑鞋	liaf	30000
+饭叉	qncy	30020
+心怀坦荡	nnfa	30020
+心怀	nyng	30019
+补胎	puec	30020
+微软雅黑	tlal	30020
+苹方	agyy	30020
+团建	lfvf	30000
+远星	fqjt	30000
+助眠	eghn	30000
+人教版	wfth	30020
+束腿	gkev	30000
+绿牌	xvth	30000
+潜行	iftf	30019
+洗发水	inii	30029
+鸡哔	cqkx	30000
+使然	wgqd	30029
+面无表情	dfgn	30020
+女孩纸	vbxq	30020
+大舌头	dtud	30020
+鸡皮	cqhc	30000
+摆拍	rlrr	30000
+握把	rnrc	30000
+汉服	iceb	30000
+找对象	rcqj	30000
+谈恋爱	yyep	30020
+车友	lgdc	30020
+好点儿	vhqt	30000
+好点	vbhk	30020
+面食	dmwy	30000
+财宝	mfpg	30000
+奥特曼	ttjl	30020
+纸杯	xqsg	30020
+苹果醋	ajsg	30000
+苍蝇拍	ajrr	30000
+男主角	lyqe	30000
+女主角	vyqe	30020
+云图	fclt	30005
+可喜可贺	sfsl	30000
+诚不欺我	ygat	30000
+束口	gkkk	30020
+清漆	igis	30000
+分瓶	wvua	30000
+爆词	ojyn	30000
+水泥地	iifb	30020
+表显	gejo	30000
+树洞	scim	30000
+汽修	irwh	30000
+木床	ssys	30000
+践行	khtf	30029
+炸裂	otgq	30020
+飞机杯	nssg	30000
+负显	qmjo	30000
+逆天	ubgd	30000
+地形图	fglt	30020
+收件人	nwww	30000
+iPadPro	ipad	30019
+远焦	fqwy	30019
+灯牌	osth	30000
+回款	lkff	30020
+前照灯	ujos	30000
+文档云	ysfc	30009
+奇奇怪怪	ddnn	30009
+内镜	mwqu	30000
+卡挡	hhri	30000
+AirTag	airt	30000
+ABS	abs	30000
+AGV	agv	30020
+Wikipedia	wiki	30000
+Wiki	wiki	30000
+Apple Watch	appl	30000
+iCloud	iclo	30000
+Pro	pro	30020
+Max	max	30020
+Plus	plu	30020
+Plus	plus	30020
+头型	udga	30020
+湿滑	ijim	30020
+美音	uguj	30009
+截机	fasm	30020
+打赏	rsip	30000
+碎屏	dynu	30020
+疯跑	umkh	30000
+潘多拉	iqru	30000
+心结	nyxf	30020
+憋死	umgq	30020
+天人两隔	gwgb	30020
+心存	nydh	30009
+愁死	togq	30020
+相当于	sigf	30000
+宅家	ptpe	30020
+示廓灯	fyos	30020
+外镜	qhqu	30020
+换挡	rqri	30000
+GoPro	gopr	30020
+乱葬冢	tape	30020
+静置	gelf	30020
+声呐	fnkm	30020
+github	git	30000
+github	gith	30000
+个性化	wnwx	30020
+清码	igdc	30010
+调头	ymud	30020
+电镐	jnqy	30000
+候选框	wtsa	30000
+磨片	ysth	30020
+ETC	etc	30000
+PhotoShop	ps	30000
+借过	wafp	30020
+悉知	totd	30000
+不拘小节	gria	30020
+影厅	jyds	30000
+垃圾场	fffn	30019
+十月一	fegg	30020
+看完	rhpf	30020
+花海	awit	30000
+摩博会	yfwf	30020
+千牛	tfrh	30000
+回购	lkmq	30020
+炸毛	ottf	30020
+内网	mwmq	30020
+自由落体	tmaw	30000
+钻头	qhud	30020
+单缸	ujrm	30000
+双缸	ccrm	30000
+猎杀	qtqs	30020
+尿点	nihk	30020
+坏笑	fgtt	30020
+进气	fjrn	30000
+嗅盐	ktfh	30035
+旱厕	jfdm	30000
+USB-C	usb	30000
+USB	usb	30020
+实话说	pyyu	30000
+无以言表	fnyg	30000
+防空警报	bpar	30000
+八爪鱼	wrqg	30000
+朗姆酒	yvis	30020
+搔首弄姿	rugu	30000
+准驾	uwlk	30000
+完完全全	ppww	30000
+牛肉干	rmfg	30020
+砂轮片	dlth	30000
+受得了	etbn	30020
+录音笔	vutt	30020
+讲价	yfww	30030
+骨传导	mwnf	30020
+增驾	fulk	30000
+恶补	gopu	30020
+黑色素	lqgx	30020
+备用机	tesm	30000
+握持	rnrf	30000
+淤青	iyge	30000
+带货	gkwx	30000
+返佣	rcwe	30000
+C-C	cc	30000
+悬赏带货	eigw	30000
+置物	lftr	30000
+礼盒	pywg	30020
+座充	ywyc	30040
+WiFi	wifi	30000
+安安静静	ppgg	30000
+MagSafe	mag	30000
+MagSafe	mags	30000
+返厂	rcdg	30000
+燃气灶	orof	30000
+得亏	tjfn	30020
+燃油车	oilg	30000
+德克士	tdfg	30040
+暖气费	jrxj	30040
+无事	fqgk	30015
+有可能	dsce	30000
+iMessage	imes	30000
+闲来	usgo	30015
+闲来无事	ugfg	30030
+树莓	scat	30000
+树莓派	sair	30000
+增速	fugk	30000
+测速	imgk	30000
+钉子户	qbyn	30000
+樟子松	sbsw	30000
+凡尔赛	mqpf	30000
+董监高	ajym	30000
+西安事变	spgy	30000
+越来越多	fgfq	30000
+续命	xfwg	30000
+奈斯	dfad	30000
+大宝	ddpg	30000
+脑残	eygq	30000
+没见过世面的样子	imfb	30000
+空气炸锅	proq	30000
+美工刀	uavn	30000
+秋裤	topu	30000
+转接头	lrud	30000
+奶思	veln	30000
+炸词	otyn	30000
+羊毛	udtf	30000
+进销存	fqdh	30000
+野路	jfkh	30000
+体感	wsdg	30000
+袭警	dxaq	30000
+UP主	upyg	30020
+一带一路	gggk	30000
+MacStudio	macs	30000
+刚刚好	mmvb	30020
+角标	qesf	30020
+如新	vkus	30000
+AppleCare	ac	30012
+房梁	yniv	30000
+算了	thbn	30020
+无码	fqdc	30000
+GPS	gps	30000
+Apple Watch	apw	30009
+iMac	imac	30020
+MacMini	macm	30000
+凑热闹	uruy	30020
+交通工具	ucah	30000
+吃瓜	ktrc	30000
+静息	geth	30000
+私生子	ttbb	30000
+来来来	gggo	30020
+新家	uspe	30012
+Android	andr	30000
+AndroidStudio	andr	30000
+APK	apk	30009
+之多	ppqq	30000
+之少	ppit	30000
+apk	apk	30008
+挡风遮雨	rmyf	30000
+遮风挡雨	ymrf	30000
+直说	fhyu	30020
+泪点	ihhk	30020
+emoji	emo	30000
+emoji	emoj	30000
+加沙	lkii	30020
+甚少	adit	30000
+甚多	adqq	30000
+法器	ifkk	30000
+街车	tflg	30000
+挂挡	rfri	30000
+亮堂堂	yiip	30000
+前胎	ueec	30000
+后胎	rgec	30000
+付款码	wfdc	30020
+收款码	nfdc	30020
+赛博	pffg	30020
+普票	uosf	30020
+专票	fnsf	30020
+隆菲尔	baqi	30020
+贝肯特	mhtr	30005
+DIDO	dido	30000
+云平台	fgck	30000
+八门神器	wupk	30000
+杯垫	sgrv	30000
+意想不到	usgg	30020
+挺有	rtde	30020
+膈应	egyi	30000
+食草	wyaj	30000
+折耳根	rbsv	30000
+没钱	imqg	30020
+块钱	fnqg	30020
+抖空竹	rptt	30000
+空竹	pwtt	30000
+刷到	nmgc	30000
+拉不拉多	rgrq	30000
+洛基	itad	30000
+挡风被	rmpu	30000
+逮虾户	vjyn	30000
+两室一厅	gpgd	30000
+自造词	ttyn	30000
+无从考究	fwfp	30020
+叉号	cykg	30000
+日有所思	jdrl	30000
+夜有所梦	ydrs	30000
+日有所思，夜有所梦	jdrs	30000
+打你	rswq	30000
+别客气	kprn	30000
+行政复议	tgty	30005
+最毒	jbgx	30000
+紧接着	jrud	30000
+两声	gmfn	30000
+进气口	frkk	30000
+进气孔	frbn	30000
+排气孔	rrbn	30000
+快捷指令	nrrw	30000
+金鸡奖	qcuq	30000
+内衬	mwpu	30000
+硬核	dgsy	30030
+年味	rhkf	30020
+烤红薯	oxal	30000
+Honda	hond	30000
+嘶吼	kakb	30000
+雪圈	fvlu	30000
+添衣	igye	30000
+长毛	tatf	30000
+子非鱼	bdqg	30020
+bilibili	bili	30020
+帮你	dtwq	30020
+氧气管	rrtp	30000
+请讲	ygyf	30040
+外链	qhql	30000
+挂绳	rfxk	30000
+毫不相关	ygsu	30000
+口鼻	kkth	30012
+地暖	fbje	30020
+网约车	mxlg	30020
+碎碎平安	ddgp	30020
+尾椎	ntsw	30020
+劫机	fcsm	30005
+包养	qnud	30012
+皮燕子	habb	30000
+归属感	jndg	30020
+山贼	mmma	30020
+挺香	rttj	30020
+包夜	qnyw	30020
+帮抢	dtrw	30020
+划走	ajfh	30020
+午觉	tfip	30005
+不服不行	gegt	30020
+异地恋	nfyo	30020
+凉白开	urga	30020
+全尸	wgnn	30025
+溜冰场	iufn	30025
+脑脊液	eiiy	30000
+三无	dgfq	30020
+空行	pwtf	30012
+刚需	mqfd	30000
+咔咔	khkh	30025
+拦截器	rfkk	30000
+德行	tftf	30035
+大贸	ddqy	30020
+济郑	iyud	30000
+济郑高铁	iuyq	30000
+GPU	gpu	30020
+CPU	cpu	30020
+神通	pyce	30020
+心眼子	nhbb	30020
+大动脉	dfey	30020
+天降正义	gbgy	30020
+准新	uwus	30020
+云闪付	fuwf	30020
+雨加雪	flfv	30020
+准新车	uulg	30020
+倍焦	wuwy	30000
+物联	trbu	30000
+api	API	30000
+数字钱包	opqq	30000
+饼状图	qult	30000
+数字人民币	opwt	30000
+积碳	tkdm	30000
+年终奖	rxuq	30000
+拆了东墙补西墙	rbaf	30000
+网贷	mqwa	30000
+国际化	lbwx	30000
+紧致	jcgc	30000
+阶乘	bwtu	30020
+FlipperZero	flip	30000
+Flipper	flip	30000
+家门口	pukk	30020
+逛逛	qtqt	30020
+看出来	rbgo	30020
+脱敏	eutx	30020
+白狐	白狐	30005
+吕子乔	kbtd	30020
+单身狗	utqt	30020
+学学	ipip	30020
+非诚勿扰	dyqr	30020
+脑回路	elkh	30020
+小狗	ihqt	30030
+一本	ggsg	30020
+拼单	ruuj	30010
+结构体	xsws	30000
+磕磕碰碰	dddd	30025
+广发	yynt	30005
+倍率	wuyx	30005
+单片机	utsm	30020
+干鸟	fgqy	30000
+跨年	khrh	30025
+隔夜菜	byae	30000
+致深	gcip	30000
+青青子衿	ggbp	30000
+青青子衿，悠悠我心	ggbp	30000
+聋哑人	dkww	30000
+感染力	dilt	30000
+西蓝花	saaw	30010
+土豆丝	fgxx	30010
+蒜苔	afac	30020
+蒜苗	afal	30020
+撞衫	rupu	30000
+创作者	wwft	30015
+跑酷	khsg	30050
+拿破仑	wdwx	30000
+载具	fahw	30000
+好骑	vbcd	30000
+墨水屏	linu	30000
+后盖	rgug	30020
+后壳	rgfp	30020
+维保	xwwk	30030
+稀奇古怪	tddn	30019
+观战	cmhk	30000
+老登	ftwg	30000
+直尺	fhny	30000
+里外	jfqh	30000
+钢化膜	qwea	30000
+毁天灭地	eggf	30000
+梦醒	sssg	30000
+字序	pbyc	30000
+先到先得	tgtt	30020
+软链接	lqru	30025
+一回生	gltg	30000
+二回熟	flyb	30000
+IT	it	30005
+点餐	hkhq	30020
+二合一	fwgg	30020
+四合一	lwgg	30020
+三合一	dwgg	30020
+花袄	awpu	30020
+二哥	fgsk	30020
+回关	lkud	30015
+互关	gxud	30020
+宝子	pgbb	30015
+宝子们	pbwu	30015
+进群	fjvt	30000
+停运	wyfc	30020
+共享单车	ayul	30020
+裤裆	pupu	30020
+文艺复兴	yati	30020
+写错	pgqa	30020
+德华	tfwx	30000
+懂哥	nask	30000
+小拇指	irrx	30000
+调校	ymsu	30000
+老爽	ftdq	30000
+原来如此	dgvh	30000
+键面	qvdm	30000
+双面胶	cdeu	30000
+把件儿	rwqt	30000
+把件	rcwr	30000
+新买	usnu	30000
+三件套	dwdd	30000
+小浪底	iiyq	30000
+金士顿	qfgb	30000
+冲锋衣	uqye	30000
+孰轻孰重	ylyt	30020
+小年	ihrh	30020
+车重	lgtg	30020
+铝坨坨	qffp	30020
+闹别扭	ukrn	30020
+暖气片	jrth	30020
+对你	cfwq	30020
+对我	cftr	30020
+对他	cfwb	30020
+对她	cfvb	30020
+游标卡尺	ishn	30020
+补铁	puqr	30000
+爆表	ojge	30020
+定速巡航	pgvt	30000
+尾流	ntiy	30020
+锐度	quya	30020
+看剧	rhnd	30000
+快进	nnfj	30000
+快退	nnve	30000
+⌫	cosc	10000
+⏎	cohc	10000
+文件管理器	ywtk	30000
+亮屏	ypnu	30000
+BlackBerry	bb	30005
+FM	fm	30005
+扬声器	rfkk	30020
+黑丝	lfxx	30000
+唬人	khww	30015
+共情	awng	30020
+海盗船	iute	30000
+助记	egyn	30020
+⎵	pwst	10010
+师出同门	jbmu	30000
+卧牛山	armm	30000
+单行道	utut	30030
+现学现卖	gigf	30015
+掌机	ipsm	30000
+低功耗	wadi	30020
+双模	ccsa	30000
+等不及了	tgeb	30000
+排线	rdxg	30020
+王炸	ggot	30000
+用户组	eyxe	30000
+bluetooth	bt	30015
+Google	goo	30020
+Google	goog	30020
+无人能敌	fwct	30000
+泡泡云	iifc	30000
+地瓜干	frfg	30000
+段位	wdwu	30015
+复用	tjet	30000
+取用	bcet	30000
+HDMI	hdm	30000
+HDMI	hdmi	30000
+一股脑	geey	30000
+第一人称	tgwt	30012
+第三人称	tdwt	30000
+解绑	qexd	30000
+子网掩码	bmrd	30000
+摆件	rlwr	30000
+除冰	bwui	30000
+新生儿	utqt	30010
+夏雨荷	dfaw	30000
+Swift	swif	30000
+SwiftUI	swif	30000
+偷税漏税	wtit	30000
+博眼球	fhgf	30000
+货拉拉	wrru	30000
+小浪底水库	iiyy	30000
+毛绒	tfxa	30000
+遛弯儿	qyqt	30020
+踏春	khdw	30020
+横纵比	sxxx	30000
+水豚	iiee	30000
+蹭流量	kijg	30000
+没必要	insv	30000
+动不动	fgfc	30000
+后槽牙	rsah	30000
+百思不得其解	dlgq	30000
+本地化	sfwx	30020
+莓粉	atow	30000
+相比之下	sxpg	30000
+脚指	efrx	30000
+内六	mwuy	30020
+像极	wqse	30000
+慢动作	nfwt	30020
+老丈人	fdww	30030
+娘炮	vyoq	30030
+爬楼	rhso	30000
+挺大	rtdd	30020
+原路返回	dkrl	30000
+强身健体	xtww	30020
+倒垃圾	wffe	30000
+车内	lgmw	30015
+夏初	dhpu	30000
+野山	jfmm	30000
+自建房	tvyn	30000
+测距仪	ikwy	30000
+叫停	knwy	30035
+全键盘	wqte	30025
+可不可以	sgsn	30020
+时间线	juxg	30020
+小脑	ihey	30020
+过山车	fmlg	30020
+单人床	uwys	30020
+短视频	tphi	30000
+电子表	jbge	30000
+CAD	cad	30000
+值当	wfiv	30000
+晒水袋	jiwa	30000
+忙慌	nyna	30015
+着急忙慌	uqnn	30015
+刺挠	gmra	30000
+除噪	bwkk	30020
+顶格	sdst	30000
+族谱	ytyu	30000
+灵魂出窍	vfbp	30020
+穿越机	pfsm	30000
+呆萌	ksaj	30000
+勒芒	afay	30000
+总览	ukjt	30000
+BRZ	brz	30000
+老毛桃	ftsi	30000
+未读	fiyf	30020
+已读	nnyf	30020
+折返	rrrc	30020
+搞不懂	rgna	30000
+老是	ftjg	30000
+白叫	rrkn	30020
+十月怀胎	fene	30020
+肘子	efbb	30020
+电饼铛	jqqi	30000
+倒放	wgyt	30000
+补帧	pumh	30000
+回看	lkrh	30020
+街巷	tfaw	30020
+刷碗	nmdp	30000
+大图	ddlt	30020
+掉渣饼	riqn	30015
+雅黑	ahlf	30000
+续期	xfad	30000
+豆浆机	gusm	30000
+开胶	gaeu	30020
+天梯图	gslt	30000
+人保	wwwk	30000
+闪屏	uwnu	30000
+阅读器	uykk	30000
+轨迹球	lygf	30030
+菌群	alvt	30030
+标配	sfsg	30000
+线稿	xgty	30000
+线框	xgsa	30000
+高数	ymov	30000
+常伴	ipwu	30000
+色彩平衡	qegt	30000
+色阶	qcbw	30000
+恩雅	ldah	30000
+班得瑞	gtgm	30000
+电蚊拍	jjrr	30000
+剁手	msrt	30000
+入坑	tyfy	30000
+入局	tynn	30000
+PDF	pdf	30000
+闪迪	uwmp	30000
+走走	fhfh	30020
+把子肉	rbmw	30020
+开箱	gats	30000
+童话镇	uyqf	30000
+不得不说	gtgy	30020
+登月	wgee	30020
+Adobe	adob	30020
+瀑布流	idiy	30030
+小姑父	ivwq	30000
+脑梗	eysg	30000
+取票	bcsf	30020
+再议	gmyy	30020
+肩带	yngk	30020
+环形山	ggmm	30020
+数字尾巴	opnc	30000
+墨刀	lfvn	30000
+个例	whwg	30020
+歌单	skuj	30020
+光华大道	iwdu	30000
+表情包	gnqn	30000
+免签	qktw	30000
+院区	bpaq	30000
+凸起	hgfh	30030
+灯珠	osgr	30000
+安防	pvby	30000
+无边记	flyn	30020
+选择困难症	trlu	30020
+借还	wagi	30020
+已出	nnbm	30000
+驴唇不对马嘴	cdgk	30020
+洗面奶	idve	30000
+黑不溜秋	lgit	30020
+平衡车	gtlg	30020
+盲道	ynut	30000
+折纸	rrxq	30000
+氢气	rnrn	30025
+干锅	fgqk	30000
+万险	dnbw	30000
+千险	tfbw	30000
+划动	ajfc	30020
+续租	xfte	30000
+蹊跷	khkh	30025
+永无	ynfq	30005
+伤情	wtng	30020
+金刚狼	qmqt	30020
+迭代	rwwa	30020
+中国人	klww	30000
+赢了	ynbn	30005
+圆心	lkny	30020
+追兵	wnrg	30005
+两截	gmfa	30000
+测点	imhk	30000
+CCTV	cctv	30000
+过过瘾	ffub	30000
+辅助线	lexg	30000
+速干	gkfg	30020
+参考线	cfxg	30020
+蛋仔	nhwb	30000
+团圆饭	llqn	30000
+减速慢行	ugnt	30000
+指套	rxdd	30000
+甘蓝菜	aaae	30000
+刺鼻	gmth	30020
+汗液	ifiy	30045
+出息	bmth	30015
+抱死	rqgq	30020
+MiyooA30	miyo	30000
+缓动	xefc	30015
+幸福感	fpdg	30000
+大美女	duvv	30000
+死要面子活爱罪	gsdl	30000
+残影	gqjy	30000
+期朌	adew	30000
+侧脸	wmew	30000
+偏食	wywy	30055
+遮光罩	yilh	30000
+奇了怪了	dbnb	30000
+站酷	uhsg	30000
+虫洞	jhim	30000
+久病成医	quda	30030
+度蜜月	ypee	30000
+任一	wtgg	30020
+转继	lfxo	30000
+察颜观色	pucq	30000
+不明觉厉	gjid	30000
+占有欲	hdww	30000
+事已至此	gngh	30000
+糟心	ogny	30000
+许愿池	ydib	30000
+包租婆	qtih	30015
+奇痒无比	dufx	30000
+波特率	ityx	30000
+磨砂	ysdi	30020
+彩蛋	esnh	30020
+AI	ai	30000
+家暴	peja	30000
+学到	ipgc	30020
+瞧瞧	hwhw	30020
+噢哟	ktkx	30000
+哦哟	ktkx	30000
+奖池	uqib	30000
+灵动岛	vfqy	30020
+遥墙	erff	30020
+遥墙机场	efsf	30020
+匝道	amut	30020
+爸妈	wqvc	30020
+武大郎	gdyv	30020
+人贬子	wmbb	30000
+先天性	tgnt	30000
+一眼万年	ghdr	30000
+社恐	pyam	30000
+工位	aawu	30000
+佛头	wxud	30000
+白噪音	rkuj	30000
+有图有真相	dlds	30000
+狗头	qtud	30025
+换程	rqtk	30000
+口嗨	kkki	30020
+抠搜	rarv	30020
+高光	ymiq	30020
+沙棘	iigm	30020
+大一	ddgg	30030
+大二	ddfg	30015
+大三	dddg	30030
+咪咪	koko	30020
+优衣酷	wysg	30020
+学前班	iugy	30020
+好长	vbta	30020
+龙葵	dxaw	30000
+一串	ggkk	30020
+弟弟妹妹	uuvv	30020
+仙人掌	wwip	30030
+离家出走	ypbf	30000
+远房	fqyn	30015
+溏沽	iyid	30005
+足金	khqq	30020
+下播	ghrt	30005
+备机	tlsm	30000
+涂装	iwuf	30000
+谢尔比	yqxx	30000
+金价	qqww	30000
+悄悄话	nnyt	30000
+领养	wyud	30025
+福利院	ptbp	30025
+指手画脚	rrge	30025
+一文不值	gygw	30025
+房贷	ynwa	30025
+里屋	jfng	30000
+解闷	qeun	30005
+抠鼻	rath	30020
+呲牙	khah	30050
+优衣库	wyyl	30005
+下垂	ghtg	30005
+改签	nttw	30020
+房费	ynxj	30020
+行李箱	tsts	30020
+鼻毛	thtf	30005
+脖套	efdd	30020
+酱香饼	utqn	30000
+桔黄	sfam	30020
+领口	wykk	30005
+哪张	kvxt	30000
+爱爱	epep	30000
+壁咚	nkkt	30000
+有意思	duln	30000
+叹号	kckg	30020
+顺滑	kdim	30020
+锈迹斑斑	qygg	30020
+锈迹	qtyo	30015
+组态	xedy	30000
+坐地起价	wffw	30020
+发饰	vqn	30000
+自重力	ttlt	30020
+贱兮兮	mwwg	30015
+声光报警	fira	30015
+导电胶	njeu	30000
+端茶送水	uaui	30000
+氧传感器	rwdk	30000
+打金店	rqyh	30000
+打金	rsqq	30000
+金玉满堂	qgii	30020
+银价	qvww	30020
+噪点	kkhk	30020
+铂金	qrqq	30020
+钯金	qcqq	30020
+宾利	prtj	30020
+睡觉觉	hiip	30020
+撒狗粮	rqoy	30020
+耐造	dmtf	30020
+乖乖	tftf	30045
+拼多多	rqqq	30000
+等不及	tgey	30020
+临额	jtpt	30000
+老不死	fggq	30015
+捂嘴	rgkh	30015
+山航	mmte	30000
+刮刮乐	ttqi	30020
+停车费	wlxj	30000
+征信	tgwy	30000
+与此同时	ghmj	30015
+限免	bvqk	30000
+扭扭捏捏	rrrr	30012
+辣条	ugts	30000
+霸凌	fauf	30000
+校园霸凌	slfu	30000
+空滤	pwih	30000
+豆包	gkqn	30020
+头孢	udbq	30000
+散点图	ahlt	30000
+散点	aehk	30020
+发信息	nwth	30000
+大观园	dclf	30020
+几家	mtpe	30020
+圣诞老人	cyfw	30020
+蹲起	khfh	30025
+攒钱	rtqg	30000
+播放列表	rygg	30030
+套壳	ddfp	30020
+代付	wawf	30000
+亲情卡	unhh	30020
+荆轲刺秦	algd	30000
+喜马拉雅	fcra	30000
+碳钢	dmqm	30000
+水果刀	ijvn	30030
+腰椎间盘	esut	30000
+腰间盘	eute	30000
+背刺	uxgm	30000
+谈婚论嫁	yvyv	30020
+布洛芬	diaw	30020
+封禁	ffss	30000
+习近平	nrgu	30000
+原厂	drdg	30020
+牛血	rhtl	30000
+人畜无害	wyfp	30020
+亲力亲为	uluy	30020
+人潮人海	wiwi	30000
+金手指	qrrx	30000
+窜天猴	pgqt	30000
+例句	wgqk	30015
+地库	fbyl	30000
+追焦	wnwy	30020
+横版	sath	30015
+声浪	fniy	30000
+颗粒度	joya	30000
+白加黑	rllf	30000
+除胶剂	beyj	30000
+此话怎讲	hyty	30000
+起泡酒	fiis	30000
+医美	atug	30020
+渐入佳境	itwf	30015
+桥洞	stim	30020
+辅食	lgwy	30020
+阿尔茨海默病	bqau	30000
+格洛克	sidq	30000
+飞拉达	nrdp	30000
+街角	tfqe	30020
+从业者	woft	30020
+甘青大环线	agdx	30000
+甘青	afge	30000
+气瓶	rnua	30020
+全冰	wgui	30020
+全冰凉	wuuy	30020
+第一视角	tgpq	30000
+防晒衣	bjye	30000
+初速	pugk	30000
+水电气暖	ijrj	30000
+气暖	rnje	30000
+氰化物	rwtr	30000
+富含	pgwy	30000
+维C	xwc	30000
+核辐射	sltm	30000
+击碎	fmdy	30020
+USB-C	usbc	30000
+涵道	ibut	30000
+花痴	awut	30040
+手把件	rrwr	30040
+国密	lgpn	30040
+盲猜	ynqt	30020
+民宿	napw	30000
+忽隐忽现	qbqg	30020
+美甲	uglh	30020
+必胜客	nept	30020
+肉夹馍	mgqn	30020
+驴肉	cymw	30000
+击杀	fmqs	30000
+巴雷特	cftr	30000
+单兵	ujrg	30020
+慌慌忙忙	nnnn	30030
+副卡	gkhh	30020
+主副卡	yghh	30020
+代驾	walk	30020
+鬼门关	ruud	30000
+排气管	rrtp	30000
+启停	ynwy	30035
+微焦	tmwy	30000
+生料带	togk	30000
+沪上阿姨	ihbv	30000
+蛋黄派	nair	30020
+拓扑图	rrlt	30000
+哗哗	kwkw	30000
+紫外	hxqh	30000
+肉鸽	mwwg	30000
+蒸面	abdm	30000
+柚子	smbb	30020
+天差地别	gufk	30000
+违和感	ftdg	30025
+结结实实	xxpp	30000
+服务端	etum	30000
+挖耳勺	rbqy	30000
+复合弓	twxn	30000
+锅包肉	qqmw	30000
+回锅肉	lqmw	30000
+RFID	rfid	30000
+磨皮	yshc	30000
+糖葫芦	oaay	30020
+吨吨桶	kksc	30020
+灵动	vofc	30000
+干脆面	fedm	30000
+老胖	fteu	30000
+油壶	imfp	30000
+代金券	wqud	30000
+拖影	rtjy	30000
+二氧化硫	frwd	30000
+谷雨	wwfg	30000
+兔笼	qktd	30020
+泛光	itiq	30020
+一分一秒	gwgt	30020
+坎德拉	ftru	30000
+氚管	rntp	30000
+微弧	tmxr	30000
+海底捞	iyra	30000
+珍珠棉	ggsr	30020
+主人	ygww	30015
+愁云密布	tfpd	30020
+枝桠	sfsg	30005
+微动	tmfc	30000
+断触	onqe	30000
+隔挡	bgri	30005
+音轨	ujlv	30020
+一惊一乍	gngt	30020
+打铁花	rqaw	30000
+大概率	dsyx	30000
+打野	rsjf	30020
+密保	pnwk	30000
+遥控车	erlg	30000
+刮擦	tdrp	30020
+卡死	hhgq	30020
+领用	wyet	30000
+可视化	spwx	30030
+戒断	aaon	30030
+跳帧	khmh	30025
+千问	tfuk	30025
+弹珠	xugr	30000
+牛头	rhud	30000
+母鸡汤	xcin	30000
+半衰期	uyad	30000
+狩猎	qtqt	30000
+推重比	rtxx	30000
+领夹麦	wggt	30000
+领夹	wygu	30000
+自适应	ttyi	30000
+弹起	xufh	30000
+口腔溃疡	keiu	30000
+曲源	maid	30018
+悬窗	egpw	30000
+HiFi	hif	30020
+HiFi	hifi	30020
+舟车劳累	tlal	30000
+舟车	telg	30000
+挂耳	rfbg	30000
+乐库	qiyl	30000
+比特率	xtyx	30000
+版本号	tskg	30000
+平齐	guyj	30000
+减速带	uggk	30020
+懂车帝	nlup	30000
+阿里云盘	bjft	30000
+百度云	dyfc	30000
+百度网盘	dymt	30000
+欧路	aqkh	30000
+点音	hkuj	30000
+下厨房	gdyn	30100
+标题日记	sjjy	30000
+JetBrains	jetb	30010
+PyCharm	pych	30010
+滴嗒	iuka	30000
+WebStorm	webs	30000
+青藤之恋	gapy	30020
+青藤	geae	30000
+美特斯邦威	utad	30000
+薛记炒货	ayow	30000
+泰迅	dwnf	30000
+五菱	ggaf	30000
+小鹏汽车	ieil	30000
+小鹏	ihee	30000
+江小白	iirr	30000
+果唯依	jkwy	30000
+凯迪拉克	mmrd	30000
+迪卡侬	mhwp	30000
+超意兴	fuiw	30000
+迈森兰	dsuf	30000
+恒源祥	nipy	30000
+赛羽	pfnn	30000
+捷酷	rgsg	30000
+海澜之家	iipp	30000
+海澜	itiu	30000
+千图	tflt	30000
+华莱士	wafg	30000
+舒尔	wfqi	30000
+维迈通	xdce	30000
+戴森	fass	30000
+格力	stlt	30000
+科大讯飞	tdyn	30000
+圣豪	cfyp	30000
+良品	yvkk	30000
+罗德	lqtf	30000
+满香都	itft	30000
+喜家德	fptf	30000
+徐志馍	tfqn	30000
+海康	ityv	30000
+安踏	pvkh	30100
+塔斯汀	fais	30000
+高驰	ymcb	30000
+Apex	apex	30000
+绿杰	xvso	30020
+高通	ymce	30000
+汉堡王	iwgg	30020
+杜卡迪	shmp	30000
+九牧王	vtgg	30000
+万科	dntu	30000
+鱼跃	qgkh	30000
+薛记	awyn	30030
+沁牧园	itlf	30000
+丹尼斯	mnad	30020
+贝尔金	mqqq	30000
+华强北	wxux	30020
+两面针	gdqf	30000
+安慕希	paqd	30000
+拓竹	rdtt	30015
+Ulanzi	ulan	30000
+钱江	qgia	30020
+卡赫	hhfo	30000
+赛腾	pfeu	30020
+云腾	fceu	30000
+斯莫格	aast	30000
+玛赤佩	gfwm	30020
+斯缇诗	axyf	30020
+喵喵机	kksm	30000
+无印良品	fqyk	30010
+炫迈	oydn	30000
+牧田	trll	30000
+纽曼	xnjl	30000
+清华紫光	iwhi	30005
+老蛙	ftjf	30020
+鹿岛	ynqy	30000
+锐孚	queb	30000
+雷明兔	fjqk	30020
+奈特科尔	dttq	30000
+山岛	mmqy	30000
+贝斯博尔	mafq	30000
+百诚	djyd	30000
+南旗	fmyt	30000
+杰士邦	sfdt	30000
+布鲁克斯	dqda	30000
+固特异	ltna	30000
+乐图	qilt	30018
+森海塞尔	sipq	30000
+孙家庄	bpyf	30000
+马家	cnpe	30000
+马家小区	cpia	30000
+台儿庄	cqyf	30000
+雪野湖	fjid	30000
+蟠龙山	jdmm	30000
+果庄	jsyf	30000
+泉城广场	rfyf	30000
+领秀城	wtfd	30000
+槐荫区	saaq	30000	370104
+济宁	iyps	30000
+章丘	ujrg	30000
+白洋淀	riip	30100
+容城	pwfd	30100
+文苑北庭	yauy	30100
+环联夜市	gbyy	30000
+果庄乡	jyxt	30000
+下屯村	ggsf	30000
+大坪坝	dffm	30020
+沙坪坝	iffm	30020
+鸿恩寺	ilff	30020
+渝北	iwux	30020
+唐冶	yvuc	30000
+洪崖洞	imim	30020
+福来士	pgfg	30020
+博山	fgmm	30020
+灵岩寺	vmff	30000
+直肠癌	feuk	30000
+肛痿炎	euoo	30000
+肝硬化	edwx	30000
+褥疮	puuw	30000
+窦道	pwut	30000
+复方角菜酸脂软膏	tyqy	30000
+安乃近	perp	30000
+腰椎间盘突出	esub	30000
+微创	tmwb	30000
+吊瓶	kmua	30000
+肛痿	eaut	30000
+打点滴	rhiu	30000
+心梗	nysg	30000
+肛周	eamf	30000
+肛周炎	emoo	30000
+肛瘘	eauo	30020
+幽门螺旋杆菌	xuja	30000
+静脉曲张	gemx	30000
+曲张	maxt	30000
+渐冻症	iuug	30020
+优甲乐	wlqi	30000
+左甲状腺素钠片	dlut	30200
+糠酸莫米松鼻喷雾剂	osay	30000
+🐶	qtqk	10000	狗
+🐱	qtal	10000	猫
+🐭	vnu	10000	鼠
+🐠	qgf	10000	鱼
+🐯	ftha	10000	虎
+🦖	amdx	10000	恐龙
+🐞	jsjh	10000	螵虫
+🐙	ujqg	10000	章鱼
+🐔	wccq	10000	公鸡
+🦃	oocq	10000	火鸡
+🐑	xrud	10000	绵羊
+🐬	itee	10000	海豚
+🐘	ddqj	10000	大象
+🦎	nkha	10000	壁虎
+🦌	ynj	10000	鹿
+🐵	qtbb	10000	猴子
+🐺	qty	10000	狼
+🦉	quyw	10000	猫头鹰
+🐳	qgqg	10000	鲸鱼
+🐛	ttjh	10000	毛毛虫
+🐜	jcjy	10000	蚂蚁
+🦇	jyjg	10000	蝙蝠
+🦕	amdx	10000	恐龙
+🦒	tcyn	10000	长颈鹿
+🕸	jjmq	10000	蜘蛛网
+🦜	mmga	10000	鹦鹉
+🐤	ihcq	10000	小鸡
+🐡	isee	10000	河豚
+🦞	dxjg	10000	龙虾
+🦘	wavn	10000	袋鼠
+🦙	udcp	10000	羊驼
+🐪	ctcp	10000	骆驼
+🦐	jghy	10000	虾
+🐊	qgqg	10000	鳄鱼
+🐲	dxn	10000	龙
+🦓	gycn	10000	斑马
+🦏	iscn	10000	河马
+🦑	qnma	10000	乌贼
+🦂	jjbb	10000	蝎子
+🦛	iscn	10000	河马
+🐏	xrud	10000	绵羊
+🦈	iiqg	10000	鲨鱼
+🦭	itee	10000	海豹
+🐉	dxn	10000	龙
+🦬	rhk	10000	牛
+🦫	vnu	10000	鼠
+🦩	mspt	10000	丹顶鹤
+🦧	qtqt	10000	猩猩
+🐆	eeqy	10000	豹
+🦚	bniw	10000	孔雀
+🐻‍❄️	ceqt	30000	熊猫
+🦢	trng	10000	鹅
+🐋	qgqg	10000	鲸鱼
+🦦	scng	10000	树懒
+🐈‍⬛	qtal	30000	猫
+🐚	itjl	10000	海螺
+🏇🏻	pfnc	30000	赛马
+🐢	qnqj	10000	乌龟
+🦆	lqbb	10000	鸭子
+🕊	wgbb	10000	鸽子
+🦍	qtqt	10000	猩猩
+🐐	mmud	10000	山羊
+🦄	qqul	10000	独角兽
+🦋	jdja	10000	蝴蝶
+🐄	verh	10000	奶牛
+🐮	rhk	10000	牛
+🐕‍🦺	nydg	30000	导盲犬
+🦮	qtqk	10000	狗
+🐕	qtqk	10000	狗
+🐹	vnu	10000	鼠
+🐽	qtfj	10000	猪
+🐷	qtfj	10000	猪
+🙈	rddm	10000	掩面
+🦔	gmqt	10000	刺猬
+🍏	agjs	10000	苹果
+🍎	agjs	10000	苹果
+🍐	tjs	10000	梨
+🍊	swbb	10000	橙子
+🍋	spsa	10000	柠檬
+🍌	tjaw	10000	香蕉
+🍇	aqaq	10000	葡萄
+🍓	ajat	10000	草莓
+🫐	ajat	10000	蓝莓
+🍈	kprc	10000	哈密瓜
+🍒	smsi	10000	樱桃
+🍑	sibb	10000	桃子
+🥭	ayjs	10000	芒果
+🍍	aial	10000	菠萝
+🥥	sbbb	10000	椰子
+🥝	qqsi	10000	猕猴桃
+🍆	albb	10000	茄子
+🥑	rijs	10000	牛油果
+🥦	suaw	10000	西兰花
+🥬	imae	10000	油菜
+🥒	amrc	10000	黄瓜
+🌶	ugsh	10000	辣椒
+🫑	aesu	10000	菜椒
+🌽	gyoy	10000	玉米
+🥕	dahh	10000	胡萝卜
+🧄	ddaf	10000	大蒜
+🧅	iuaq	10000	洋葱
+🥔	ffgk	10000	土豆
+🍠	xaal	10000	红薯
+🥚	cqnh	10000	鸡蛋
+🍗	cqev	10000	鸡腿
+🍭	ssoy	10000	棒棒糖
+🥢	tnbb	10000	筷子
+🍺	kris	10000	啤酒
+🍻	kris	10000	啤酒
+🥂	kjis	10000	啤酒
+🥮	eeqn	10000	月饼
+⚽️	khgf	30000	足球
+🏀	tjgf	10000	篮球
+🏈	ssgf	10000	橄榄球
+⚾️	sdgf	30000	棒球
+🥎	sdgf	10000	棒球
+🎾	mqgf	10000	网球
+🏐	rdgf	10000	排球
+🏉	ssgf	10000	橄榄球
+🥏	nute	10000	飞盘
+🎱	ckgf	10000	台球
+🏓	rrgf	10000	乒乓球
+🏸	ntgf	10000	羽毛球
+⛳️	yqfw	30000	高尔夫
+🪁	mqtq	10000	风筝
+🤿	ifii	10000	潜水
+⛷	imfv	10000	滑雪
+🎿	imfv	10000	滑雪
+🏂	imfv	10000	滑雪
+🥌	uifp	10000	冰壶
+⛸	imui	10000	滑冰
+🛹	imsr	10000	滑板
+🥊	udfm	10000	拳击
+🥋	kuut	10000	跆拳道
+🎮	iyca	10000	游戏
+小汤山	iimm	30000
+火神山	opmm	30000
+雷神山	fpmm	30000
+汶川	iykt	30000
+N号房	nkyn	30000
+时空伴随者	jpwf	30000
+健康码	wydc	30000
+封控	ffrp	30000
+提灯定损	ropr	30000
+🙂	tmtt	10000	微笑
+🙃	tmtt	10000	微笑
+😆	ddtt	10000	大笑
+😂	ttkk	10000	笑哭
+🤣	ttkk	10000	笑哭
+🥰	ep	10000	爱
+🤩	kffg	10000	哇
+🥶	dndn	10000	尴尬
+🤗	tada	10000	tada
+👍	xk	10000	强
+😭	ddkk	10000	大哭
+🥳	ydpy	10000	庆祝
+😎	tdgk	10000	智囊
+😉	ryhv	10000	挤眼
+😊	skep	10000	可爱
+😏	klkl	10000	嘿嘿
+😝	kftd	10000	吐舌
+😛	kftd	10000	吐舌
+😋	vbkt	10000	好吃
+😚	usus	10000	亲亲
+😘	epwq	10000	爱你
+😗	usus	10000	亲亲
+😙	usus	10000	亲亲
+😤	tgrn	10000	生气
+😳	ks	10000	呆
+😡	tgrn	10000	生气
+🤬	kkww	10000	骂人
+🤫	khag	10000	嘘
+🤔	lnft	10000	思考
+😓	ifh	10000	汗
+🤮	tgug	10000	生病
+🤒	ntoa	10000	发烧
+🤧	thiu	10000	鼻涕
+👽	qjww	10000	外星人
+🤐	ufkh	10000	闭嘴
+🥱	kwqw	10000	哈欠
+😴	htip	10000	睡觉
+😪	htip	10000	睡觉
+💀	meme	10000	骷髅
+💩	ococ	10000	粑粑
+👻	rqc	10000	鬼
+😈	ahgo	10000	邪恶
+✌🏻	bbh	30000	耶
+✌🏻	yeah	30000	耶
+🤦🏻‍♂️	kdb	30000	呃
+🙏🏻	pypy	30000	祈祷
+⭐	ggjt	10000	五星
+刺客信条	gpwt	30100
+极品飞车	sknl	30000
+塞尔达	pqdp	30000
+英灵殿	avna	30000
+双人成行	cwdt	30000
+皇牌空战	rtph	30000
+超级玛丽	fxgg	30000
+球球大作战	ggdh	30000
+库乐队	yqbw	30000
+小小梦魇	iisd	30000
+俄罗斯方块	wlaf	30000
+双截龙	cfdx	30000
+忍者神龟	vfpq	30000
+兵蜂	rgjt	30020
+沙罗曼蛇	iljj	30020
+MiyooMini+	miyo	30000
+Miyoo	miyo	30000
+绝地求生	xfft	30005
+红警	xaaq	30020
+幻景	xnjy	30005
+Trimui Smart Pro	trim	30000
+Trimui Bricks	trim	30000
+TrimUI	trim	30020
+刺激战场	gihf	30000
+奥洛菲	tiad	30000
+欧莱雅	aaah	30000
+韩芬娜	favv	30000
+春纪	dwxn	30000
+碧思泉	glri	30000
+魅力可诗	rlsy	30000
+美肌颜	ueut	30000
+伪类	wyod	30000
+西数	sgov	30000
+外键	qhqv	30000
+数据源	orid	30000
+七牛云	arfc	30000
+闪退	uwve	30000
+axios	axio	30000
+保活	wkit	30000
+Capacitor	capa	30000
+bash	bash	30000
+vue	vue	30000
+Vue	vue	30002
+NPM	npm	30002
+uniapp	unia	30000
+AM	am	30000
+Kotlin	kot	30000
+ElementUI	elem	30000
+码流	dciy	30000
+天地图	gflt	30000
+通断	ceon	30000
+动环	fcgg	30000
+声光报警器	firk	30000
+声光	fniq	30000
+天诚	gdyd	30000
+列头柜	gusa	30000
+一体机	gwsm	30000
+风机	mqsm	30000
+恒湿机	nism	30000
+烟感	oldg	30000
+灯带	osgk	30000
+密集架	pwlk	30000
+机柜	smsa	30000
+音柱	ujsy	30000
+新风机	umsm	30000
+漏水绳	iixk	30000
+微模块	tsfn	30100
+逆变器	uykk	30000
+智图	tdlt	30000
+暖通	jece	30000
+姐们	vewu	30100
+爷们儿	wwqt	30000
+爷们	wqwu	30000
+姐们儿	vwqt	30000
+装逼	ufgk	30000
+✓	qctf	10000	勾选
+²	guyy	10000
+³	uuyy	10000
+角磨机	qysm	30000
+三角钢	dqqm	30020
+红砖	xadf	30000
+青砖	gedf	30000
+地漆	fbis	30000
+黄河文化博物馆群	aiyv	30000
+超然楼	fqso	30020
+李佳琦	swgd	30020
+陈一发	bgnt	30020
+董明珠	ajgr	30000
+王自如	gtvk	30000
+小沈阳	iibj	30000
+朱军	ripl	30020
+白岩松	rmsw	30005
+宋小宝	pipg	30005
+拜登	rdwg	30025
+郭德纲	ytxm	30000
+于谦	gfyu	30000
+岳云鹏	rfee	30000
+石岩	dgmd	30020
+雷军	flpl	30000
+周星驰	mjcb	30000
+刘亦菲	yyad	30000
+王朔	ggub	30000
+马思纯	clxg	30000
+哈里斯	kjad	30000
+定焦	pgwy	30000
+全画幅	wgmh	30014
+半画幅	ugmh	30020
+视景窗	pjpw	30000
+套机	ddsm	30000
+哈苏	kwal	30000
+自提	thrj	30020
+远焦	fqwg	30020
+冷靴	uwaf	30000
+热靴	rvaf	30015
+快拆	nnrr	30020
+柔光罩	cilh	30000
+三脚架	delk	30020
+柔光箱	cits	30020
+长焦	tawy	30000
+樊振东	srai	30000
+马龙	cndx	30000
+张继科	xxtu	30005
+王楚钦	gsqq	30005
+陈梦	bass	30005
+孙颖莎	bxai	30005
+许昕	ytjr	30005
+丁宁	sgps	30005
+朱雨玲	rfgw	30005
+张怡宁	xnps	30005
+刘国梁	yliv	30005
+孔令辉	bwiq	30005
+邓亚萍	cgai	30005
+全红婵	wxvu	30000
+二手房	fryn	30000
+蒸饺	abqn	30000
+米村拌饭	osrq	30000
+拌饭	ruqn	30020
+犟骨头	xmud	30020
+苦菊	adaq	30020
+沙拉酱	iruq	30020
+风味茄子	mkab	30000
+北京市市辖区	uyya	30000	110100
+东城区	afaq	30000	110101
+西城区	sfaq	30000	110102
+朝阳区	fbaq	30000	110105
+丰台区	dcaq	30000	110106
+石景山区	djma	30000	110107
+门头沟区	uuia	30000	110109
+房山区	ymaq	30000	110111
+通州区	cyaq	30000	110112
+顺义区	kyaq	30000	110113
+昌平区	jgaq	30000	110114
+大兴区	diaq	30000	110115
+怀柔区	ncaq	30000	110116
+平谷区	gwaq	30000	110117
+密云区	pfaq	30000	110118
+延庆区	tyaq	30000	110119
+天津市市辖区	giya	30000	120100
+和平区	tgaq	30000	120101
+河东区	iaaq	30000	120102
+河西区	isaq	30000	120103
+南开区	fgaq	30000	120104
+河北区	iuaq	30000	120105
+红桥区	xsaq	30000	120106
+东丽区	agaq	30000	120110
+西青区	sgaq	30000	120111
+津南区	ifaq	30000	120112
+北辰区	udaq	30000	120113
+武清区	giaq	30000	120114
+宝坻区	pfaq	30000	120115
+滨海新区	iiua	30000	120116
+宁河区	piaq	30000	120117
+静海区	giaq	30000	120118
+蓟州区	ayaq	30000	120119
+石家庄市	dpyy	30000	130100
+石家庄市市辖区	dpya	30000	130101
+长安区	tpaq	30000	130102
+桥西区	ssaq	30000	130104
+新华区	uwaq	30000	130105
+井陉矿区	fbda	30000	130107
+裕华区	pwaq	30000	130108
+藁城区	afaq	30000	130109
+鹿泉区	yraq	30000	130110
+栾城区	yfaq	30000	130111
+井陉县	fbeg	30000	130121
+正定县	gpeg	30000	130123
+行唐县	tyeg	30000	130125
+灵寿县	vdeg	30000	130126
+高邑县	ykeg	30000	130127
+深泽县	iieg	30000	130128
+赞皇县	treg	30000	130129
+无极县	fseg	30000	130130
+平山县	gmeg	30000	130131
+元氏县	fqeg	30000	130132
+赵县	fheg	30000	130133
+辛集市	uwym	30000	130181
+晋州市	gyym	30000	130183
+新乐市	uqym	30000	130184
+唐山市	ymym	30000	130200
+唐山市市辖区	ymya	30000	130201
+路南区	kfaq	30000	130202
+路北区	kuaq	30000	130203
+古冶区	duaq	30000	130204
+开平区	ggaq	30000	130205
+丰南区	dfaq	30000	130207
+丰润区	diaq	30000	130208
+曹妃甸区	gvqa	30000	130209
+滦州市	iyym	30000	130284
+滦南县	ifeg	30000	130224
+乐亭县	qyeg	30000	130225
+迁西县	tseg	30000	130227
+玉田县	gleg	30000	130229
+遵化市	uwym	30000	130281
+迁安市	tpym	30000	130283
+秦皇岛市	drqy	30000	130300
+秦皇岛市市辖区	drqa	30000	130301
+海港区	iiaq	30000	130302
+山海关区	miua	30000	130303
+北戴河区	ufia	30000	130304
+抚宁区	rpaq	30000	130306
+青龙满族自治县	gdie	30000	130321
+昌黎县	jteg	30000	130322
+卢龙县	hdeg	30000	130324
+邯郸市	auym	30000	130400
+邯郸市市辖区	auya	30000	130401
+邯山区	amaq	30000	130402
+丛台区	wcaq	30000	130403
+复兴区	tiaq	30000	130404
+峰峰矿区	mmda	30000	130406
+肥乡区	exaq	30000	130407
+永年区	yraq	30000	130408
+临漳县	jieg	30000	130423
+成安县	dpeg	30000	130424
+大名县	dqeg	30000	130425
+涉县	iheg	30000	130426
+磁县	dueg	30000	130427
+邱县	rgeg	30000	130430
+鸡泽县	cieg	30000	130431
+广平县	ygeg	30000	130432
+馆陶县	qbeg	30000	130433
+魏县	tveg	30000	130434
+曲周县	mmeg	30000	130435
+武安市	gpym	30000	130481
+邢台市	gcym	30000	130500
+邢台市市辖区	gcya	30000	130501
+襄都区	yfaq	30000	130502
+信都区	wfaq	30000	130503
+临城县	jfeg	30000	130522
+内丘县	mreg	30000	130523
+柏乡县	sxeg	30000	130524
+隆尧县	baeg	30000	130525
+任泽区	wiaq	30000	130505
+南和区	ftaq	30000	130506
+宁晋县	pgeg	30000	130528
+巨鹿县	ayeg	30000	130529
+新河县	uieg	30000	130530
+广宗县	ypeg	30000	130531
+平乡县	gxeg	30000	130532
+威县	dgeg	30000	130533
+清河县	iieg	30000	130534
+临西县	jseg	30000	130535
+南宫市	fpym	30000	130581
+沙河市	iiym	30000	130582
+保定市	wpym	30000	130600
+保定市市辖区	wpya	30000	130601
+竞秀区	utaq	30000	130602
+莲池区	aiaq	30000	130606
+满城区	ifaq	30000	130607
+清苑区	iaaq	30000	130608
+徐水区	tiaq	30000	130609
+涞水县	iieg	30000	130623
+阜平县	wgeg	30000	130624
+定兴县	pieg	30000	130626
+唐县	yveg	30000	130627
+高阳县	ybeg	30000	130628
+容城县	pfeg	30000	130629
+涞源县	iieg	30000	130630
+望都县	yfeg	30000	130631
+安新县	pueg	30000	130632
+易县	jqeg	30000	130633
+曲阳县	mbeg	30000	130634
+蠡县	xeeg	30000	130635
+顺平县	kgeg	30000	130636
+博野县	fjeg	30000	130637
+雄县	dceg	30000	130638
+涿州市	iyym	30000	130681
+定州市	pyym	30000	130682
+安国市	plym	30000	130683
+高碑店市	ydyy	30000	130684
+张家口市	xpky	30000	130700
+张家口市市辖区	xpka	30000	130701
+桥东区	saaq	30000	130702
+宣化区	pwaq	30000	130705
+下花园区	gala	30000	130706
+万全区	dwaq	30000	130708
+崇礼区	mpaq	30000	130709
+张北县	xueg	30000	130722
+康保县	yweg	30000	130723
+沽源县	iieg	30000	130724
+尚义县	iyeg	30000	130725
+蔚县	aneg	30000	130726
+阳原县	bdeg	30000	130727
+怀安县	npeg	30000	130728
+怀来县	ngeg	30000	130730
+涿鹿县	iyeg	30000	130731
+赤城县	ffeg	30000	130732
+承德市	btym	30000	130800
+承德市市辖区	btya	30000	130801
+双桥区	csaq	30000	130802
+双滦区	ciaq	30000	130803
+鹰手营子矿区	yraa	30000	130804
+承德县	bteg	30000	130821
+兴隆县	ibeg	30000	130822
+滦平县	igeg	30000	130824
+隆化县	bweg	30000	130825
+丰宁满族自治县	dpie	30000	130826
+宽城满族自治县	pfie	30000	130827
+围场满族蒙古族自治县	lfie	30000	130828
+平泉市	grym	30000	130881
+沧州市	iyym	30000	130900
+沧州市市辖区	iyya	30000	130901
+运河区	fiaq	30000	130903
+沧县	iweg	30000	130921
+青县	geeg	30000	130922
+东光县	aieg	30000	130923
+海兴县	iieg	30000	130924
+盐山县	fmeg	30000	130925
+肃宁县	vpeg	30000	130926
+南皮县	fheg	30000	130927
+吴桥县	kseg	30000	130928
+献县	fmeg	30000	130929
+孟村回族自治县	bsle	30000	130930
+泊头市	iuym	30000	130981
+任丘市	wrym	30000	130982
+黄骅市	acym	30000	130983
+河间市	iuym	30000	130984
+廊坊市	yfym	30000	131000
+廊坊市市辖区	yfya	30000	131001
+安次区	puaq	30000	131002
+广阳区	ybaq	30000	131003
+固安县	lpeg	30000	131022
+永清县	yieg	30000	131023
+香河县	tieg	30000	131024
+大城县	dfeg	30000	131025
+文安县	ypeg	30000	131026
+大厂回族自治县	ddle	30000	131028
+霸州市	fyym	30000	131081
+三河市	diym	30000	131082
+衡水市	tiym	30000	131100
+衡水市市辖区	tiya	30000	131101
+桃城区	sfaq	30000	131102
+冀州区	uyaq	30000	131103
+枣强县	gxeg	30000	131121
+武邑县	gkeg	30000	131122
+武强县	gxeg	30000	131123
+饶阳县	qbeg	30000	131124
+安平县	pgeg	30000	131125
+故城县	dfeg	30000	131126
+景县	jyeg	30000	131127
+阜城县	wfeg	30000	131128
+深州市	iyym	30000	131182
+太原市	ddym	30000	140100
+太原市市辖区	ddya	30000	140101
+小店区	iyaq	30000	140105
+迎泽区	qiaq	30000	140106
+杏花岭区	sama	30000	140107
+尖草坪区	iafa	30000	140108
+万柏林区	dssa	30000	140109
+晋源区	giaq	30000	140110
+清徐县	iteg	30000	140121
+阳曲县	bmeg	30000	140122
+娄烦县	ooeg	30000	140123
+古交市	duym	30000	140181
+大同市	dmym	30000	140200
+大同市市辖区	dmya	30000	140201
+平城区	gfaq	30000	140213
+云冈区	fmaq	30000	140214
+新荣区	uaaq	30000	140212
+阳高县	byeg	30000	140221
+天镇县	gqeg	30000	140222
+广灵县	yveg	30000	140223
+灵丘县	vreg	30000	140224
+浑源县	iieg	30000	140225
+左云县	dfeg	30000	140226
+云州区	fyaq	30000	140215
+阳泉市	brym	30000	140300
+阳泉市市辖区	brya	30000	140301
+平定县	gpeg	30000	140321
+盂县	gfeg	30000	140322
+长治市	tiym	30000	140400
+长治市市辖区	tiya	30000	140401
+潞州区	iyaq	30000	140403
+上党区	hiaq	30000	140404
+襄垣县	yfeg	30000	140423
+屯留区	gqaq	30000	140405
+平顺县	gkeg	30000	140425
+黎城县	tfeg	30000	140426
+壶关县	fueg	30000	140427
+长子县	tbeg	30000	140428
+武乡县	gxeg	30000	140429
+沁县	ineg	30000	140430
+沁源县	iieg	30000	140431
+潞城区	ifaq	30000	140406
+晋城市	gfym	30000	140500
+晋城市市辖区	gfya	30000	140501
+沁水县	iieg	30000	140521
+阳城县	bfeg	30000	140522
+陵川县	bkeg	30000	140524
+泽州县	iyeg	30000	140525
+高平市	ygym	30000	140581
+朔州市	uyym	30000	140600
+朔州市市辖区	uyya	30000	140601
+朔城区	ufaq	30000	140602
+平鲁区	gqaq	30000	140603
+山阴县	mbeg	30000	140621
+应县	yieg	30000	140622
+右玉县	dgeg	30000	140623
+怀仁市	nwym	30000	140681
+晋中市	gkym	30000	140700
+晋中市市辖区	gkya	30000	140701
+榆次区	suaq	30000	140702
+榆社县	speg	30000	140721
+左权县	dseg	30000	140722
+和顺县	tkeg	30000	140723
+昔阳县	abeg	30000	140724
+寿阳县	dbeg	30000	140725
+太谷区	dwaq	30000	140703
+祁县	pyeg	30000	140727
+平遥县	geeg	30000	140728
+灵石县	vdeg	30000	140729
+介休市	wwym	30000	140781
+运城市	ffym	30000	140800
+运城市市辖区	ffya	30000	140801
+盐湖区	fiaq	30000	140802
+临猗县	jqeg	30000	140821
+万荣县	daeg	30000	140822
+闻喜县	ufeg	30000	140823
+稷山县	tmeg	30000	140824
+新绛县	uxeg	30000	140825
+绛县	xteg	30000	140826
+垣曲县	fmeg	30000	140827
+夏县	dheg	30000	140828
+平陆县	gbeg	30000	140829
+芮城县	afeg	30000	140830
+永济市	yiym	30000	140881
+河津市	iiym	30000	140882
+忻州市	nyym	30000	140900
+忻州市市辖区	nyya	30000	140901
+忻府区	nyaq	30000	140902
+定襄县	pyeg	30000	140921
+五台县	gceg	30000	140922
+代县	waeg	30000	140923
+繁峙县	tmeg	30000	140924
+宁武县	pgeg	30000	140925
+静乐县	gqeg	30000	140926
+神池县	pieg	30000	140927
+五寨县	gpeg	30000	140928
+岢岚县	mmeg	30000	140929
+河曲县	imeg	30000	140930
+保德县	wteg	30000	140931
+偏关县	wueg	30000	140932
+原平市	dgym	30000	140981
+临汾市	jiym	30000	141000
+临汾市市辖区	jiya	30000	141001
+尧都区	afaq	30000	141002
+曲沃县	mieg	30000	141021
+翼城县	nfeg	30000	141022
+襄汾县	yieg	30000	141023
+洪洞县	iieg	30000	141024
+古县	dgeg	30000	141025
+安泽县	pieg	30000	141026
+浮山县	imeg	30000	141027
+吉县	fkeg	30000	141028
+乡宁县	xpeg	30000	141029
+大宁县	dpeg	30000	141030
+隰县	bjeg	30000	141031
+永和县	yteg	30000	141032
+蒲县	aieg	30000	141033
+汾西县	iseg	30000	141034
+侯马市	wcym	30000	141081
+霍州市	fyym	30000	141082
+吕梁市	kiym	30000	141100
+吕梁市市辖区	kiya	30000	141101
+离石区	ydaq	30000	141102
+文水县	yieg	30000	141121
+交城县	ufeg	30000	141122
+兴县	iweg	30000	141123
+临县	jteg	30000	141124
+柳林县	sseg	30000	141125
+石楼县	dseg	30000	141126
+岚县	mmeg	30000	141127
+方山县	ymeg	30000	141128
+中阳县	kbeg	30000	141129
+交口县	ukeg	30000	141130
+孝义市	fyym	30000	141181
+汾阳市	ibym	30000	141182
+呼和浩特市	ktiy	30000	150100
+呼和浩特市市辖区	ktia	30000	150101
+新城区	ufaq	30000	150102
+回民区	lnaq	30000	150103
+玉泉区	graq	30000	150104
+赛罕区	ppaq	30000	150105
+土默特左旗	flty	30000	150121
+托克托县	rdre	30000	150122
+和林格尔县	tsse	30000	150123
+清水河县	iiie	30000	150124
+武川县	gkeg	30000	150125
+包头市市辖区	quya	30000	150201
+东河区	aiaq	30000	150202
+昆都仑区	jfwa	30000	150203
+青山区	gmaq	30000	150204
+石拐区	draq	30000	150205
+白云鄂博矿区	rfka	30000	150206
+九原区	vdaq	30000	150207
+土默特右旗	flty	30000	150221
+固阳县	lbeg	30000	150222
+达尔罕茂明安联合旗	dqpy	30000	150223
+乌海市	qiym	30000	150300
+乌海市市辖区	qiya	30000	150301
+海勃湾区	ifia	30000	150302
+海南区	ifaq	30000	150303
+乌达区	qdaq	30000	150304
+赤峰市	fmym	30000	150400
+赤峰市市辖区	fmya	30000	150401
+红山区	xmaq	30000	150402
+元宝山区	fpma	30000	150403
+松山区	smaq	30000	150404
+阿鲁科尔沁旗	bqty	30000	150421
+巴林左旗	csdy	30000	150422
+巴林右旗	csdy	30000	150423
+林西县	sseg	30000	150424
+克什克腾旗	dwdy	30000	150425
+翁牛特旗	wrty	30000	150426
+喀喇沁旗	kkiy	30000	150428
+宁城县	pfeg	30000	150429
+敖汉旗	giyt	30000	150430
+通辽市	cbym	30000	150500
+通辽市市辖区	cbya	30000	150501
+科尔沁区	tqia	30000	150502
+科尔沁左翼中旗	tqiy	30000	150521
+科尔沁左翼后旗	tqiy	30000	150522
+开鲁县	gqeg	30000	150523
+库伦旗	ywyt	30000	150524
+奈曼旗	djyt	30000	150525
+扎鲁特旗	rqty	30000	150526
+霍林郭勒市	fsyy	30000	150581
+鄂尔多斯市	kqqy	30000	150600
+鄂尔多斯市市辖区	kqqa	30000	150601
+东胜区	aeaq	30000	150602
+康巴什区	ycwa	30000	150603
+达拉特旗	drty	30000	150621
+准格尔旗	usqy	30000	150622
+鄂托克前旗	krdy	30000	150623
+鄂托克旗	krdy	30000	150624
+杭锦旗	sqyt	30000	150625
+乌审旗	qpyt	30000	150626
+伊金霍洛旗	wqfy	30000	150627
+呼伦贝尔市	kwmy	30000	150700
+呼伦贝尔市市辖区	kwma	30000	150701
+海拉尔区	irqa	30000	150702
+扎赉诺尔区	rgya	30000	150703
+阿荣旗	bayt	30000	150721
+莫力达瓦达斡尔族自治旗	aldy	30000	150722
+鄂伦春自治旗	kwdy	30000	150723
+鄂温克族自治旗	kidy	30000	150724
+陈巴尔虎旗	bcqy	30000	150725
+新巴尔虎左旗	ucqy	30000	150726
+新巴尔虎右旗	ucqy	30000	150727
+满洲里市	iijy	30000	150781
+牙克石市	addy	30000	150782
+扎兰屯市	rugy	30000	150783
+额尔古纳市	pqdy	30000	150784
+根河市	siym	30000	150785
+巴彦淖尔市	cuiy	30000	150800
+巴彦淖尔市市辖区	cuia	30000	150801
+临河区	jiaq	30000	150802
+五原县	gdeg	30000	150821
+磴口县	dkeg	30000	150822
+乌拉特前旗	qrty	30000	150823
+乌拉特中旗	qrty	30000	150824
+乌拉特后旗	qrty	30000	150825
+杭锦后旗	sqry	30000	150826
+乌兰察布市	qupy	30000	150900
+乌兰察布市市辖区	qupa	30000	150901
+集宁区	wpaq	30000	150902
+卓资县	hueg	30000	150921
+化德县	wteg	30000	150922
+商都县	ufeg	30000	150923
+兴和县	iteg	30000	150924
+凉城县	ufeg	30000	150925
+察哈尔右翼前旗	pkqy	30000	150926
+察哈尔右翼中旗	pkqy	30000	150927
+察哈尔右翼后旗	pkqy	30000	150928
+四子王旗	lbgy	30000	150929
+丰镇市	dqym	30000	150981
+兴安盟	ipje	30000	152200
+乌兰浩特市	quiy	30000	152201
+阿尔山市	bqmy	30000	152202
+科尔沁右翼前旗	tqiy	30000	152221
+科尔沁右翼中旗	tqiy	30000	152222
+扎赉特旗	rgty	30000	152223
+突泉县	preg	30000	152224
+锡林郭勒盟	qsyj	30000	152500
+二连浩特市	fliy	30000	152501
+锡林浩特市	qsiy	30000	152502
+阿巴嘎旗	bcky	30000	152522
+苏尼特左旗	anty	30000	152523
+苏尼特右旗	anty	30000	152524
+东乌珠穆沁旗	aqgy	30000	152525
+西乌珠穆沁旗	sqgy	30000	152526
+太仆寺旗	dwfy	30000	152527
+镶黄旗	qayt	30000	152528
+正镶白旗	gqry	30000	152529
+正蓝旗	gayt	30000	152530
+多伦县	qweg	30000	152531
+阿拉善盟	bruj	30000	152900
+阿拉善左旗	bruy	30000	152921
+阿拉善右旗	bruy	30000	152922
+额济纳旗	pixy	30000	152923
+沈阳市市辖区	ibya	30000	210101
+沈河区	iiaq	30000	210103
+大东区	daaq	30000	210104
+皇姑区	rvaq	30000	210105
+铁西区	qsaq	30000	210106
+苏家屯区	apga	30000	210111
+浑南区	ifaq	30000	210112
+沈北新区	iuua	30000	210113
+于洪区	giaq	30000	210114
+辽中区	bkaq	30000	210115
+康平县	ygeg	30000	210123
+法库县	iyeg	30000	210124
+新民市	unym	30000	210181
+大连市市辖区	dlya	30000	210201
+中山区	kmaq	30000	210202
+西岗区	smaq	30000	210203
+沙河口区	iika	30000	210204
+甘井子区	afba	30000	210211
+旅顺口区	ykka	30000	210212
+金州区	qyaq	30000	210213
+普兰店区	uuya	30000	210214
+长海县	tieg	30000	210224
+瓦房店市	gyyy	30000	210281
+庄河市	yiym	30000	210283
+鞍山市	amym	30000	210300
+鞍山市市辖区	amya	30000	210301
+铁东区	qaaq	30000	210302
+立山区	umaq	30000	210304
+千山区	tmaq	30000	210311
+台安县	cpeg	30000	210321
+岫岩满族自治县	mmie	30000	210323
+海城市	ifym	30000	210381
+抚顺市	rkym	30000	210400
+抚顺市市辖区	rkya	30000	210401
+新抚区	uraq	30000	210402
+东洲区	aiaq	30000	210403
+望花区	yaaq	30000	210404
+顺城区	kfaq	30000	210411
+抚顺县	rkeg	30000	210421
+新宾满族自治县	upie	30000	210422
+清原满族自治县	idie	30000	210423
+本溪市	siym	30000	210500
+本溪市市辖区	siya	30000	210501
+平山区	gmaq	30000	210502
+溪湖区	iiaq	30000	210503
+明山区	jmaq	30000	210504
+南芬区	faaq	30000	210505
+本溪满族自治县	siie	30000	210521
+桓仁满族自治县	swie	30000	210522
+丹东市	maym	30000	210600
+丹东市市辖区	maya	30000	210601
+元宝区	fpaq	30000	210602
+振兴区	riaq	30000	210603
+振安区	rpaq	30000	210604
+宽甸满族自治县	pqie	30000	210624
+东港市	aiym	30000	210681
+凤城市	mfym	30000	210682
+锦州市	qyym	30000	210700
+锦州市市辖区	qyya	30000	210701
+古塔区	dfaq	30000	210702
+凌河区	uiaq	30000	210703
+太和区	dtaq	30000	210711
+黑山县	lmeg	30000	210726
+义县	yqeg	30000	210727
+凌海市	uiym	30000	210781
+北镇市	uqym	30000	210782
+营口市	akym	30000	210800
+营口市市辖区	akya	30000	210801
+站前区	uuaq	30000	210802
+西市区	syaq	30000	210803
+鲅鱼圈区	qqla	30000	210804
+老边区	flaq	30000	210811
+盖州市	uyym	30000	210881
+大石桥市	ddsy	30000	210882
+阜新市	wuym	30000	210900
+阜新市市辖区	wuya	30000	210901
+海州区	iyaq	30000	210902
+新邱区	uraq	30000	210903
+太平区	dgaq	30000	210904
+清河门区	iiua	30000	210905
+细河区	xiaq	30000	210911
+阜新蒙古族自治县	wuae	30000	210921
+彰武县	ugeg	30000	210922
+辽阳市	bbym	30000	211000
+辽阳市市辖区	bbya	30000	211001
+白塔区	rfaq	30000	211002
+文圣区	ycaq	30000	211003
+宏伟区	pwaq	30000	211004
+弓长岭区	xtma	30000	211005
+太子河区	dbia	30000	211011
+辽阳县	bbeg	30000	211021
+灯塔市	ofym	30000	211081
+盘锦市	tqym	30000	211100
+盘锦市市辖区	tqya	30000	211101
+双台子区	ccba	30000	211102
+兴隆台区	ibca	30000	211103
+大洼区	diaq	30000	211104
+盘山县	tmeg	30000	211122
+铁岭市	qmym	30000	211200
+铁岭市市辖区	qmya	30000	211201
+银州区	qyaq	30000	211202
+清河区	iiaq	30000	211204
+铁岭县	qmeg	30000	211221
+西丰县	sdeg	30000	211223
+昌图县	jleg	30000	211224
+调兵山市	yrmy	30000	211281
+开原市	gdym	30000	211282
+朝阳市	fbym	30000	211300
+朝阳市市辖区	fbya	30000	211301
+双塔区	cfaq	30000	211302
+龙城区	dfaq	30000	211303
+朝阳县	fbeg	30000	211321
+建平县	vgeg	30000	211322
+喀喇沁左翼蒙古族自治县	kkie	30000	211324
+北票市	usym	30000	211381
+凌源市	uiym	30000	211382
+葫芦岛市	aaqy	30000	211400
+葫芦岛市市辖区	aaqa	30000	211401
+连山区	lmaq	30000	211402
+龙港区	diaq	30000	211403
+南票区	fsaq	30000	211404
+绥中县	xkeg	30000	211421
+建昌县	vjeg	30000	211422
+兴城市	ifym	30000	211481
+长春市市辖区	tdya	30000	220101
+南关区	fuaq	30000	220102
+宽城区	pfaq	30000	220103
+二道区	fuaq	30000	220105
+绿园区	xlaq	30000	220106
+双阳区	cbaq	30000	220112
+九台区	vcaq	30000	220113
+农安县	ppeg	30000	220122
+榆树市	ssym	30000	220182
+德惠市	tgym	30000	220183
+吉林市	fsym	30000	220200
+吉林市市辖区	fsya	30000	220201
+昌邑区	jkaq	30000	220202
+龙潭区	diaq	30000	220203
+船营区	taaq	30000	220204
+丰满区	diaq	30000	220211
+永吉县	yfeg	30000	220221
+蛟河市	jiym	30000	220281
+桦甸市	sqym	30000	220282
+舒兰市	wuym	30000	220283
+磐石市	tdym	30000	220284
+四平市	lgym	30000	220300
+四平市市辖区	lgya	30000	220301
+梨树县	tseg	30000	220322
+伊通满族自治县	wcie	30000	220323
+公主岭市	wymy	30000	220184
+双辽市	cbym	30000	220382
+辽源市	biym	30000	220400
+辽源市市辖区	biya	30000	220401
+龙山区	dmaq	30000	220402
+西安区	spaq	30000	220403
+东丰县	adeg	30000	220421
+东辽县	abeg	30000	220422
+通化市	cwym	30000	220500
+通化市市辖区	cwya	30000	220501
+东昌区	ajaq	30000	220502
+二道江区	fuia	30000	220503
+通化县	cweg	30000	220521
+辉南县	ifeg	30000	220523
+柳河县	sieg	30000	220524
+梅河口市	siky	30000	220581
+集安市	wpym	30000	220582
+白山市	rmym	30000	220600
+白山市市辖区	rmya	30000	220601
+浑江区	iiaq	30000	220602
+江源区	iiaq	30000	220605
+抚松县	rseg	30000	220621
+靖宇县	upeg	30000	220622
+长白朝鲜族自治县	trfe	30000	220623
+临江市	jiym	30000	220681
+松原市	sdym	30000	220700
+松原市市辖区	sdya	30000	220701
+宁江区	piaq	30000	220702
+前郭尔罗斯蒙古族自治县	uyqe	30000	220721
+长岭县	tmeg	30000	220722
+乾安县	fpeg	30000	220723
+扶余市	rwym	30000	220781
+白城市	rfym	30000	220800
+白城市市辖区	rfya	30000	220801
+洮北区	iuaq	30000	220802
+镇赉县	qgeg	30000	220821
+通榆县	cseg	30000	220822
+洮南市	ifym	30000	220881
+大安市	dpym	30000	220882
+延边朝鲜族自治州	tlfy	30000	222400
+延吉市	tfym	30000	222401
+图们市	lwym	30000	222402
+敦化市	ywym	30000	222403
+珲春市	gdym	30000	222404
+龙井市	dfym	30000	222405
+和龙市	tdym	30000	222406
+汪清县	iieg	30000	222424
+安图县	pleg	30000	222426
+哈尔滨市	kqiy	30000	230100
+哈尔滨市市辖区	kqia	30000	230101
+道里区	ujaq	30000	230102
+南岗区	fmaq	30000	230103
+道外区	uqaq	30000	230104
+平房区	gyaq	30000	230108
+松北区	suaq	30000	230109
+香坊区	tfaq	30000	230110
+呼兰区	kuaq	30000	230111
+阿城区	bfaq	30000	230112
+双城区	cfaq	30000	230113
+依兰县	wueg	30000	230123
+方正县	ygeg	30000	230124
+宾县	preg	30000	230125
+巴彦县	cueg	30000	230126
+木兰县	sueg	30000	230127
+通河县	cieg	30000	230128
+延寿县	tdeg	30000	230129
+尚志市	ifym	30000	230183
+五常市	giym	30000	230184
+齐齐哈尔市	yyky	30000	230200
+齐齐哈尔市市辖区	yyka	30000	230201
+龙沙区	diaq	30000	230202
+建华区	vwaq	30000	230203
+铁锋区	qqaq	30000	230204
+昂昂溪区	jjia	30000	230205
+富拉尔基区	prqa	30000	230206
+碾子山区	dbma	30000	230207
+梅里斯达斡尔族区	sjaa	30000	230208
+龙江县	dieg	30000	230221
+依安县	wpeg	30000	230223
+泰来县	dgeg	30000	230224
+甘南县	afeg	30000	230225
+富裕县	ppeg	30000	230227
+克山县	dmeg	30000	230229
+克东县	daeg	30000	230230
+拜泉县	rreg	30000	230231
+讷河市	yiym	30000	230281
+鸡西市	csym	30000	230300
+鸡西市市辖区	csya	30000	230301
+鸡冠区	cpaq	30000	230302
+恒山区	nmaq	30000	230303
+滴道区	iuaq	30000	230304
+梨树区	tsaq	30000	230305
+城子河区	fbia	30000	230306
+麻山区	ymaq	30000	230307
+鸡东县	caeg	30000	230321
+虎林市	hsym	30000	230381
+密山市	pmym	30000	230382
+鹤岗市	pmym	30000	230400
+鹤岗市市辖区	pmya	30000	230401
+向阳区	tbaq	30000	230402
+工农区	apaq	30000	230403
+南山区	fmaq	30000	230404
+兴安区	ipaq	30000	230405
+东山区	amaq	30000	230406
+兴山区	imaq	30000	230407
+萝北县	aueg	30000	230421
+绥滨县	xieg	30000	230422
+双鸭山市	clmy	30000	230500
+双鸭山市市辖区	clma	30000	230501
+尖山区	imaq	30000	230502
+岭东区	maaq	30000	230503
+四方台区	lyca	30000	230505
+宝山区	pmaq	30000	230506
+集贤县	wjeg	30000	230521
+友谊县	dyeg	30000	230522
+宝清县	pieg	30000	230523
+饶河县	qieg	30000	230524
+大庆市	dyym	30000	230600
+大庆市市辖区	dyya	30000	230601
+萨尔图区	aqla	30000	230602
+龙凤区	dmaq	30000	230603
+让胡路区	ydka	30000	230604
+红岗区	xmaq	30000	230605
+大同区	dmaq	30000	230606
+肇州县	yyeg	30000	230621
+肇源县	yieg	30000	230622
+林甸县	sqeg	30000	230623
+杜尔伯特蒙古族自治县	sqwe	30000	230624
+伊春市	wdym	30000	230700
+伊春市市辖区	wdya	30000	230701
+汤旺河区	ijia	30000	230712
+伊美区	wuaq	30000	230717
+乌翠区	qnaq	30000	230718
+友好区	dvaq	30000	230719
+嘉荫县	faeg	30000	230722
+汤旺县	ijeg	30000	230723
+丰林县	dseg	30000	230724
+大箐山县	dtme	30000	230725
+南岔县	fweg	30000	230726
+金林区	qsaq	30000	230751
+铁力市	qlym	30000	230781
+佳木斯市	wsay	30000	230800
+佳木斯市市辖区	wsaa	30000	230801
+前进区	ufaq	30000	230804
+东风区	amaq	30000	230805
+桦南县	sfeg	30000	230822
+桦川县	skeg	30000	230826
+汤原县	ideg	30000	230828
+同江市	miym	30000	230881
+富锦市	pqym	30000	230882
+抚远市	rfym	30000	230883
+七台河市	aciy	30000	230900
+七台河市市辖区	acia	30000	230901
+新兴区	uiaq	30000	230902
+桃山区	smaq	30000	230903
+茄子河区	abia	30000	230904
+勃利县	fteg	30000	230921
+牡丹江市	tmiy	30000	231000
+牡丹江市市辖区	tmia	30000	231001
+东安区	apaq	30000	231002
+阳明区	bjaq	30000	231003
+爱民区	enaq	30000	231004
+林口县	skeg	30000	231025
+绥芬河市	xaiy	30000	231081
+海林市	isym	30000	231083
+宁安市	ppym	30000	231084
+穆棱市	tsym	30000	231085
+东宁市	apym	30000	231086
+黑河市	liym	30000	231100
+黑河市市辖区	liya	30000	231101
+爱辉区	eiaq	30000	231102
+嫩江市	viym	30000	231183
+逊克县	bdeg	30000	231123
+孙吴县	bkeg	30000	231124
+北安市	upym	30000	231181
+五大连池市	gdly	30000	231182
+绥化市	xwym	30000	231200
+绥化市市辖区	xwya	30000	231201
+北林区	usaq	30000	231202
+望奎县	ydeg	30000	231221
+兰西县	useg	30000	231222
+青冈县	gmeg	30000	231223
+庆安县	ypeg	30000	231224
+明水县	jieg	30000	231225
+绥棱县	xseg	30000	231226
+安达市	pdym	30000	231281
+肇东市	yaym	30000	231282
+海伦市	iwym	30000	231283
+大兴安岭地区	dipa	30000	232700
+加格达奇区	lsda	30000	232718
+呼玛县	kgeg	30000	232721
+塔河县	fieg	30000	232722
+漠河市	iiym	30000	232701
+杭州市市辖区	syya	30000	330101
+上城区	hfaq	30000	330102
+下城区	gfaq	30000	330103
+江干区	ifaq	30000	330104
+拱墅区	rjaq	30000	330105
+西湖区	siaq	30000	330106
+滨江区	iiaq	30000	330108
+萧山区	amaq	30000	330109
+余杭区	wsaq	30000	330110
+富阳区	pbaq	30000	330111
+临安区	jpaq	30000	330112
+桐庐县	syeg	30000	330122
+淳安县	ipeg	30000	330127
+建德市	vtym	30000	330182
+宁波市市辖区	piya	30000	330201
+海曙区	ijaq	30000	330203
+江北区	iuaq	30000	330205
+北仑区	uwaq	30000	330206
+镇海区	qiaq	30000	330211
+鄞州区	ayaq	30000	330212
+奉化区	dwaq	30000	330213
+象山县	qmeg	30000	330225
+宁海县	pieg	30000	330226
+余姚市	wvym	30000	330281
+慈溪市	uiym	30000	330282
+温州市	iyym	30000	330300
+温州市市辖区	iyya	30000	330301
+鹿城区	yfaq	30000	330302
+龙湾区	diaq	30000	330303
+瓯海区	aiaq	30000	330304
+洞头区	iuaq	30000	330305
+永嘉县	yfeg	30000	330324
+平阳县	gbeg	30000	330326
+苍南县	afeg	30000	330327
+文成县	ydeg	30000	330328
+泰顺县	dkeg	30000	330329
+瑞安市	gpym	30000	330381
+乐清市	qiym	30000	330382
+龙港市	diym	30000	330383
+嘉兴市	fiym	30000	330400
+嘉兴市市辖区	fiya	30000	330401
+南湖区	fiaq	30000	330402
+秀洲区	tiaq	30000	330411
+嘉善县	fueg	30000	330421
+海盐县	ifeg	30000	330424
+海宁市	ipym	30000	330481
+平湖市	giym	30000	330482
+桐乡市	sxym	30000	330483
+湖州市	iyym	30000	330500
+湖州市市辖区	iyya	30000	330501
+吴兴区	kiaq	30000	330502
+南浔区	fiaq	30000	330503
+德清县	tieg	30000	330521
+长兴县	tieg	30000	330522
+安吉县	pfeg	30000	330523
+绍兴市	xiym	30000	330600
+绍兴市市辖区	xiya	30000	330601
+越城区	ffaq	30000	330602
+柯桥区	ssaq	30000	330603
+上虞区	hhaq	30000	330604
+新昌县	ujeg	30000	330624
+诸暨市	yvym	30000	330681
+嵊州市	myym	30000	330683
+金华市	qwym	30000	330700
+金华市市辖区	qwya	30000	330701
+婺城区	cfaq	30000	330702
+金东区	qaaq	30000	330703
+武义县	gyeg	30000	330723
+浦江县	iieg	30000	330726
+磐安县	tpeg	30000	330727
+兰溪市	uiym	30000	330781
+义乌市	yqym	30000	330782
+东阳市	abym	30000	330783
+永康市	yyym	30000	330784
+衢州市	tyym	30000	330800
+衢州市市辖区	tyya	30000	330801
+柯城区	sfaq	30000	330802
+衢江区	tiaq	30000	330803
+常山县	imeg	30000	330822
+开化县	gweg	30000	330824
+龙游县	dieg	30000	330825
+江山市	imym	30000	330881
+舟山市	tmym	30000	330900
+舟山市市辖区	tmya	30000	330901
+定海区	piaq	30000	330902
+普陀区	ubaq	30000	330903
+岱山县	wmeg	30000	330921
+嵊泗县	mieg	30000	330922
+台州市	cyym	30000	331000
+台州市市辖区	cyya	30000	331001
+椒江区	siaq	30000	331002
+黄岩区	amaq	30000	331003
+路桥区	ksaq	30000	331004
+三门县	dueg	30000	331022
+天台县	gceg	30000	331023
+仙居县	wneg	30000	331024
+温岭市	imym	30000	331081
+临海市	jiym	30000	331082
+玉环市	ggym	30000	331083
+丽水市	giym	30000	331100
+丽水市市辖区	giya	30000	331101
+莲都区	afaq	30000	331102
+青田县	gleg	30000	331121
+缙云县	xfeg	30000	331122
+遂昌县	ujeg	30000	331123
+松阳县	sbeg	30000	331124
+云和县	fteg	30000	331125
+庆元县	yfeg	30000	331126
+景宁畲族自治县	jpwe	30000	331127
+龙泉市	drym	30000	331181
+上海市市辖区	hiya	30000	310100
+黄浦区	aiaq	30000	310101
+徐汇区	tiaq	30000	310104
+长宁区	tpaq	30000	310105
+静安区	gpaq	30000	310106
+虹口区	jkaq	30000	310109
+杨浦区	siaq	30000	310110
+闵行区	utaq	30000	310112
+嘉定区	fpaq	30000	310114
+金山区	qmaq	30000	310116
+松江区	siaq	30000	310117
+青浦区	giaq	30000	310118
+奉贤区	djaq	30000	310120
+崇明区	mjaq	30000	310151
+南京市市辖区	fyya	30000	320101
+玄武区	ygaq	30000	320102
+秦淮区	diaq	30000	320104
+建邺区	voaq	30000	320105
+鼓楼区	fsaq	30000	320106
+浦口区	ikaq	30000	320111
+栖霞区	sfaq	30000	320113
+雨花台区	faca	30000	320114
+江宁区	ipaq	30000	320115
+六合区	uwaq	30000	320116
+溧水区	iiaq	30000	320117
+高淳区	yiaq	30000	320118
+无锡市市辖区	fqya	30000	320201
+锡山区	qmaq	30000	320205
+惠山区	gmaq	30000	320206
+滨湖区	iiaq	30000	320211
+梁溪区	iiaq	30000	320213
+新吴区	ukaq	30000	320214
+江阴市	ibym	30000	320281
+宜兴市	piym	30000	320282
+徐州市	tyym	30000	320300
+徐州市市辖区	tyya	30000	320301
+云龙区	fdaq	30000	320303
+贾汪区	siaq	30000	320305
+泉山区	rmaq	30000	320311
+铜山区	qmaq	30000	320312
+丰县	dheg	30000	320321
+沛县	igeg	30000	320322
+睢宁县	hpeg	30000	320324
+新沂市	uiym	30000	320381
+邳州市	gyym	30000	320382
+常州市	iyym	30000	320400
+常州市市辖区	iyya	30000	320401
+天宁区	gpaq	30000	320402
+钟楼区	qsaq	30000	320404
+新北区	uuaq	30000	320411
+武进区	gfaq	30000	320412
+金坛区	qfaq	30000	320413
+溧阳市	ibym	30000	320481
+苏州市市辖区	ayya	30000	320501
+虎丘区	hraq	30000	320505
+吴中区	kkaq	30000	320506
+相城区	sfaq	30000	320507
+姑苏区	vaaq	30000	320508
+吴江区	kiaq	30000	320509
+常熟市	iyym	30000	320581
+张家港市	xpiy	30000	320582
+昆山市	jmym	30000	320583
+太仓市	dwym	30000	320585
+南通市	fcym	30000	320600
+南通市市辖区	fcya	30000	320601
+崇川区	mkaq	30000	320602
+海安市	ipym	30000	320685
+如东县	vaeg	30000	320623
+启东市	yaym	30000	320681
+如皋市	vrym	30000	320682
+海门区	iuaq	30000	320684
+连云港市	lfiy	30000	320700
+连云港市市辖区	lfia	30000	320701
+连云区	lfaq	30000	320703
+赣榆区	usaq	30000	320707
+东海县	aieg	30000	320722
+灌云县	ifeg	30000	320723
+灌南县	ifeg	30000	320724
+淮安市	ipym	30000	320800
+淮安市市辖区	ipya	30000	320801
+淮安区	ipaq	30000	320803
+淮阴区	ibaq	30000	320804
+清江浦区	iiia	30000	320812
+洪泽区	iiaq	30000	320813
+涟水县	iieg	30000	320826
+盱眙县	hheg	30000	320830
+金湖县	qieg	30000	320831
+盐城市	ffym	30000	320900
+盐城市市辖区	ffya	30000	320901
+亭湖区	yiaq	30000	320902
+盐都区	ffaq	30000	320903
+大丰区	ddaq	30000	320904
+响水县	kieg	30000	320921
+滨海县	iieg	30000	320922
+阜宁县	wpeg	30000	320923
+射阳县	tbeg	30000	320924
+建湖县	vieg	30000	320925
+东台市	acym	30000	320981
+扬州市	ryym	30000	321000
+扬州市市辖区	ryya	30000	321001
+广陵区	ybaq	30000	321002
+邗江区	fiaq	30000	321003
+江都区	ifaq	30000	321012
+宝应县	pyeg	30000	321023
+仪征市	wtym	30000	321081
+高邮市	ymym	30000	321084
+镇江市	qiym	30000	321100
+镇江市市辖区	qiya	30000	321101
+京口区	ykaq	30000	321102
+润州区	iyaq	30000	321111
+丹徒区	mtaq	30000	321112
+丹阳市	mbym	30000	321181
+扬中市	rkym	30000	321182
+句容市	qpym	30000	321183
+泰州市	dyym	30000	321200
+泰州市市辖区	dyya	30000	321201
+海陵区	ibaq	30000	321202
+高港区	yiaq	30000	321203
+姜堰区	ufaq	30000	321204
+兴化市	iwym	30000	321281
+靖江市	uiym	30000	321282
+泰兴市	diym	30000	321283
+宿迁市	ptym	30000	321300
+宿迁市市辖区	ptya	30000	321301
+宿城区	pfaq	30000	321302
+宿豫区	pcaq	30000	321311
+沭阳县	ibeg	30000	321322
+泗阳县	ibeg	30000	321323
+泗洪县	iieg	30000	321324
+合肥市市辖区	weya	30000	340101
+瑶海区	giaq	30000	340102
+庐阳区	ybaq	30000	340103
+蜀山区	lmaq	30000	340104
+包河区	qiaq	30000	340111
+长丰县	tdeg	30000	340121
+肥东县	eaeg	30000	340122
+肥西县	eseg	30000	340123
+庐江县	yieg	30000	340124
+巢湖市	viym	30000	340181
+芜湖市	aiym	30000	340200
+芜湖市市辖区	aiya	30000	340201
+镜湖区	qiaq	30000	340202
+弋江区	aiaq	30000	340203
+鸠江区	viaq	30000	340207
+湾沚区	iiaq	30000	340221
+繁昌区	tjaq	30000	340222
+南陵县	fbeg	30000	340223
+无为市	fyym	30000	340281
+蚌埠市	jfym	30000	340300
+蚌埠市市辖区	jfya	30000	340301
+龙子湖区	dbia	30000	340302
+蚌山区	jmaq	30000	340303
+禹会区	twaq	30000	340304
+淮上区	ihaq	30000	340311
+怀远县	nfeg	30000	340321
+五河县	gieg	30000	340322
+固镇县	lqeg	30000	340323
+淮南市	ifym	30000	340400
+淮南市市辖区	ifya	30000	340401
+大通区	dcaq	30000	340402
+田家庵区	lpya	30000	340403
+谢家集区	ypwa	30000	340404
+八公山区	wwma	30000	340405
+潘集区	iwaq	30000	340406
+凤台县	mceg	30000	340421
+寿县	dteg	30000	340422
+马鞍山市	camy	30000	340500
+马鞍山市市辖区	cama	30000	340501
+花山区	amaq	30000	340503
+雨山区	fmaq	30000	340504
+博望区	fyaq	30000	340506
+当涂县	iieg	30000	340521
+含山县	wmeg	30000	340522
+和县	tkeg	30000	340523
+淮北市	iuym	30000	340600
+淮北市市辖区	iuya	30000	340601
+杜集区	swaq	30000	340602
+相山区	smaq	30000	340603
+烈山区	gmaq	30000	340604
+濉溪县	iieg	30000	340621
+铜陵市	qbym	30000	340700
+铜陵市市辖区	qbya	30000	340701
+铜官区	qpaq	30000	340705
+义安区	ypaq	30000	340706
+枞阳县	sbeg	30000	340722
+安庆市	pyym	30000	340800
+安庆市市辖区	pyya	30000	340801
+迎江区	qiaq	30000	340802
+大观区	dcaq	30000	340803
+宜秀区	ptaq	30000	340811
+怀宁县	npeg	30000	340822
+潜山市	imym	30000	340882
+太湖县	dieg	30000	340825
+宿松县	pseg	30000	340826
+望江县	yieg	30000	340827
+岳西县	rseg	30000	340828
+桐城市	sfym	30000	340881
+黄山市	amym	30000	341000
+黄山市市辖区	amya	30000	341001
+屯溪区	giaq	30000	341002
+黄山区	amaq	30000	341003
+徽州区	tyaq	30000	341004
+歙县	wgeg	30000	341021
+休宁县	wpeg	30000	341022
+黟县	lfeg	30000	341023
+祁门县	pueg	30000	341024
+滁州市	iyym	30000	341100
+滁州市市辖区	iyya	30000	341101
+琅琊区	ggaq	30000	341102
+南谯区	fyaq	30000	341103
+来安县	gpeg	30000	341122
+全椒县	wseg	30000	341124
+定远县	pfeg	30000	341125
+凤阳县	mbeg	30000	341126
+天长市	gtym	30000	341181
+明光市	jiym	30000	341182
+阜阳市	wbym	30000	341200
+阜阳市市辖区	wbya	30000	341201
+颍州区	xyaq	30000	341202
+颍东区	xaaq	30000	341203
+颍泉区	xraq	30000	341204
+临泉县	jreg	30000	341221
+太和县	dteg	30000	341222
+阜南县	wfeg	30000	341225
+颍上县	xheg	30000	341226
+界首市	luym	30000	341282
+宿州市	pyym	30000	341300
+宿州市市辖区	pyya	30000	341301
+埇桥区	fsaq	30000	341302
+砀山县	dmeg	30000	341321
+灵璧县	vneg	30000	341323
+泗县	ileg	30000	341324
+六安市	upym	30000	341500
+六安市市辖区	upya	30000	341501
+金安区	qpaq	30000	341502
+裕安区	ppaq	30000	341503
+叶集区	kwaq	30000	341504
+霍邱县	freg	30000	341522
+舒城县	wfeg	30000	341523
+金寨县	qpeg	30000	341524
+霍山县	fmeg	30000	341525
+亳州市	yyym	30000	341600
+亳州市市辖区	yyya	30000	341601
+谯城区	yfaq	30000	341602
+涡阳县	ibeg	30000	341621
+蒙城县	afeg	30000	341622
+利辛县	tueg	30000	341623
+池州市	iyym	30000	341700
+池州市市辖区	iyya	30000	341701
+贵池区	kiaq	30000	341702
+东至县	ageg	30000	341721
+石台县	dceg	30000	341722
+青阳县	gbeg	30000	341723
+宣城市	pfym	30000	341800
+宣城市市辖区	pfya	30000	341801
+宣州区	pyaq	30000	341802
+郎溪县	yieg	30000	341821
+广德市	ytym	30000	341882
+泾县	iceg	30000	341823
+绩溪县	xieg	30000	341824
+旌德县	yteg	30000	341825
+宁国市	plym	30000	341881
+福州市	pyym	30000	350100
+福州市市辖区	pyya	30000	350101
+台江区	ciaq	30000	350103
+仓山区	wmaq	30000	350104
+马尾区	cnaq	30000	350105
+晋安区	gpaq	30000	350111
+长乐区	tqaq	30000	350112
+闽侯县	uweg	30000	350121
+连江县	lieg	30000	350122
+罗源县	lieg	30000	350123
+闽清县	uieg	30000	350124
+永泰县	ydeg	30000	350125
+平潭县	gieg	30000	350128
+福清市	piym	30000	350181
+厦门市市辖区	duya	30000	350201
+思明区	ljaq	30000	350203
+海沧区	iiaq	30000	350205
+湖里区	ijaq	30000	350206
+集美区	wuaq	30000	350211
+同安区	mpaq	30000	350212
+翔安区	upaq	30000	350213
+莆田市	alym	30000	350300
+莆田市市辖区	alya	30000	350301
+城厢区	fdaq	30000	350302
+涵江区	iiaq	30000	350303
+荔城区	afaq	30000	350304
+秀屿区	tmaq	30000	350305
+仙游县	wieg	30000	350322
+三明市	djym	30000	350400
+三明市市辖区	djya	30000	350401
+梅列区	sgaq	30000	350402
+三元区	dfaq	30000	350403
+明溪县	jieg	30000	350421
+清流县	iieg	30000	350423
+宁化县	pweg	30000	350424
+大田县	dleg	30000	350425
+尤溪县	dieg	30000	350426
+将乐县	uqeg	30000	350428
+泰宁县	dpeg	30000	350429
+建宁县	vpeg	30000	350430
+永安市	ypym	30000	350481
+泉州市	ryym	30000	350500
+泉州市市辖区	ryya	30000	350501
+鲤城区	qfaq	30000	350502
+丰泽区	diaq	30000	350503
+洛江区	iiaq	30000	350504
+泉港区	riaq	30000	350505
+惠安县	gpeg	30000	350521
+安溪县	pieg	30000	350524
+永春县	ydeg	30000	350525
+德化县	tweg	30000	350526
+金门县	queg	30000	350527
+石狮市	dqym	30000	350581
+晋江市	giym	30000	350582
+南安市	fpym	30000	350583
+漳州市	iyym	30000	350600
+漳州市市辖区	iyya	30000	350601
+芗城区	afaq	30000	350602
+龙文区	dyaq	30000	350603
+云霄县	ffeg	30000	350622
+漳浦县	iieg	30000	350623
+诏安县	ypeg	30000	350624
+长泰县	tdeg	30000	350625
+东山县	ameg	30000	350626
+南靖县	fueg	30000	350627
+平和县	gteg	30000	350628
+华安县	wpeg	30000	350629
+龙海市	diym	30000	350681
+南平市	fgym	30000	350700
+南平市市辖区	fgya	30000	350701
+延平区	tgaq	30000	350702
+建阳区	vbaq	30000	350703
+顺昌县	kjeg	30000	350721
+浦城县	ifeg	30000	350722
+光泽县	iieg	30000	350723
+松溪县	sieg	30000	350724
+政和县	gteg	30000	350725
+邵武市	vgym	30000	350781
+武夷山市	ggmy	30000	350782
+建瓯市	vaym	30000	350783
+龙岩市	dmym	30000	350800
+龙岩市市辖区	dmya	30000	350801
+新罗区	ulaq	30000	350802
+永定区	ypaq	30000	350803
+长汀县	tieg	30000	350821
+上杭县	hseg	30000	350823
+武平县	ggeg	30000	350824
+连城县	lfeg	30000	350825
+漳平市	igym	30000	350881
+宁德市	ptym	30000	350900
+宁德市市辖区	ptya	30000	350901
+蕉城区	afaq	30000	350902
+霞浦县	fieg	30000	350921
+古田县	dleg	30000	350922
+屏南县	nfeg	30000	350923
+寿宁县	dpeg	30000	350924
+周宁县	mpeg	30000	350925
+柘荣县	saeg	30000	350926
+福安市	ppym	30000	350981
+福鼎市	phym	30000	350982
+南昌市	fjym	30000	360100
+南昌市市辖区	fjya	30000	360101
+东湖区	aiaq	30000	360102
+青云谱区	gfya	30000	360104
+青山湖区	gmia	30000	360111
+红谷滩区	xwia	30000	360113
+新建区	uvaq	30000	360112
+南昌县	fjeg	30000	360121
+安义县	pyeg	30000	360123
+进贤县	fjeg	30000	360124
+景德镇市	jtqy	30000	360200
+景德镇市市辖区	jtqa	30000	360201
+昌江区	jiaq	30000	360202
+珠山区	gmaq	30000	360203
+浮梁县	iieg	30000	360222
+乐平市	qgym	30000	360281
+萍乡市	axym	30000	360300
+萍乡市市辖区	axya	30000	360301
+安源区	piaq	30000	360302
+湘东区	iaaq	30000	360313
+莲花县	aaeg	30000	360321
+上栗县	hseg	30000	360322
+芦溪县	aieg	30000	360323
+九江市	viym	30000	360400
+九江市市辖区	viya	30000	360401
+濂溪区	iiaq	30000	360402
+浔阳区	ibaq	30000	360403
+柴桑区	hcaq	30000	360404
+武宁县	gpeg	30000	360423
+修水县	wieg	30000	360424
+永修县	yweg	30000	360425
+德安县	tpeg	30000	360426
+都昌县	fjeg	30000	360428
+湖口县	ikeg	30000	360429
+彭泽县	fieg	30000	360430
+瑞昌市	gjym	30000	360481
+共青城市	agfy	30000	360482
+庐山市	ymym	30000	360483
+新余市	uwym	30000	360500
+新余市市辖区	uwya	30000	360501
+渝水区	iiaq	30000	360502
+分宜县	wpeg	30000	360521
+鹰潭市	yiym	30000	360600
+鹰潭市市辖区	yiya	30000	360601
+月湖区	eiaq	30000	360602
+余江区	wiaq	30000	360603
+贵溪市	kiym	30000	360681
+赣州市	uyym	30000	360700
+赣州市市辖区	uyya	30000	360701
+章贡区	uaaq	30000	360702
+南康区	fyaq	30000	360703
+赣县区	ueaq	30000	360704
+信丰县	wdeg	30000	360722
+大余县	dweg	30000	360723
+上犹县	hqeg	30000	360724
+崇义县	myeg	30000	360725
+安远县	pfeg	30000	360726
+龙南市	dfym	30000	360783
+定南县	pfeg	30000	360728
+全南县	wfeg	30000	360729
+宁都县	pfeg	30000	360730
+于都县	gfeg	30000	360731
+兴国县	ileg	30000	360732
+会昌县	wjeg	30000	360733
+寻乌县	vqeg	30000	360734
+石城县	dfeg	30000	360735
+瑞金市	gqym	30000	360781
+吉安市	fpym	30000	360800
+吉安市市辖区	fpya	30000	360801
+吉州区	fyaq	30000	360802
+青原区	gdaq	30000	360803
+吉安县	fpeg	30000	360821
+吉水县	fieg	30000	360822
+峡江县	mieg	30000	360823
+新干县	ufeg	30000	360824
+永丰县	ydeg	30000	360825
+泰和县	dteg	30000	360826
+遂川县	ukeg	30000	360827
+万安县	dpeg	30000	360828
+安福县	ppeg	30000	360829
+永新县	yueg	30000	360830
+井冈山市	fmmy	30000	360881
+宜春市	pdym	30000	360900
+宜春市市辖区	pdya	30000	360901
+袁州区	fyaq	30000	360902
+奉新县	dueg	30000	360921
+万载县	dfeg	30000	360922
+上高县	hyeg	30000	360923
+宜丰县	pdeg	30000	360924
+靖安县	upeg	30000	360925
+铜鼓县	qfeg	30000	360926
+丰城市	dfym	30000	360981
+樟树市	ssym	30000	360982
+高安市	ypym	30000	360983
+抚州市	ryym	30000	361000
+抚州市市辖区	ryya	30000	361001
+临川区	jkaq	30000	361002
+东乡区	axaq	30000	361003
+南城县	ffeg	30000	361021
+黎川县	tkeg	30000	361022
+南丰县	fdeg	30000	361023
+崇仁县	mweg	30000	361024
+乐安县	qpeg	30000	361025
+宜黄县	paeg	30000	361026
+金溪县	qieg	30000	361027
+资溪县	uieg	30000	361028
+广昌县	yjeg	30000	361030
+上饶市	hqym	30000	361100
+上饶市市辖区	hqya	30000	361101
+信州区	wyaq	30000	361102
+广丰区	ydaq	30000	361103
+广信区	ywaq	30000	361104
+玉山县	gmeg	30000	361123
+铅山县	qmeg	30000	361124
+横峰县	smeg	30000	361125
+弋阳县	abeg	30000	361126
+余干县	wfeg	30000	361127
+鄱阳县	tbeg	30000	361128
+万年县	dreg	30000	361129
+婺源县	cieg	30000	361130
+德兴市	tiym	30000	361181
+济南市市辖区	ifya	30000	370101
+市中区	ykaq	30000	370103
+天桥区	gsaq	30000	370105
+历城区	dfaq	30000	370112
+长清区	tiaq	30000	370113
+章丘区	uraq	30000	370114
+平阴县	gbeg	30000	370124
+济阳区	ibaq	30000	370115
+商河县	uieg	30000	370126
+青岛市市辖区	gqya	30000	370201
+市南区	yfaq	30000	370202
+市北区	yuaq	30000	370203
+黄岛区	aqaq	30000	370211
+崂山区	mmaq	30000	370212
+李沧区	siaq	30000	370213
+城阳区	fbaq	30000	370214
+即墨区	vlaq	30000	370215
+胶州市	eyym	30000	370281
+平度市	gyym	30000	370283
+莱西市	asym	30000	370285
+淄博市	ifym	30000	370300
+淄博市市辖区	ifya	30000	370301
+淄川区	ikaq	30000	370302
+张店区	xyaq	30000	370303
+博山区	fmaq	30000	370304
+临淄区	jiaq	30000	370305
+周村区	msaq	30000	370306
+桓台县	sceg	30000	370321
+高青县	ygeg	30000	370322
+沂源县	iieg	30000	370323
+枣庄市	gyym	30000	370400
+枣庄市市辖区	gyya	30000	370401
+薛城区	afaq	30000	370403
+峄城区	mfaq	30000	370404
+台儿庄区	cqya	30000	370405
+山亭区	myaq	30000	370406
+滕州市	eyym	30000	370481
+东营市	aaym	30000	370500
+东营市市辖区	aaya	30000	370501
+东营区	aaaq	30000	370502
+河口区	ikaq	30000	370503
+垦利区	vtaq	30000	370505
+利津县	tieg	30000	370522
+广饶县	yqeg	30000	370523
+烟台市	ocym	30000	370600
+烟台市市辖区	ocya	30000	370601
+芝罘区	alaq	30000	370602
+福山区	pmaq	30000	370611
+牟平区	cgaq	30000	370612
+莱山区	amaq	30000	370613
+蓬莱区	aaaq	30000	370614
+龙口市	dkym	30000	370681
+莱阳市	abym	30000	370682
+莱州市	ayym	30000	370683
+招远市	rfym	30000	370685
+栖霞市	sfym	30000	370686
+海阳市	ibym	30000	370687
+潍坊市	ifym	30000	370700
+潍坊市市辖区	ifya	30000	370701
+潍城区	ifaq	30000	370702
+寒亭区	pyaq	30000	370703
+坊子区	fbaq	30000	370704
+奎文区	dyaq	30000	370705
+临朐县	jeeg	30000	370724
+昌乐县	jqeg	30000	370725
+青州市	gyym	30000	370781
+诸城市	yfym	30000	370782
+寿光市	diym	30000	370783
+安丘市	prym	30000	370784
+高密市	ypym	30000	370785
+昌邑市	jkym	30000	370786
+济宁市	ipym	30000	370800
+济宁市市辖区	ipya	30000	370801
+任城区	wfaq	30000	370811
+兖州区	uyaq	30000	370812
+微山县	tmeg	30000	370826
+鱼台县	qceg	30000	370827
+金乡县	qxeg	30000	370828
+嘉祥县	fpeg	30000	370829
+汶上县	iheg	30000	370830
+泗水县	iieg	30000	370831
+梁山县	imeg	30000	370832
+曲阜市	mwym	30000	370881
+邹城市	qfym	30000	370883
+泰安市	dpym	30000	370900
+泰安市市辖区	dpya	30000	370901
+泰山区	dmaq	30000	370902
+岱岳区	wraq	30000	370911
+宁阳县	pbeg	30000	370921
+东平县	ageg	30000	370923
+新泰市	udym	30000	370982
+肥城市	efym	30000	370983
+威海市	diym	30000	371000
+威海市市辖区	diya	30000	371001
+环翠区	gnaq	30000	371002
+文登区	ywaq	30000	371003
+荣成市	adym	30000	371082
+乳山市	emym	30000	371083
+日照市	jjym	30000	371100
+日照市市辖区	jjya	30000	371101
+东港区	aiaq	30000	371102
+岚山区	mmaq	30000	371103
+五莲县	gaeg	30000	371121
+莱芜区	aaaq	30000	370116
+钢城区	qfaq	30000	370117
+临沂市	jiym	30000	371300
+临沂市市辖区	jiya	30000	371301
+兰山区	umaq	30000	371302
+罗庄区	lyaq	30000	371311
+沂南县	ifeg	30000	371321
+郯城县	ofeg	30000	371322
+沂水县	iieg	30000	371323
+兰陵县	ubeg	30000	371324
+费县	xjeg	30000	371325
+平邑县	gkeg	30000	371326
+莒南县	afeg	30000	371327
+蒙阴县	abeg	30000	371328
+临沭县	jieg	30000	371329
+德州市	tyym	30000	371400
+德州市市辖区	tyya	30000	371401
+德城区	tfaq	30000	371402
+陵城区	bfaq	30000	371403
+宁津县	pieg	30000	371422
+庆云县	yfeg	30000	371423
+临邑县	jkeg	30000	371424
+齐河县	yieg	30000	371425
+平原县	gdeg	30000	371426
+夏津县	dieg	30000	371427
+武城县	gfeg	30000	371428
+乐陵市	qbym	30000	371481
+禹城市	tfym	30000	371482
+聊城市	bfym	30000	371500
+聊城市市辖区	bfya	30000	371501
+东昌府区	ajya	30000	371502
+阳谷县	bweg	30000	371521
+莘县	aueg	30000	371522
+茌平区	agaq	30000	371503
+东阿县	abeg	30000	371524
+冠县	pfeg	30000	371525
+高唐县	yyeg	30000	371526
+临清市	jiym	30000	371581
+滨州市	iyym	30000	371600
+滨州市市辖区	iyya	30000	371601
+滨城区	ifaq	30000	371602
+沾化区	iwaq	30000	371603
+惠民县	gneg	30000	371621
+阳信县	bweg	30000	371622
+无棣县	fseg	30000	371623
+博兴县	fieg	30000	371625
+邹平市	qgym	30000	371681
+菏泽市	aiym	30000	371700
+菏泽市市辖区	aiya	30000	371701
+牡丹区	tmaq	30000	371702
+定陶区	pbaq	30000	371703
+曹县	gmeg	30000	371721
+单县	ujeg	30000	371722
+成武县	dgeg	30000	371723
+巨野县	ajeg	30000	371724
+郓城县	pfeg	30000	371725
+鄄城县	sfeg	30000	371726
+东明县	ajeg	30000	371728
+河南省	ifit	30000	410000
+郑州市	uyym	30000	410100
+郑州市市辖区	uyya	30000	410101
+中原区	kdaq	30000	410102
+二七区	faaq	30000	410103
+管城回族区	tfla	30000	410104
+金水区	qiaq	30000	410105
+上街区	htaq	30000	410106
+惠济区	giaq	30000	410108
+中牟县	kceg	30000	410122
+巩义市	ayym	30000	410181
+荥阳市	abym	30000	410182
+新密市	upym	30000	410183
+新郑市	uuym	30000	410184
+登封市	wfym	30000	410185
+开封市	gfym	30000	410200
+开封市市辖区	gfya	30000	410201
+龙亭区	dyaq	30000	410202
+顺河回族区	kila	30000	410203
+禹王台区	tgca	30000	410205
+祥符区	ptaq	30000	410212
+杞县	sneg	30000	410221
+通许县	cyeg	30000	410222
+尉氏县	nqeg	30000	410223
+兰考县	ufeg	30000	410225
+洛阳市	ibym	30000	410300
+洛阳市市辖区	ibya	30000	410301
+西工区	saaq	30000	410303
+瀍河回族区	iila	30000	410304
+涧西区	isaq	30000	410305
+孟津区	biaq	30000	410306
+洛龙区	idaq	30000	410311
+新安县	upeg	30000	410323
+栾川县	ykeg	30000	410324
+嵩县	myeg	30000	410325
+汝阳县	ibeg	30000	410326
+宜阳县	pbeg	30000	410327
+洛宁县	ipeg	30000	410328
+伊川县	wkeg	30000	410329
+偃师区	wjaq	30000	410381
+平顶山市	gsmy	30000	410400
+平顶山市市辖区	gsma	30000	410401
+卫东区	baaq	30000	410403
+石龙区	ddaq	30000	410404
+湛河区	iiaq	30000	410411
+宝丰县	pdeg	30000	410421
+叶县	kfeg	30000	410422
+鲁山县	qmeg	30000	410423
+郏县	gueg	30000	410425
+舞钢市	rqym	30000	410481
+汝州市	iyym	30000	410482
+安阳市	pbym	30000	410500
+安阳市市辖区	pbya	30000	410501
+文峰区	ymaq	30000	410502
+北关区	uuaq	30000	410503
+殷都区	rfaq	30000	410505
+龙安区	dpaq	30000	410506
+安阳县	pbeg	30000	410522
+汤阴县	ibeg	30000	410523
+滑县	imeg	30000	410526
+内黄县	maeg	30000	410527
+林州市	syym	30000	410581
+鹤壁市	pnym	30000	410600
+鹤壁市市辖区	pnya	30000	410601
+鹤山区	pmaq	30000	410602
+山城区	mfaq	30000	410603
+淇滨区	iiaq	30000	410611
+浚县	iceg	30000	410621
+淇县	iaeg	30000	410622
+新乡市	uxym	30000	410700
+新乡市市辖区	uxya	30000	410701
+红旗区	xyaq	30000	410702
+卫滨区	biaq	30000	410703
+凤泉区	mraq	30000	410704
+牧野区	tjaq	30000	410711
+新乡县	uxeg	30000	410721
+获嘉县	afeg	30000	410724
+原阳县	dbeg	30000	410725
+延津县	tieg	30000	410726
+封丘县	freg	30000	410727
+长垣市	tfym	30000	410783
+卫辉市	biym	30000	410781
+辉县市	ieym	30000	410782
+焦作市	wwym	30000	410800
+焦作市市辖区	wwya	30000	410801
+中站区	kuaq	30000	410803
+马村区	csaq	30000	410804
+山阳区	mbaq	30000	410811
+修武县	wgeg	30000	410821
+博爱县	feeg	30000	410822
+武陟县	gbeg	30000	410823
+温县	ijeg	30000	410825
+沁阳市	ibym	30000	410882
+孟州市	byym	30000	410883
+濮阳市	ibym	30000	410900
+濮阳市市辖区	ibya	30000	410901
+华龙区	wdaq	30000	410902
+清丰县	ideg	30000	410922
+南乐县	fqeg	30000	410923
+范县	aieg	30000	410926
+台前县	cueg	30000	410927
+濮阳县	ibeg	30000	410928
+许昌市	yjym	30000	411000
+许昌市市辖区	yjya	30000	411001
+魏都区	tfaq	30000	411002
+建安区	vpaq	30000	411003
+鄢陵县	gbeg	30000	411024
+襄城县	yfeg	30000	411025
+禹州市	tyym	30000	411081
+长葛市	taym	30000	411082
+漯河市	iiym	30000	411100
+漯河市市辖区	iiya	30000	411101
+源汇区	iiaq	30000	411102
+郾城区	afaq	30000	411103
+召陵区	vbaq	30000	411104
+舞阳县	rbeg	30000	411121
+临颍县	jxeg	30000	411122
+三门峡市	dumy	30000	411200
+三门峡市市辖区	duma	30000	411201
+湖滨区	iiaq	30000	411202
+陕州区	byaq	30000	411203
+渑池县	iieg	30000	411221
+卢氏县	hqeg	30000	411224
+义马市	ycym	30000	411281
+灵宝市	vpym	30000	411282
+南阳市	fbym	30000	411300
+南阳市市辖区	fbya	30000	411301
+宛城区	pfaq	30000	411302
+卧龙区	adaq	30000	411303
+南召县	fveg	30000	411321
+方城县	yfeg	30000	411322
+西峡县	smeg	30000	411323
+镇平县	qgeg	30000	411324
+内乡县	mxeg	30000	411325
+淅川县	ikeg	30000	411326
+社旗县	pyeg	30000	411327
+唐河县	yieg	30000	411328
+新野县	ujeg	30000	411329
+桐柏县	sseg	30000	411330
+邓州市	cyym	30000	411381
+商丘市	urym	30000	411400
+商丘市市辖区	urya	30000	411401
+梁园区	ilaq	30000	411402
+睢阳区	hbaq	30000	411403
+民权县	nseg	30000	411421
+睢县	hweg	30000	411422
+宁陵县	pbeg	30000	411423
+柘城县	sfeg	30000	411424
+虞城县	hfeg	30000	411425
+夏邑县	dkeg	30000	411426
+永城市	yfym	30000	411481
+信阳市	wbym	30000	411500
+信阳市市辖区	wbya	30000	411501
+浉河区	iiaq	30000	411502
+平桥区	gsaq	30000	411503
+罗山县	lmeg	30000	411521
+光山县	imeg	30000	411522
+新县	useg	30000	411523
+商城县	ufeg	30000	411524
+固始县	lveg	30000	411525
+潢川县	ikeg	30000	411526
+淮滨县	iieg	30000	411527
+息县	theg	30000	411528
+周口市	mkym	30000	411600
+周口市市辖区	mkya	30000	411601
+川汇区	kiaq	30000	411602
+扶沟县	rieg	30000	411621
+西华县	sweg	30000	411622
+商水县	uieg	30000	411623
+沈丘县	ireg	30000	411624
+郸城县	ufeg	30000	411625
+淮阳区	ibaq	30000	411603
+太康县	dyeg	30000	411627
+鹿邑县	ykeg	30000	411628
+项城市	afym	30000	411681
+驻马店市	ccyy	30000	411700
+驻马店市市辖区	ccya	30000	411701
+驿城区	cfaq	30000	411702
+西平县	sgeg	30000	411721
+上蔡县	haeg	30000	411722
+平舆县	gweg	30000	411723
+正阳县	gbeg	30000	411724
+确山县	dmeg	30000	411725
+泌阳县	ibeg	30000	411726
+汝南县	ifeg	30000	411727
+遂平县	ugeg	30000	411728
+新蔡县	uaeg	30000	411729
+济源市	iiym	30000	419001
+武汉市	giym	30000	420100
+武汉市市辖区	giya	30000	420101
+江岸区	imaq	30000	420102
+江汉区	iiaq	30000	420103
+硚口区	dkaq	30000	420104
+汉阳区	ibaq	30000	420105
+武昌区	gjaq	30000	420106
+洪山区	imaq	30000	420111
+东西湖区	asia	30000	420112
+汉南区	ifaq	30000	420113
+蔡甸区	aqaq	30000	420114
+江夏区	idaq	30000	420115
+黄陂区	abaq	30000	420116
+新洲区	uiaq	30000	420117
+黄石市	adym	30000	420200
+黄石市市辖区	adya	30000	420201
+黄石港区	adia	30000	420202
+西塞山区	spma	30000	420203
+下陆区	gbaq	30000	420204
+铁山区	qmaq	30000	420205
+阳新县	bueg	30000	420222
+大冶市	duym	30000	420281
+十堰市	ffym	30000	420300
+十堰市市辖区	ffya	30000	420301
+茅箭区	ataq	30000	420302
+张湾区	xiaq	30000	420303
+郧阳区	kbaq	30000	420304
+郧西县	kseg	30000	420322
+竹山县	tmeg	30000	420323
+竹溪县	tieg	30000	420324
+房县	yneg	30000	420325
+丹江口市	miky	30000	420381
+宜昌市市辖区	pjya	30000	420501
+西陵区	sbaq	30000	420502
+伍家岗区	wpma	30000	420503
+点军区	hpaq	30000	420504
+猇亭区	qyaq	30000	420505
+夷陵区	gbaq	30000	420506
+远安县	fpeg	30000	420525
+兴山县	imeg	30000	420526
+秭归县	tjeg	30000	420527
+长阳土家族自治县	tbfe	30000	420528
+五峰土家族自治县	gmfe	30000	420529
+宜都市	pfym	30000	420581
+当阳市	ibym	30000	420582
+枝江市	siym	30000	420583
+襄阳市	ybym	30000	420600
+襄阳市市辖区	ybya	30000	420601
+襄城区	yfaq	30000	420602
+樊城区	sfaq	30000	420606
+襄州区	yyaq	30000	420607
+南漳县	fieg	30000	420624
+谷城县	wfeg	30000	420625
+保康县	wyeg	30000	420626
+老河口市	fiky	30000	420682
+枣阳市	gbym	30000	420683
+宜城市	pfym	30000	420684
+鄂州市	kyym	30000	420700
+鄂州市市辖区	kyya	30000	420701
+梁子湖区	ibia	30000	420702
+华容区	wpaq	30000	420703
+鄂城区	kfaq	30000	420704
+荆门市	auym	30000	420800
+荆门市市辖区	auya	30000	420801
+东宝区	apaq	30000	420802
+掇刀区	rvaq	30000	420804
+京山市	ymym	30000	420882
+沙洋县	iieg	30000	420822
+钟祥市	qpym	30000	420881
+孝感市	fdym	30000	420900
+孝感市市辖区	fdya	30000	420901
+孝南区	ffaq	30000	420902
+孝昌县	fjeg	30000	420921
+大悟县	dneg	30000	420922
+云梦县	fseg	30000	420923
+应城市	yfym	30000	420981
+安陆市	pbym	30000	420982
+汉川市	ikym	30000	420984
+荆州市	ayym	30000	421000
+荆州市市辖区	ayya	30000	421001
+沙市区	iyaq	30000	421002
+荆州区	ayaq	30000	421003
+公安县	wpeg	30000	421022
+监利市	jtym	30000	421023
+江陵县	ibeg	30000	421024
+石首市	duym	30000	421081
+洪湖市	iiym	30000	421083
+松滋市	siym	30000	421087
+黄冈市	amym	30000	421100
+黄冈市市辖区	amya	30000	421101
+黄州区	ayaq	30000	421102
+团风县	lmeg	30000	421121
+红安县	xpeg	30000	421122
+罗田县	lleg	30000	421123
+英山县	ameg	30000	421124
+浠水县	iieg	30000	421125
+蕲春县	adeg	30000	421126
+黄梅县	aseg	30000	421127
+麻城市	yfym	30000	421181
+武穴市	gpym	30000	421182
+咸宁市	dpym	30000	421200
+咸宁市市辖区	dpya	30000	421201
+咸安区	dpaq	30000	421202
+嘉鱼县	fqeg	30000	421221
+通城县	cfeg	30000	421222
+崇阳县	mbeg	30000	421223
+通山县	cmeg	30000	421224
+赤壁市	fnym	30000	421281
+随州市	byym	30000	421300
+随州市市辖区	byya	30000	421301
+曾都区	ufaq	30000	421303
+随县	bdeg	30000	421321
+广水市	yiym	30000	421381
+恩施土家族苗族自治州	lyfy	30000	422800
+恩施市	lyym	30000	422801
+利川市	tkym	30000	422802
+建始县	vveg	30000	422822
+巴东县	caeg	30000	422823
+宣恩县	pleg	30000	422825
+咸丰县	ddeg	30000	422826
+来凤县	gmeg	30000	422827
+鹤峰县	pmeg	30000	422828
+仙桃市	wsym	30000	429004
+潜江市	iiym	30000	429005
+天门市	guym	30000	429006
+神农架林区	ppla	30000	429021
+湖南省	ifit	30000	430000
+长沙市市辖区	tiya	30000	430101
+芙蓉区	aaaq	30000	430102
+天心区	gnaq	30000	430103
+岳麓区	rsaq	30000	430104
+开福区	gpaq	30000	430105
+雨花区	faaq	30000	430111
+望城区	yfaq	30000	430112
+长沙县	tieg	30000	430121
+浏阳市	ibym	30000	430181
+宁乡市	pxym	30000	430182
+株洲市	siym	30000	430200
+株洲市市辖区	siya	30000	430201
+荷塘区	afaq	30000	430202
+芦淞区	aiaq	30000	430203
+石峰区	dmaq	30000	430204
+天元区	gfaq	30000	430211
+渌口区	ikaq	30000	430212
+攸县	wheg	30000	430223
+茶陵县	abeg	30000	430224
+炎陵县	obeg	30000	430225
+醴陵市	sbym	30000	430281
+湘潭市	iiym	30000	430300
+湘潭市市辖区	iiya	30000	430301
+雨湖区	fiaq	30000	430302
+岳塘区	rfaq	30000	430304
+湘潭县	iieg	30000	430321
+湘乡市	ixym	30000	430381
+韶山市	umym	30000	430382
+衡阳市	tbym	30000	430400
+衡阳市市辖区	tbya	30000	430401
+珠晖区	gjaq	30000	430405
+雁峰区	dmaq	30000	430406
+石鼓区	dfaq	30000	430407
+蒸湘区	aiaq	30000	430408
+南岳区	fraq	30000	430412
+衡阳县	tbeg	30000	430421
+衡南县	tfeg	30000	430422
+衡山县	tmeg	30000	430423
+衡东县	taeg	30000	430424
+祁东县	paeg	30000	430426
+耒阳市	dbym	30000	430481
+常宁市	ipym	30000	430482
+邵阳市	vbym	30000	430500
+邵阳市市辖区	vbya	30000	430501
+双清区	ciaq	30000	430502
+大祥区	dpaq	30000	430503
+北塔区	ufaq	30000	430511
+邵东市	vaym	30000	430582
+新邵县	uveg	30000	430522
+邵阳县	vbeg	30000	430523
+隆回县	bleg	30000	430524
+洞口县	ikeg	30000	430525
+绥宁县	xpeg	30000	430527
+新宁县	upeg	30000	430528
+城步苗族自治县	fhae	30000	430529
+武冈市	gmym	30000	430581
+岳阳市	rbym	30000	430600
+岳阳市市辖区	rbya	30000	430601
+岳阳楼区	rbsa	30000	430602
+云溪区	fiaq	30000	430603
+君山区	vmaq	30000	430611
+岳阳县	rbeg	30000	430621
+华容县	wpeg	30000	430623
+湘阴县	ibeg	30000	430624
+平江县	gieg	30000	430626
+汨罗市	ilym	30000	430681
+临湘市	jiym	30000	430682
+常德市	itym	30000	430700
+常德市市辖区	itya	30000	430701
+武陵区	gbaq	30000	430702
+鼎城区	hfaq	30000	430703
+安乡县	pxeg	30000	430721
+汉寿县	ideg	30000	430722
+澧县	imeg	30000	430723
+临澧县	jieg	30000	430724
+桃源县	sieg	30000	430725
+石门县	dueg	30000	430726
+津市市	iyym	30000	430781
+张家界市	xply	30000	430800
+张家界市市辖区	xpla	30000	430801
+武陵源区	gbia	30000	430811
+慈利县	uteg	30000	430821
+桑植县	cseg	30000	430822
+益阳市	ubym	30000	430900
+益阳市市辖区	ubya	30000	430901
+资阳区	ubaq	30000	430902
+赫山区	fmaq	30000	430903
+南县	fmeg	30000	430921
+桃江县	sieg	30000	430922
+安化县	pweg	30000	430923
+沅江市	iiym	30000	430981
+郴州市	syym	30000	431000
+郴州市市辖区	syya	30000	431001
+北湖区	uiaq	30000	431002
+苏仙区	awaq	30000	431003
+桂阳县	sbeg	30000	431021
+宜章县	pueg	30000	431022
+永兴县	yieg	30000	431023
+嘉禾县	fteg	30000	431024
+临武县	jgeg	30000	431025
+汝城县	ifeg	30000	431026
+桂东县	saeg	30000	431027
+安仁县	pweg	30000	431028
+资兴市	uiym	30000	431081
+永州市	yyym	30000	431100
+永州市市辖区	yyya	30000	431101
+零陵区	fbaq	30000	431102
+冷水滩区	uiia	30000	431103
+祁阳市	pbym	30000	431121
+东安县	apeg	30000	431122
+双牌县	cteg	30000	431123
+道县	uteg	30000	431124
+江永县	iyeg	30000	431125
+宁远县	pfeg	30000	431126
+蓝山县	ameg	30000	431127
+新田县	uleg	30000	431128
+江华瑶族自治县	iwge	30000	431129
+怀化市	nwym	30000	431200
+怀化市市辖区	nwya	30000	431201
+鹤城区	pfaq	30000	431202
+中方县	kyeg	30000	431221
+沅陵县	ibeg	30000	431222
+辰溪县	dieg	30000	431223
+溆浦县	iieg	30000	431224
+会同县	wmeg	30000	431225
+麻阳苗族自治县	ybae	30000	431226
+新晃侗族自治县	ujwe	30000	431227
+芷江侗族自治县	aiwe	30000	431228
+靖州苗族侗族自治县	uyae	30000	431229
+通道侗族自治县	cuwe	30000	431230
+洪江市	iiym	30000	431281
+娄底市	oyym	30000	431300
+娄底市市辖区	oyya	30000	431301
+娄星区	ojaq	30000	431302
+双峰县	cmeg	30000	431321
+新化县	uweg	30000	431322
+冷水江市	uiiy	30000	431381
+涟源市	iiym	30000	431382
+湘西土家族苗族自治州	isfy	30000	433100
+吉首市	fuym	30000	433101
+泸溪县	iieg	30000	433122
+凤凰县	mmeg	30000	433123
+花垣县	afeg	30000	433124
+保靖县	wueg	30000	433125
+古丈县	ddeg	30000	433126
+永顺县	ykeg	30000	433127
+龙山县	dmeg	30000	433130
+广州市市辖区	yyya	30000	440101
+荔湾区	aiaq	30000	440103
+越秀区	ftaq	30000	440104
+海珠区	igaq	30000	440105
+天河区	giaq	30000	440106
+白云区	rfaq	30000	440111
+黄埔区	afaq	30000	440112
+番禺区	tjaq	30000	440113
+花都区	afaq	30000	440114
+南沙区	fiaq	30000	440115
+从化区	wwaq	30000	440117
+增城区	ffaq	30000	440118
+韶关市	uuym	30000	440200
+韶关市市辖区	uuya	30000	440201
+武江区	giaq	30000	440203
+浈江区	iiaq	30000	440204
+曲江区	miaq	30000	440205
+始兴县	vieg	30000	440222
+仁化县	wweg	30000	440224
+翁源县	wieg	30000	440229
+乳源瑶族自治县	eige	30000	440232
+新丰县	udeg	30000	440233
+乐昌市	qjym	30000	440281
+南雄市	fdym	30000	440282
+深圳市	ifym	30000	440300
+深圳市市辖区	ifya	30000	440301
+罗湖区	liaq	30000	440303
+福田区	plaq	30000	440304
+宝安区	ppaq	30000	440306
+龙岗区	dmaq	30000	440307
+盐田区	flaq	30000	440308
+龙华区	dwaq	30000	440309
+坪山区	fmaq	30000	440310
+光明区	ijaq	30000	440311
+珠海市	giym	30000	440400
+珠海市市辖区	giya	30000	440401
+香洲区	tiaq	30000	440402
+斗门区	uuaq	30000	440403
+金湾区	qiaq	30000	440404
+汕头市市辖区	iuya	30000	440501
+龙湖区	diaq	30000	440507
+金平区	qgaq	30000	440511
+濠江区	iiaq	30000	440512
+潮阳区	ibaq	30000	440513
+潮南区	ifaq	30000	440514
+澄海区	iiaq	30000	440515
+南澳县	fieg	30000	440523
+佛山市市辖区	wmya	30000	440601
+禅城区	pfaq	30000	440604
+南海区	fiaq	30000	440605
+顺德区	ktaq	30000	440606
+三水区	diaq	30000	440607
+高明区	yjaq	30000	440608
+江门市	iuym	30000	440700
+江门市市辖区	iuya	30000	440701
+蓬江区	aiaq	30000	440703
+江海区	iiaq	30000	440704
+新会区	uwaq	30000	440705
+台山市	cmym	30000	440781
+开平市	ggym	30000	440783
+鹤山市	pmym	30000	440784
+恩平市	lgym	30000	440785
+湛江市	iiym	30000	440800
+湛江市市辖区	iiya	30000	440801
+赤坎区	ffaq	30000	440802
+霞山区	fmaq	30000	440803
+坡头区	fuaq	30000	440804
+麻章区	yuaq	30000	440811
+遂溪县	uieg	30000	440823
+徐闻县	tueg	30000	440825
+廉江市	yiym	30000	440881
+雷州市	fyym	30000	440882
+吴川市	kkym	30000	440883
+茂名市	aqym	30000	440900
+茂名市市辖区	aqya	30000	440901
+茂南区	afaq	30000	440902
+电白区	jraq	30000	440904
+高州市	yyym	30000	440981
+化州市	wyym	30000	440982
+信宜市	wpym	30000	440983
+肇庆市	yyym	30000	441200
+肇庆市市辖区	yyya	30000	441201
+端州区	uyaq	30000	441202
+鼎湖区	hiaq	30000	441203
+高要区	ysaq	30000	441204
+广宁县	ypeg	30000	441223
+怀集县	nweg	30000	441224
+封开县	fgeg	30000	441225
+德庆县	tyeg	30000	441226
+四会市	lwym	30000	441284
+惠州市	gyym	30000	441300
+惠州市市辖区	gyya	30000	441301
+惠城区	gfaq	30000	441302
+惠阳区	gbaq	30000	441303
+博罗县	fleg	30000	441322
+惠东县	gaeg	30000	441323
+龙门县	dueg	30000	441324
+梅州市	syym	30000	441400
+梅州市市辖区	syya	30000	441401
+梅江区	siaq	30000	441402
+梅县区	seaq	30000	441403
+大埔县	dfeg	30000	441422
+丰顺县	dkeg	30000	441423
+五华县	gweg	30000	441424
+平远县	gfeg	30000	441426
+蕉岭县	ameg	30000	441427
+兴宁市	ipym	30000	441481
+汕尾市	inym	30000	441500
+汕尾市市辖区	inya	30000	441501
+海丰县	ideg	30000	441521
+陆河县	bieg	30000	441523
+陆丰市	bdym	30000	441581
+河源市	iiym	30000	441600
+河源市市辖区	iiya	30000	441601
+源城区	ifaq	30000	441602
+紫金县	hqeg	30000	441621
+龙川县	dkeg	30000	441622
+连平县	lgeg	30000	441623
+和平县	tgeg	30000	441624
+东源县	aieg	30000	441625
+阳江市	biym	30000	441700
+阳江市市辖区	biya	30000	441701
+江城区	ifaq	30000	441702
+阳东区	baaq	30000	441704
+阳西县	bseg	30000	441721
+阳春市	bdym	30000	441781
+清远市	ifym	30000	441800
+清远市市辖区	ifya	30000	441801
+清城区	ifaq	30000	441802
+清新区	iuaq	30000	441803
+佛冈县	wmeg	30000	441821
+阳山县	bmeg	30000	441823
+连山壮族瑶族自治县	lmue	30000	441825
+连南瑶族自治县	lfge	30000	441826
+英德市	atym	30000	441881
+连州市	lyym	30000	441882
+东沙群岛	aivq	30000	442101
+潮州市	iyym	30000	445100
+潮州市市辖区	iyya	30000	445101
+湘桥区	isaq	30000	445102
+潮安区	ipaq	30000	445103
+饶平县	qgeg	30000	445122
+揭阳市	rbym	30000	445200
+揭阳市市辖区	rbya	30000	445201
+榕城区	sfaq	30000	445202
+揭东区	raaq	30000	445203
+揭西县	rseg	30000	445222
+惠来县	ggeg	30000	445224
+普宁市	upym	30000	445281
+云浮市	fiym	30000	445300
+云浮市市辖区	fiya	30000	445301
+云城区	ffaq	30000	445302
+云安区	fpaq	30000	445303
+新兴县	uieg	30000	445321
+郁南县	dfeg	30000	445322
+罗定市	lpym	30000	445381
+南宁市	fpym	30000	450100
+南宁市市辖区	fpya	30000	450101
+兴宁区	ipaq	30000	450102
+青秀区	gtaq	30000	450103
+江南区	ifaq	30000	450105
+西乡塘区	sxfa	30000	450107
+良庆区	yyaq	30000	450108
+邕宁区	vpaq	30000	450109
+武鸣区	gkaq	30000	450110
+隆安县	bpeg	30000	450123
+马山县	cmeg	30000	450124
+上林县	hseg	30000	450125
+宾阳县	pbeg	30000	450126
+横县	saeg	30000	450127
+柳州市	syym	30000	450200
+柳州市市辖区	syya	30000	450201
+城中区	fkaq	30000	450202
+鱼峰区	qmaq	30000	450203
+柳南区	sfaq	30000	450204
+柳北区	suaq	30000	450205
+柳江区	siaq	30000	450206
+柳城县	sfeg	30000	450222
+鹿寨县	ypeg	30000	450223
+融安县	gpeg	30000	450224
+融水苗族自治县	giae	30000	450225
+三江侗族自治县	diwe	30000	450226
+桂林市	ssym	30000	450300
+桂林市市辖区	ssya	30000	450301
+秀峰区	tmaq	30000	450302
+叠彩区	ceaq	30000	450303
+象山区	qmaq	30000	450304
+七星区	ajaq	30000	450305
+雁山区	dmaq	30000	450311
+临桂区	jsaq	30000	450312
+阳朔县	bueg	30000	450321
+灵川县	vkeg	30000	450323
+全州县	wyeg	30000	450324
+兴安县	ipeg	30000	450325
+永福县	ypeg	30000	450326
+灌阳县	ibeg	30000	450327
+龙胜各族自治县	dete	30000	450328
+资源县	uieg	30000	450329
+平乐县	gqeg	30000	450330
+荔浦市	aiym	30000	450381
+恭城瑶族自治县	afge	30000	450332
+梧州市	syym	30000	450400
+梧州市市辖区	syya	30000	450401
+万秀区	dtaq	30000	450403
+长洲区	tiaq	30000	450405
+龙圩区	dfaq	30000	450406
+苍梧县	aseg	30000	450421
+藤县	aeeg	30000	450422
+蒙山县	ameg	30000	450423
+岑溪市	miym	30000	450481
+北海市	uiym	30000	450500
+北海市市辖区	uiya	30000	450501
+海城区	ifaq	30000	450502
+银海区	qiaq	30000	450503
+铁山港区	qmia	30000	450512
+合浦县	wieg	30000	450521
+防城港市	bfiy	30000	450600
+防城港市市辖区	bfia	30000	450601
+港口区	ikaq	30000	450602
+防城区	bfaq	30000	450603
+上思县	hleg	30000	450621
+东兴市	aiym	30000	450681
+钦州市	qyym	30000	450700
+钦州市市辖区	qyya	30000	450701
+钦南区	qfaq	30000	450702
+钦北区	quaq	30000	450703
+灵山县	vmeg	30000	450721
+浦北县	iueg	30000	450722
+贵港市	kiym	30000	450800
+贵港市市辖区	kiya	30000	450801
+港北区	iuaq	30000	450802
+港南区	ifaq	30000	450803
+覃塘区	sfaq	30000	450804
+平南县	gfeg	30000	450821
+桂平市	sgym	30000	450881
+玉林市	gsym	30000	450900
+玉林市市辖区	gsya	30000	450901
+玉州区	gyaq	30000	450902
+福绵区	pxaq	30000	450903
+容县	pweg	30000	450921
+陆川县	bkeg	30000	450922
+博白县	freg	30000	450923
+兴业县	ioeg	30000	450924
+北流市	uiym	30000	450981
+百色市	dqym	30000	451000
+百色市市辖区	dqya	30000	451001
+右江区	diaq	30000	451002
+田阳区	lbaq	30000	451003
+田东县	laeg	30000	451022
+平果市	gjym	30000	451082
+德保县	tweg	30000	451024
+那坡县	vfeg	30000	451026
+凌云县	ufeg	30000	451027
+乐业县	qoeg	30000	451028
+田林县	lseg	30000	451029
+西林县	sseg	30000	451030
+隆林各族自治县	bste	30000	451031
+靖西市	usym	30000	451081
+贺州市	lyym	30000	451100
+贺州市市辖区	lyya	30000	451101
+八步区	whaq	30000	451102
+平桂区	gsaq	30000	451103
+昭平县	jgeg	30000	451121
+钟山县	qmeg	30000	451122
+富川瑶族自治县	pkge	30000	451123
+河池市	iiym	30000	451200
+河池市市辖区	iiya	30000	451201
+金城江区	qfia	30000	451202
+宜州区	pyaq	30000	451203
+南丹县	fmeg	30000	451221
+天峨县	gmeg	30000	451222
+凤山县	mmeg	30000	451223
+东兰县	aueg	30000	451224
+罗城仫佬族自治县	lfwe	30000	451225
+环江毛南族自治县	gite	30000	451226
+巴马瑶族自治县	ccge	30000	451227
+都安瑶族自治县	fpge	30000	451228
+大化瑶族自治县	dwge	30000	451229
+来宾市	gpym	30000	451300
+来宾市市辖区	gpya	30000	451301
+兴宾区	ipaq	30000	451302
+忻城县	nfeg	30000	451321
+象州县	qyeg	30000	451322
+武宣县	gpeg	30000	451323
+金秀瑶族自治县	qtge	30000	451324
+合山市	wmym	30000	451381
+崇左市	mdym	30000	451400
+崇左市市辖区	mdya	30000	451401
+江州区	iyaq	30000	451402
+扶绥县	rxeg	30000	451421
+宁明县	pjeg	30000	451422
+龙州县	dyeg	30000	451423
+大新县	dueg	30000	451424
+天等县	gteg	30000	451425
+凭祥市	wpym	30000	451481
+海口市市辖区	ikya	30000	460101
+秀英区	taaq	30000	460105
+琼山区	gmaq	30000	460107
+美兰区	uuaq	30000	460108
+三亚市	dgym	30000	460200
+三亚市市辖区	dgya	30000	460201
+海棠区	iiaq	30000	460202
+吉阳区	fbaq	30000	460203
+天涯区	giaq	30000	460204
+崖州区	myaq	30000	460205
+三沙市	diym	30000	460300
+西沙区	siaq	30000	460301
+儋州市	wyym	30000	460400
+五指山市	grmy	30000	469001
+琼海市	giym	30000	469002
+文昌市	yjym	30000	469005
+万宁市	dpym	30000	469006
+东方市	ayym	30000	469007
+定安县	ppeg	30000	469021
+屯昌县	gjeg	30000	469022
+澄迈县	ideg	30000	469023
+临高县	jyeg	30000	469024
+白沙黎族自治县	rite	30000	469025
+昌江黎族自治县	jite	30000	469026
+乐东黎族自治县	qate	30000	469027
+陵水黎族自治县	bite	30000	469028
+保亭黎族苗族自治县	wyte	30000	469029
+琼中黎族苗族自治县	gkte	30000	469030
+重庆市市辖区	tyya	30000	500100
+万州区	dyaq	30000	500101
+涪陵区	ibaq	30000	500102
+渝中区	ikaq	30000	500103
+大渡口区	dika	30000	500104
+沙坪坝区	iffa	30000	500106
+九龙坡区	vdfa	30000	500107
+南岸区	fmaq	30000	500108
+北碚区	udaq	30000	500109
+綦江区	aiaq	30000	500110
+大足区	dkaq	30000	500111
+渝北区	iuaq	30000	500112
+巴南区	cfaq	30000	500113
+黔江区	liaq	30000	500114
+长寿区	tdaq	30000	500115
+江津区	iiaq	30000	500116
+合川区	wkaq	30000	500117
+永川区	ykaq	30000	500118
+南川区	fkaq	30000	500119
+璧山区	nmaq	30000	500120
+铜梁区	qiaq	30000	500151
+潼南区	ifaq	30000	500152
+荣昌区	ajaq	30000	500153
+开州区	gyaq	30000	500154
+梁平区	igaq	30000	500155
+武隆区	gbaq	30000	500156
+重庆市郊县	tyye	30000	500200
+城口县	fkeg	30000	500229
+丰都县	dfeg	30000	500230
+垫江县	rieg	30000	500231
+忠县	kheg	30000	500233
+云阳县	fbeg	30000	500235
+奉节县	daeg	30000	500236
+巫山县	ameg	30000	500237
+巫溪县	aieg	30000	500238
+石柱土家族自治县	dsfe	30000	500240
+秀山土家族苗族自治县	tmfe	30000	500241
+酉阳土家族苗族自治县	sbfe	30000	500242
+彭水苗族土家族自治县	fiae	30000	500243
+成都市市辖区	dfya	30000	510101
+锦江区	qiaq	30000	510104
+青羊区	guaq	30000	510105
+金牛区	qraq	30000	510106
+武侯区	gwaq	30000	510107
+成华区	dwaq	30000	510108
+龙泉驿区	drca	30000	510112
+青白江区	gria	30000	510113
+新都区	ufaq	30000	510114
+温江区	iiaq	30000	510115
+双流区	ciaq	30000	510116
+郫都区	rfaq	30000	510117
+金堂县	qieg	30000	510121
+大邑县	dkeg	30000	510129
+蒲江县	aieg	30000	510131
+新津区	uiaq	30000	510118
+都江堰市	fify	30000	510181
+彭州市	fyym	30000	510182
+邛崃市	amym	30000	510183
+崇州市	myym	30000	510184
+简阳市	tbym	30000	510185
+自贡市	taym	30000	510300
+自贡市市辖区	taya	30000	510301
+自流井区	tifa	30000	510302
+贡井区	afaq	30000	510303
+大安区	dpaq	30000	510304
+沿滩区	iiaq	30000	510311
+荣县	apeg	30000	510321
+富顺县	pkeg	30000	510322
+攀枝花市	ssay	30000	510400
+攀枝花市市辖区	ssaa	30000	510401
+东区	aiaq	30000	510402
+西区	sgaq	30000	510403
+仁和区	wtaq	30000	510411
+米易县	ojeg	30000	510421
+盐边县	fleg	30000	510422
+泸州市	iyym	30000	510500
+泸州市市辖区	iyya	30000	510501
+江阳区	ibaq	30000	510502
+纳溪区	xiaq	30000	510503
+龙马潭区	dcia	30000	510504
+泸县	iheg	30000	510521
+合江县	wieg	30000	510522
+叙永县	wyeg	30000	510524
+古蔺县	daeg	30000	510525
+德阳市	tbym	30000	510600
+德阳市市辖区	tbya	30000	510601
+旌阳区	ybaq	30000	510603
+中江县	kieg	30000	510623
+罗江区	liaq	30000	510604
+广汉市	yiym	30000	510681
+什邡市	wyym	30000	510682
+绵竹市	xtym	30000	510683
+绵阳市	xbym	30000	510700
+绵阳市市辖区	xbya	30000	510701
+涪城区	ifaq	30000	510703
+游仙区	iwaq	30000	510704
+安州区	pyaq	30000	510705
+三台县	dceg	30000	510722
+盐亭县	fyeg	30000	510723
+梓潼县	sieg	30000	510725
+北川羌族自治县	ukue	30000	510726
+平武县	ggeg	30000	510727
+江油市	iiym	30000	510781
+广元市	yfym	30000	510800
+广元市市辖区	yfya	30000	510801
+利州区	tyaq	30000	510802
+昭化区	jwaq	30000	510811
+朝天区	fgaq	30000	510812
+旺苍县	jaeg	30000	510821
+青川县	gkeg	30000	510822
+剑阁县	wueg	30000	510823
+苍溪县	aieg	30000	510824
+遂宁市	upym	30000	510900
+遂宁市市辖区	upya	30000	510901
+船山区	tmaq	30000	510903
+安居区	pnaq	30000	510904
+蓬溪县	aieg	30000	510921
+射洪市	tiym	30000	510981
+大英县	daeg	30000	510923
+内江市	miym	30000	511000
+内江市市辖区	miya	30000	511001
+东兴区	aiaq	30000	511011
+威远县	dfeg	30000	511024
+资中县	ukeg	30000	511025
+隆昌市	bjym	30000	511083
+乐山市	qmym	30000	511100
+乐山市市辖区	qmya	30000	511101
+沙湾区	iiaq	30000	511111
+五通桥区	gcsa	30000	511112
+金口河区	qkia	30000	511113
+犍为县	tyeg	30000	511123
+井研县	fdeg	30000	511124
+夹江县	gieg	30000	511126
+沐川县	ikeg	30000	511129
+峨边彝族自治县	mlxe	30000	511132
+马边彝族自治县	clxe	30000	511133
+峨眉山市	mnmy	30000	511181
+南充市	fyym	30000	511300
+南充市市辖区	fyya	30000	511301
+顺庆区	kyaq	30000	511302
+高坪区	yfaq	30000	511303
+嘉陵区	fbaq	30000	511304
+南部县	fueg	30000	511321
+营山县	ameg	30000	511322
+蓬安县	apeg	30000	511323
+仪陇县	wbeg	30000	511324
+西充县	syeg	30000	511325
+阆中市	ukym	30000	511381
+眉山市	nmym	30000	511400
+眉山市市辖区	nmya	30000	511401
+东坡区	afaq	30000	511402
+彭山区	fmaq	30000	511403
+仁寿县	wdeg	30000	511421
+洪雅县	iaeg	30000	511423
+丹棱县	mseg	30000	511424
+青神县	gpeg	30000	511425
+宜宾市	ppym	30000	511500
+宜宾市市辖区	ppya	30000	511501
+翠屏区	nnaq	30000	511502
+南溪区	fiaq	30000	511503
+叙州区	wyaq	30000	511504
+江安县	ipeg	30000	511523
+长宁县	tpeg	30000	511524
+高县	ymeg	30000	511525
+珙县	gaeg	30000	511526
+筠连县	tleg	30000	511527
+兴文县	iyeg	30000	511528
+屏山县	nmeg	30000	511529
+广安市	ypym	30000	511600
+广安市市辖区	ypya	30000	511601
+广安区	ypaq	30000	511602
+前锋区	uqaq	30000	511603
+岳池县	rieg	30000	511621
+武胜县	geeg	30000	511622
+邻水县	wieg	30000	511623
+华蓥市	waym	30000	511681
+达州市	dyym	30000	511700
+达州市市辖区	dyya	30000	511701
+通川区	ckaq	30000	511702
+达川区	dkaq	30000	511703
+宣汉县	pieg	30000	511722
+开江县	gieg	30000	511723
+大竹县	dteg	30000	511724
+渠县	iaeg	30000	511725
+万源市	diym	30000	511781
+雅安市	apym	30000	511800
+雅安市市辖区	apya	30000	511801
+雨城区	ffaq	30000	511802
+名山区	qmaq	30000	511803
+荥经县	axeg	30000	511822
+汉源县	iieg	30000	511823
+石棉县	dseg	30000	511824
+天全县	gweg	30000	511825
+芦山县	ameg	30000	511826
+宝兴县	pieg	30000	511827
+巴中市	ckym	30000	511900
+巴中市市辖区	ckya	30000	511901
+巴州区	cyaq	30000	511902
+恩阳区	lbaq	30000	511903
+通江县	cieg	30000	511921
+南江县	fieg	30000	511922
+平昌县	gjeg	30000	511923
+资阳市	ubym	30000	512000
+资阳市市辖区	ubya	30000	512001
+雁江区	diaq	30000	512002
+安岳县	preg	30000	512021
+乐至县	qgeg	30000	512022
+阿坝藏族羌族自治州	bfay	30000	513200
+马尔康市	cqyy	30000	513201
+汶川县	ikeg	30000	513221
+理县	gjeg	30000	513222
+茂县	adeg	30000	513223
+松潘县	sieg	30000	513224
+九寨沟县	vpie	30000	513225
+金川县	qkeg	30000	513226
+小金县	iqeg	30000	513227
+黑水县	lieg	30000	513228
+壤塘县	ffeg	30000	513230
+阿坝县	bfeg	30000	513231
+若尔盖县	aque	30000	513232
+红原县	xdeg	30000	513233
+甘孜藏族自治州	abay	30000	513300
+康定市	ypym	30000	513301
+泸定县	ipeg	30000	513322
+丹巴县	mceg	30000	513323
+九龙县	vdeg	30000	513324
+雅江县	aieg	30000	513325
+道孚县	ueeg	30000	513326
+炉霍县	ofeg	30000	513327
+甘孜县	abeg	30000	513328
+新龙县	udeg	30000	513329
+德格县	tseg	30000	513330
+白玉县	rgeg	30000	513331
+石渠县	dieg	30000	513332
+色达县	qdeg	30000	513333
+理塘县	gfeg	30000	513334
+巴塘县	cfeg	30000	513335
+乡城县	xfeg	30000	513336
+稻城县	tfeg	30000	513337
+得荣县	taeg	30000	513338
+凉山彝族自治州	umxy	30000	513400
+西昌市	sjym	30000	513401
+木里藏族自治县	sjae	30000	513422
+盐源县	fieg	30000	513423
+德昌县	tjeg	30000	513424
+会理县	wgeg	30000	513425
+会东县	waeg	30000	513426
+宁南县	pfeg	30000	513427
+普格县	useg	30000	513428
+布拖县	dreg	30000	513429
+金阳县	qbeg	30000	513430
+昭觉县	jieg	30000	513431
+喜德县	fteg	30000	513432
+冕宁县	jpeg	30000	513433
+越西县	fseg	30000	513434
+甘洛县	aieg	30000	513435
+美姑县	uveg	30000	513436
+雷波县	fieg	30000	513437
+贵阳市市辖区	kbya	30000	520101
+南明区	fjaq	30000	520102
+云岩区	fmaq	30000	520103
+花溪区	aiaq	30000	520111
+乌当区	qiaq	30000	520112
+观山湖区	cmia	30000	520115
+开阳县	gbeg	30000	520121
+息烽县	toeg	30000	520122
+修文县	wyeg	30000	520123
+清镇市	iqym	30000	520181
+六盘水市	utiy	30000	520200
+钟山区	qmaq	30000	520201
+六枝特区	usta	30000	520203
+水城区	ifaq	30000	520221
+盘州市	tyym	30000	520281
+遵义市	uyym	30000	520300
+遵义市市辖区	uyya	30000	520301
+红花岗区	xama	30000	520302
+汇川区	ikaq	30000	520303
+播州区	ryaq	30000	520304
+桐梓县	sseg	30000	520322
+绥阳县	xbeg	30000	520323
+正安县	gpeg	30000	520324
+道真仡佬族苗族自治县	ufwe	30000	520325
+务川仡佬族苗族自治县	tkwe	30000	520326
+凤冈县	mmeg	30000	520327
+湄潭县	iieg	30000	520328
+余庆县	wyeg	30000	520329
+习水县	nieg	30000	520330
+赤水市	fiym	30000	520381
+仁怀市	wnym	30000	520382
+安顺市	pkym	30000	520400
+安顺市市辖区	pkya	30000	520401
+西秀区	staq	30000	520402
+平坝区	gfaq	30000	520403
+普定县	upeg	30000	520422
+镇宁布依族苗族自治县	qpde	30000	520423
+关岭布依族苗族自治县	umde	30000	520424
+紫云苗族布依族自治县	hfae	30000	520425
+毕节市	xaym	30000	520500
+七星关区	ajua	30000	520502
+大方县	dyeg	30000	520521
+黔西市	lsym	30000	520522
+金沙县	qieg	30000	520523
+织金县	xqeg	30000	520524
+纳雍县	xyeg	30000	520525
+威宁彝族回族苗族自治县	dpxe	30000	520526
+赫章县	fueg	30000	520527
+铜仁市	qwym	30000	520600
+碧江区	giaq	30000	520602
+万山区	dmaq	30000	520603
+江口县	ikeg	30000	520621
+玉屏侗族自治县	gnwe	30000	520622
+石阡县	dbeg	30000	520623
+思南县	lfeg	30000	520624
+印江土家族苗族自治县	qife	30000	520625
+德江县	tieg	30000	520626
+沿河土家族自治县	iife	30000	520627
+松桃苗族自治县	ssae	30000	520628
+黔西南布依族苗族自治州	lsfy	30000	522300
+兴义市	iyym	30000	522301
+兴仁市	iwym	30000	522302
+普安县	upeg	30000	522323
+晴隆县	jbeg	30000	522324
+贞丰县	hdeg	30000	522325
+望谟县	yyeg	30000	522326
+册亨县	myeg	30000	522327
+安龙县	pdeg	30000	522328
+黔东南苗族侗族自治州	lafy	30000	522600
+凯里市	mjym	30000	522601
+黄平县	ageg	30000	522622
+施秉县	yteg	30000	522623
+三穗县	dteg	30000	522624
+镇远县	qfeg	30000	522625
+岑巩县	maeg	30000	522626
+天柱县	gseg	30000	522627
+锦屏县	qneg	30000	522628
+剑河县	wieg	30000	522629
+台江县	cieg	30000	522630
+黎平县	tgeg	30000	522631
+榕江县	sieg	30000	522632
+从江县	wieg	30000	522633
+雷山县	fmeg	30000	522634
+麻江县	yieg	30000	522635
+丹寨县	mpeg	30000	522636
+黔南布依族苗族自治州	lfdy	30000	522700
+都匀市	fqym	30000	522701
+福泉市	prym	30000	522702
+荔波县	aieg	30000	522722
+贵定县	kpeg	30000	522723
+瓮安县	wpeg	30000	522725
+独山县	qmeg	30000	522726
+平塘县	gfeg	30000	522727
+罗甸县	lqeg	30000	522728
+长顺县	tkeg	30000	522729
+龙里县	djeg	30000	522730
+惠水县	gieg	30000	522731
+三都水族自治县	dfie	30000	522732
+昆明市市辖区	jjya	30000	530101
+五华区	gwaq	30000	530102
+盘龙区	tdaq	30000	530103
+官渡区	piaq	30000	530111
+西山区	smaq	30000	530112
+东川区	akaq	30000	530113
+呈贡区	kaaq	30000	530114
+晋宁区	gpaq	30000	530115
+富民县	pneg	30000	530124
+宜良县	pyeg	30000	530125
+石林彝族自治县	dsxe	30000	530126
+嵩明县	mjeg	30000	530127
+禄劝彝族苗族自治县	pcxe	30000	530128
+寻甸回族彝族自治县	vqle	30000	530129
+安宁市	ppym	30000	530181
+曲靖市	muym	30000	530300
+曲靖市市辖区	muya	30000	530301
+麒麟区	yyaq	30000	530302
+沾益区	iuaq	30000	530303
+马龙区	cdaq	30000	530304
+陆良县	byeg	30000	530322
+师宗县	jpeg	30000	530323
+罗平县	lgeg	30000	530324
+富源县	pieg	30000	530325
+会泽县	wieg	30000	530326
+宣威市	pdym	30000	530381
+玉溪市	giym	30000	530400
+玉溪市市辖区	giya	30000	530401
+红塔区	xfaq	30000	530402
+江川区	ikaq	30000	530403
+澄江市	iiym	30000	530481
+通海县	cieg	30000	530423
+华宁县	wpeg	30000	530424
+易门县	jueg	30000	530425
+峨山彝族自治县	mmxe	30000	530426
+新平彝族傣族自治县	ugxe	30000	530427
+元江哈尼族彝族傣族自治县	fike	30000	530428
+保山市	wmym	30000	530500
+保山市市辖区	wmya	30000	530501
+隆阳区	bbaq	30000	530502
+施甸县	yqeg	30000	530521
+龙陵县	dbeg	30000	530523
+昌宁县	jpeg	30000	530524
+腾冲市	euym	30000	530581
+昭通市	jcym	30000	530600
+昭通市市辖区	jcya	30000	530601
+昭阳区	jbaq	30000	530602
+鲁甸县	qqeg	30000	530621
+巧家县	apeg	30000	530622
+盐津县	fieg	30000	530623
+大关县	dueg	30000	530624
+永善县	yueg	30000	530625
+绥江县	xieg	30000	530626
+镇雄县	qdeg	30000	530627
+彝良县	xyeg	30000	530628
+威信县	dweg	30000	530629
+水富市	ipym	30000	530681
+丽江市	giym	30000	530700
+丽江市市辖区	giya	30000	530701
+古城区	dfaq	30000	530702
+玉龙纳西族自治县	gdxe	30000	530721
+永胜县	yeeg	30000	530722
+华坪县	wfeg	30000	530723
+宁蒗彝族自治县	paxe	30000	530724
+普洱市	uiym	30000	530800
+普洱市市辖区	uiya	30000	530801
+思茅区	laaq	30000	530802
+宁洱哈尼族彝族自治县	pike	30000	530821
+墨江哈尼族自治县	like	30000	530822
+景东彝族自治县	jaxe	30000	530823
+景谷傣族彝族自治县	jwwe	30000	530824
+镇沅彝族哈尼族拉祜族自治县	qixe	30000	530825
+江城哈尼族彝族自治县	ifke	30000	530826
+孟连傣族拉祜族佤族自治县	blwe	30000	530827
+澜沧拉祜族自治县	iire	30000	530828
+西盟佤族自治县	sjwe	30000	530829
+临沧市	jiym	30000	530900
+临沧市市辖区	jiya	30000	530901
+临翔区	juaq	30000	530902
+凤庆县	myeg	30000	530921
+云县	fceg	30000	530922
+永德县	yteg	30000	530923
+镇康县	qyeg	30000	530924
+双江拉祜族佤族布朗族傣族自治县	cire	30000	530925
+耿马傣族佤族自治县	bcwe	30000	530926
+沧源佤族自治县	iiwe	30000	530927
+楚雄彝族自治州	sdxy	30000	532300
+楚雄市	sdym	30000	532301
+双柏县	cseg	30000	532322
+牟定县	cpeg	30000	532323
+南华县	fweg	30000	532324
+姚安县	vpeg	30000	532325
+大姚县	dveg	30000	532326
+永仁县	yweg	30000	532327
+元谋县	fyeg	30000	532328
+武定县	gpeg	30000	532329
+禄丰县	pdeg	30000	532331
+红河哈尼族彝族自治州	xiky	30000	532500
+个旧市	whym	30000	532501
+开远市	gfym	30000	532502
+蒙自市	atym	30000	532503
+弥勒市	xaym	30000	532504
+屏边苗族自治县	nlae	30000	532523
+建水县	vieg	30000	532524
+石屏县	dneg	30000	532525
+泸西县	iseg	30000	532527
+元阳县	fbeg	30000	532528
+红河县	xieg	30000	532529
+金平苗族瑶族傣族自治县	qgae	30000	532530
+绿春县	xdeg	30000	532531
+河口瑶族自治县	ikge	30000	532532
+文山壮族苗族自治州	ymuy	30000	532600
+文山市	ymym	30000	532601
+砚山县	dmeg	30000	532622
+西畴县	sleg	30000	532623
+麻栗坡县	ysfe	30000	532624
+马关县	cueg	30000	532625
+丘北县	rueg	30000	532626
+广南县	yfeg	30000	532627
+富宁县	ppeg	30000	532628
+西双版纳傣族自治州	scty	30000	532800
+景洪市	jiym	30000	532801
+勐海县	bieg	30000	532822
+勐腊县	beeg	30000	532823
+大理白族自治州	dgry	30000	532900
+大理市	dgym	30000	532901
+漾濞彝族自治县	iixe	30000	532922
+祥云县	pfeg	30000	532923
+宾川县	pkeg	30000	532924
+弥渡县	xieg	30000	532925
+南涧彝族自治县	fixe	30000	532926
+巍山彝族回族自治县	mmxe	30000	532927
+永平县	ygeg	30000	532928
+云龙县	fdeg	30000	532929
+洱源县	iieg	30000	532930
+剑川县	wkeg	30000	532931
+鹤庆县	pyeg	30000	532932
+德宏傣族景颇族自治州	tpwy	30000	533100
+瑞丽市	ggym	30000	533102
+芒市	ayym	30000	533103
+梁河县	iieg	30000	533122
+盈江县	eieg	30000	533123
+陇川县	bkeg	30000	533124
+怒江傈僳族自治州	viwy	30000	533300
+泸水市	iiym	30000	533301
+福贡县	paeg	30000	533323
+贡山独龙族怒族自治县	amqe	30000	533324
+兰坪白族普米族自治县	ufre	30000	533325
+迪庆藏族自治州	myay	30000	533400
+香格里拉市	tsjy	30000	533401
+德钦县	tqeg	30000	533422
+维西傈僳族自治县	xswe	30000	533423
+拉萨市	raym	30000	540100
+拉萨市市辖区	raya	30000	540101
+城关区	fuaq	30000	540102
+堆龙德庆区	fdta	30000	540103
+达孜区	dbaq	30000	540104
+林周县	smeg	30000	540121
+当雄县	ideg	30000	540122
+尼木县	nseg	30000	540123
+曲水县	mieg	30000	540124
+墨竹工卡县	ltae	30000	540127
+日喀则市	jkmy	30000	540200
+桑珠孜区	cgba	30000	540202
+南木林县	fsse	30000	540221
+江孜县	ibeg	30000	540222
+定日县	pjeg	30000	540223
+萨迦县	aleg	30000	540224
+拉孜县	rbeg	30000	540225
+昂仁县	jweg	30000	540226
+谢通门县	ycue	30000	540227
+白朗县	ryeg	30000	540228
+仁布县	wdeg	30000	540229
+康马县	yceg	30000	540230
+定结县	pxeg	30000	540231
+仲巴县	wceg	30000	540232
+亚东县	gaeg	30000	540233
+吉隆县	fbeg	30000	540234
+聂拉木县	brse	30000	540235
+萨嘎县	akeg	30000	540236
+岗巴县	mceg	30000	540237
+昌都市	jfym	30000	540300
+卡若区	haaq	30000	540302
+江达县	ideg	30000	540321
+贡觉县	aieg	30000	540322
+类乌齐县	oqye	30000	540323
+丁青县	sgeg	30000	540324
+察雅县	paeg	30000	540325
+八宿县	wpeg	30000	540326
+左贡县	daeg	30000	540327
+芒康县	ayeg	30000	540328
+洛隆县	ibeg	30000	540329
+边坝县	lfeg	30000	540330
+林芝市	saym	30000	540400
+巴宜区	cpaq	30000	540402
+工布江达县	adie	30000	540421
+米林县	oseg	30000	540422
+墨脱县	leeg	30000	540423
+波密县	ipeg	30000	540424
+察隅县	pbeg	30000	540425
+朗县	yveg	30000	540426
+山南市	mfym	30000	540500
+乃东区	eaaq	30000	540502
+扎囊县	rgeg	30000	540521
+贡嘎县	akeg	30000	540522
+桑日县	cjeg	30000	540523
+琼结县	gxeg	30000	540524
+曲松县	mseg	30000	540525
+措美县	rueg	30000	540526
+洛扎县	ireg	30000	540527
+加查县	lseg	30000	540528
+隆子县	bbeg	30000	540529
+错那县	qveg	30000	540530
+浪卡子县	ihbe	30000	540531
+那曲市	vmym	30000	540600
+色尼区	qnaq	30000	540602
+嘉黎县	fteg	30000	540621
+比如县	xveg	30000	540622
+聂荣县	baeg	30000	540623
+安多县	pqeg	30000	540624
+申扎县	jreg	30000	540625
+索县	fpeg	30000	540626
+班戈县	gaeg	30000	540627
+巴青县	cgeg	30000	540628
+尼玛县	ngeg	30000	540629
+双湖县	cieg	30000	540630
+阿里地区	bjfa	30000	542500
+普兰县	uueg	30000	542521
+札达县	sdeg	30000	542522
+噶尔县	kqeg	30000	542523
+日土县	jfeg	30000	542524
+革吉县	afeg	30000	542525
+改则县	nmeg	30000	542526
+措勤县	raeg	30000	542527
+西安市市辖区	spya	30000	610101
+碑林区	dsaq	30000	610103
+莲湖区	aiaq	30000	610104
+灞桥区	isaq	30000	610111
+未央区	fmaq	30000	610112
+雁塔区	dfaq	30000	610113
+阎良区	uyaq	30000	610114
+临潼区	jiaq	30000	610115
+高陵区	ybaq	30000	610117
+鄠邑区	fkaq	30000	610118
+蓝田县	aleg	30000	610122
+周至县	mgeg	30000	610124
+铜川市	qkym	30000	610200
+铜川市市辖区	qkya	30000	610201
+王益区	guaq	30000	610202
+印台区	qcaq	30000	610203
+耀州区	iyaq	30000	610204
+宜君县	pveg	30000	610222
+宝鸡市	pcym	30000	610300
+宝鸡市市辖区	pcya	30000	610301
+渭滨区	iiaq	30000	610302
+金台区	qcaq	30000	610303
+陈仓区	bwaq	30000	610304
+凤翔县	mueg	30000	610322
+岐山县	mmeg	30000	610323
+扶风县	rmeg	30000	610324
+眉县	nheg	30000	610326
+陇县	bdeg	30000	610327
+千阳县	tbeg	30000	610328
+麟游县	yieg	30000	610329
+凤县	mceg	30000	610330
+太白县	dreg	30000	610331
+咸阳市	dbym	30000	610400
+咸阳市市辖区	dbya	30000	610401
+秦都区	dfaq	30000	610402
+杨陵区	sbaq	30000	610403
+渭城区	ifaq	30000	610404
+三原县	ddeg	30000	610422
+泾阳县	ibeg	30000	610423
+乾县	fjeg	30000	610424
+礼泉县	preg	30000	610425
+永寿县	ydeg	30000	610426
+彬州市	syym	30000	610482
+长武县	tgeg	30000	610428
+旬邑县	qkeg	30000	610429
+淳化县	iweg	30000	610430
+武功县	gaeg	30000	610431
+兴平市	igym	30000	610481
+渭南市	ifym	30000	610500
+渭南市市辖区	ifya	30000	610501
+临渭区	jiaq	30000	610502
+华州区	wyaq	30000	610503
+潼关县	iueg	30000	610522
+大荔县	daeg	30000	610523
+合阳县	wbeg	30000	610524
+澄城县	ifeg	30000	610525
+蒲城县	afeg	30000	610526
+白水县	rieg	30000	610527
+富平县	pgeg	30000	610528
+韩城市	ffym	30000	610581
+华阴市	wbym	30000	610582
+延安市	tpym	30000	610600
+延安市市辖区	tpya	30000	610601
+宝塔区	pfaq	30000	610602
+安塞区	ppaq	30000	610603
+延长县	tteg	30000	610621
+延川县	tkeg	30000	610622
+子长市	btym	30000	610681
+志丹县	fmeg	30000	610625
+吴起县	kfeg	30000	610626
+甘泉县	areg	30000	610627
+富县	pgeg	30000	610628
+洛川县	ikeg	30000	610629
+宜川县	pkeg	30000	610630
+黄龙县	adeg	30000	610631
+黄陵县	abeg	30000	610632
+汉中市	ikym	30000	610700
+汉中市市辖区	ikya	30000	610701
+汉台区	icaq	30000	610702
+南郑区	fuaq	30000	610703
+城固县	fleg	30000	610722
+洋县	iueg	30000	610723
+西乡县	sxeg	30000	610724
+勉县	qkeg	30000	610725
+宁强县	pxeg	30000	610726
+略阳县	lbeg	30000	610727
+镇巴县	qceg	30000	610728
+留坝县	qfeg	30000	610729
+佛坪县	wfeg	30000	610730
+榆林市	ssym	30000	610800
+榆林市市辖区	ssya	30000	610801
+榆阳区	sbaq	30000	610802
+横山区	smaq	30000	610803
+府谷县	yweg	30000	610822
+靖边县	uleg	30000	610824
+定边县	pleg	30000	610825
+绥德县	xteg	30000	610826
+米脂县	oeeg	30000	610827
+佳县	wfeg	30000	610828
+吴堡县	kweg	30000	610829
+清涧县	iieg	30000	610830
+子洲县	bieg	30000	610831
+神木市	psym	30000	610881
+安康市	pyym	30000	610900
+安康市市辖区	pyya	30000	610901
+汉滨区	iiaq	30000	610902
+汉阴县	ibeg	30000	610921
+石泉县	dreg	30000	610922
+宁陕县	pbeg	30000	610923
+紫阳县	hbeg	30000	610924
+岚皋县	mreg	30000	610925
+平利县	gteg	30000	610926
+镇坪县	qfeg	30000	610927
+旬阳县	qbeg	30000	610928
+白河县	rieg	30000	610929
+商洛市	uiym	30000	611000
+商洛市市辖区	uiya	30000	611001
+商州区	uyaq	30000	611002
+洛南县	ifeg	30000	611021
+丹凤县	mmeg	30000	611022
+商南县	ufeg	30000	611023
+山阳县	mbeg	30000	611024
+镇安县	qpeg	30000	611025
+柞水县	sieg	30000	611026
+兰州市	uyym	30000	620100
+兰州市市辖区	uyya	30000	620101
+七里河区	ajia	30000	620103
+西固区	slaq	30000	620104
+安宁区	ppaq	30000	620105
+红古区	xdaq	30000	620111
+永登县	yweg	30000	620121
+皋兰县	rueg	30000	620122
+榆中县	skeg	30000	620123
+嘉峪关市	fmuy	30000	620200
+嘉峪关市市辖区	fmua	30000	620201
+金昌市	qjym	30000	620300
+金昌市市辖区	qjya	30000	620301
+金川区	qkaq	30000	620302
+永昌县	yjeg	30000	620321
+白银市	rqym	30000	620400
+白银市市辖区	rqya	30000	620401
+白银区	rqaq	30000	620402
+平川区	gkaq	30000	620403
+靖远县	ufeg	30000	620421
+会宁县	wpeg	30000	620422
+景泰县	jdeg	30000	620423
+天水市	giym	30000	620500
+天水市市辖区	giya	30000	620501
+秦州区	dyaq	30000	620502
+麦积区	gtaq	30000	620503
+清水县	iieg	30000	620521
+秦安县	dpeg	30000	620522
+甘谷县	aweg	30000	620523
+武山县	gmeg	30000	620524
+张家川回族自治县	xpke	30000	620525
+武威市	gdym	30000	620600
+武威市市辖区	gdya	30000	620601
+凉州区	uyaq	30000	620602
+民勤县	naeg	30000	620621
+古浪县	dieg	30000	620622
+天祝藏族自治县	gpae	30000	620623
+张掖市	xrym	30000	620700
+张掖市市辖区	xrya	30000	620701
+甘州区	ayaq	30000	620702
+肃南裕固族自治县	vfpe	30000	620721
+民乐县	nqeg	30000	620722
+临泽县	jieg	30000	620723
+高台县	yceg	30000	620724
+山丹县	mmeg	30000	620725
+平凉市	guym	30000	620800
+平凉市市辖区	guya	30000	620801
+崆峒区	mmaq	30000	620802
+泾川县	ikeg	30000	620821
+灵台县	vceg	30000	620822
+崇信县	mweg	30000	620823
+华亭市	wyym	30000	620881
+庄浪县	yieg	30000	620825
+静宁县	gpeg	30000	620826
+酒泉市	irym	30000	620900
+酒泉市市辖区	irya	30000	620901
+肃州区	vyaq	30000	620902
+金塔县	qfeg	30000	620921
+瓜州县	ryeg	30000	620922
+肃北蒙古族自治县	vuae	30000	620923
+阿克塞哈萨克族自治县	bdpe	30000	620924
+玉门市	guym	30000	620981
+敦煌市	yoym	30000	620982
+庆阳市	ybym	30000	621000
+庆阳市市辖区	ybya	30000	621001
+西峰区	smaq	30000	621002
+庆城县	yfeg	30000	621021
+华池县	wieg	30000	621023
+合水县	wieg	30000	621024
+正宁县	gpeg	30000	621025
+宁县	pseg	30000	621026
+镇原县	qdeg	30000	621027
+定西市	psym	30000	621100
+定西市市辖区	psya	30000	621101
+安定区	ppaq	30000	621102
+通渭县	cieg	30000	621121
+陇西县	bseg	30000	621122
+渭源县	iieg	30000	621123
+临洮县	jieg	30000	621124
+漳县	iueg	30000	621125
+岷县	mneg	30000	621126
+陇南市	bfym	30000	621200
+陇南市市辖区	bfya	30000	621201
+武都区	gfaq	30000	621202
+成县	dneg	30000	621221
+文县	yyeg	30000	621222
+宕昌县	pjeg	30000	621223
+康县	yveg	30000	621224
+西和县	steg	30000	621225
+礼县	pyeg	30000	621226
+两当县	gieg	30000	621228
+临夏回族自治州	jdly	30000	622900
+临夏市	jdym	30000	622901
+临夏县	jdeg	30000	622921
+康乐县	yqeg	30000	622922
+永靖县	yueg	30000	622923
+广河县	yieg	30000	622924
+和政县	tgeg	30000	622925
+东乡族自治县	axye	30000	622926
+积石山保安族东乡族撒拉族自治县	tdme	30000	622927
+甘南藏族自治州	afay	30000	623000
+合作市	wwym	30000	623001
+临潭县	jieg	30000	623021
+卓尼县	hneg	30000	623022
+舟曲县	tmeg	30000	623023
+迭部县	rueg	30000	623024
+玛曲县	gmeg	30000	623025
+碌曲县	dmeg	30000	623026
+夏河县	dieg	30000	623027
+西宁市	spym	30000	630100
+西宁市市辖区	spya	30000	630101
+城东区	faaq	30000	630102
+城西区	fsaq	30000	630104
+城北区	fuaq	30000	630105
+大通回族土族自治县	dcle	30000	630121
+湟中区	ikaq	30000	630106
+湟源县	iieg	30000	630123
+海东市	iaym	30000	630200
+乐都区	qfaq	30000	630202
+平安区	gpaq	30000	630203
+民和回族土族自治县	ntle	30000	630222
+互助土族自治县	gefe	30000	630223
+化隆回族自治县	wble	30000	630224
+循化撒拉族自治县	twre	30000	630225
+海北藏族自治州	iuay	30000	632200
+门源回族自治县	uile	30000	632221
+祁连县	pleg	30000	632222
+海晏县	ijeg	30000	632223
+刚察县	mpeg	30000	632224
+黄南藏族自治州	afay	30000	632300
+同仁市	mwym	30000	632301
+尖扎县	ireg	30000	632322
+泽库县	iyeg	30000	632323
+河南蒙古族自治县	ifae	30000	632324
+海南藏族自治州	ifay	30000	632500
+共和县	ateg	30000	632521
+同德县	mteg	30000	632522
+贵德县	kteg	30000	632523
+兴海县	iieg	30000	632524
+贵南县	kfeg	30000	632525
+果洛藏族自治州	jiay	30000	632600
+玛沁县	gieg	30000	632621
+班玛县	ggeg	30000	632622
+甘德县	ateg	30000	632623
+达日县	djeg	30000	632624
+久治县	qieg	30000	632625
+玛多县	gqeg	30000	632626
+玉树藏族自治州	gsay	30000	632700
+玉树市	gsym	30000	632701
+杂多县	vqeg	30000	632722
+称多县	tqeg	30000	632723
+治多县	iqeg	30000	632724
+囊谦县	gyeg	30000	632725
+曲麻莱县	myae	30000	632726
+海西蒙古族藏族自治州	isay	30000	632800
+格尔木市	sqsy	30000	632801
+德令哈市	twky	30000	632802
+茫崖市	amym	30000	632803
+乌兰县	queg	30000	632821
+都兰县	fueg	30000	632822
+天峻县	gmeg	30000	632823
+海西蒙古族藏族自治州直辖	isal	30000	632825
+银川市市辖区	qkya	30000	640101
+兴庆区	iyaq	30000	640104
+西夏区	sdaq	30000	640105
+金凤区	qmaq	30000	640106
+永宁县	ypeg	30000	640121
+贺兰县	lueg	30000	640122
+灵武市	vgym	30000	640181
+石嘴山市	dkmy	30000	640200
+石嘴山市市辖区	dkma	30000	640201
+大武口区	dgka	30000	640202
+惠农区	gpaq	30000	640205
+平罗县	gleg	30000	640221
+吴忠市	kkym	30000	640300
+吴忠市市辖区	kkya	30000	640301
+利通区	tcaq	30000	640302
+红寺堡区	xfwa	30000	640303
+盐池县	fieg	30000	640323
+同心县	mneg	30000	640324
+青铜峡市	gqmy	30000	640381
+固原市	ldym	30000	640400
+固原市市辖区	ldya	30000	640401
+原州区	dyaq	30000	640402
+西吉县	sfeg	30000	640422
+隆德县	bteg	30000	640423
+泾源县	iieg	30000	640424
+彭阳县	fbeg	30000	640425
+中卫市	kbym	30000	640500
+中卫市市辖区	kbya	30000	640501
+沙坡头区	ifua	30000	640502
+中宁县	kpeg	30000	640521
+海原县	ideg	30000	640522
+乌鲁木齐市	qqsy	30000	650100
+乌鲁木齐市市辖区	qqsa	30000	650101
+天山区	gmaq	30000	650102
+沙依巴克区	iwca	30000	650103
+新市区	uyaq	30000	650104
+水磨沟区	iyia	30000	650105
+头屯河区	ugia	30000	650106
+达坂城区	dffa	30000	650107
+米东区	oaaq	30000	650109
+乌鲁木齐县	qqse	30000	650121
+克拉玛依市	drgy	30000	650200
+克拉玛依市市辖区	drga	30000	650201
+独山子区	qmba	30000	650202
+克拉玛依区	drga	30000	650203
+白碱滩区	rdia	30000	650204
+乌尔禾区	qqta	30000	650205
+吐鲁番市	kqty	30000	650400
+高昌区	yjaq	30000	650402
+鄯善县	uueg	30000	650421
+托克逊县	rdbe	30000	650422
+胡杨河市	dsiy	30000	659010
+哈密市	kpym	30000	650500
+伊州区	wyaq	30000	650502
+巴里坤哈萨克自治县	cjfe	30000	650521
+伊吾县	wgeg	30000	650522
+昌吉回族自治州	jfly	30000	652300
+昌吉市	jfym	30000	652301
+阜康市	wyym	30000	652302
+呼图壁县	klne	30000	652323
+玛纳斯县	gxae	30000	652324
+奇台县	dceg	30000	652325
+吉木萨尔县	fsae	30000	652327
+木垒哈萨克自治县	scke	30000	652328
+博尔塔拉蒙古自治州	fqfy	30000	652700
+博乐市	fqym	30000	652701
+阿拉山口市	brmy	30000	652702
+精河县	oieg	30000	652722
+温泉县	ireg	30000	652723
+巴音郭楞蒙古自治州	cuyy	30000	652800
+库尔勒市	yqay	30000	652801
+轮台县	lceg	30000	652822
+尉犁县	nteg	30000	652823
+若羌县	aueg	30000	652824
+且末县	egeg	30000	652825
+焉耆回族自治县	gfle	30000	652826
+和静县	tgeg	30000	652827
+和硕县	tdeg	30000	652828
+博湖县	fieg	30000	652829
+阿克苏地区	bdaa	30000	652900
+阿克苏市	bday	30000	652901
+温宿县	ipeg	30000	652922
+库车市	ylym	30000	652902
+沙雅县	iaeg	30000	652924
+新和县	uteg	30000	652925
+拜城县	rfeg	30000	652926
+乌什县	qweg	30000	652927
+阿瓦提县	bgre	30000	652928
+柯坪县	sfeg	30000	652929
+克孜勒苏柯尔克孜自治州	dbay	30000	653000
+阿图什市	blwy	30000	653001
+阿克陶县	bdbe	30000	653022
+阿合奇县	bwde	30000	653023
+乌恰县	qneg	30000	653024
+喀什地区	kwfa	30000	653100
+喀什市	kwym	30000	653101
+疏附县	nbeg	30000	653121
+疏勒县	naeg	30000	653122
+英吉沙县	afie	30000	653123
+泽普县	iueg	30000	653124
+莎车县	aleg	30000	653125
+叶城县	kfeg	30000	653126
+麦盖提县	gure	30000	653127
+岳普湖县	ruie	30000	653128
+伽师县	wjeg	30000	653129
+巴楚县	cseg	30000	653130
+塔什库尔干塔吉克自治县	fwye	30000	653131
+和田地区	tlfa	30000	653200
+和田市	tlym	30000	653201
+和田县	tleg	30000	653221
+墨玉县	lgeg	30000	653222
+皮山县	hmeg	30000	653223
+洛浦县	iieg	30000	653224
+策勒县	taeg	30000	653225
+于田县	gleg	30000	653226
+民丰县	ndeg	30000	653227
+伊犁哈萨克自治州	wtky	30000	654000
+伊宁市	wpym	30000	654002
+奎屯市	dgym	30000	654003
+霍尔果斯市	fqjy	30000	654004
+伊宁县	wpeg	30000	654021
+察布查尔锡伯自治县	pdse	30000	654022
+霍城县	ffeg	30000	654023
+巩留县	aqeg	30000	654024
+新源县	uieg	30000	654025
+昭苏县	jaeg	30000	654026
+特克斯县	tdae	30000	654027
+尼勒克县	nade	30000	654028
+塔城地区	fffa	30000	654200
+塔城市	ffym	30000	654201
+乌苏市	qaym	30000	654202
+额敏县	pteg	30000	654221
+沙湾县	iieg	30000	654223
+托里县	rjeg	30000	654224
+裕民县	pneg	30000	654225
+和布克赛尔蒙古自治县	tdde	30000	654226
+阿勒泰地区	bada	30000	654300
+阿勒泰市	bady	30000	654301
+布尔津县	dqie	30000	654321
+富蕴县	paeg	30000	654322
+福海县	pieg	30000	654323
+哈巴河县	kcie	30000	654324
+青河县	gieg	30000	654325
+吉木乃县	fsee	30000	654326
+石河子市	diby	30000	659001
+阿拉尔市	brqy	30000	659002
+图木舒克市	lswy	30000	659003
+五家渠市	gpiy	30000	659004
+北屯市	ugym	30000	659005
+铁门关市	quuy	30000	659006
+双河市	ciym	30000	659007
+可克达拉市	sddy	30000	659008
+昆玉市	jgym	30000	659009
+中西区	ksaq	30000	810001
+湾仔区	iwaq	30000	810002
+油尖旺区	iija	30000	810005
+深水埗区	iifa	30000	810006
+九龙城区	vdfa	30000	810007
+黄大仙区	adwa	30000	810008
+观塘区	cfaq	30000	810009
+荃湾区	aiaq	30000	810010
+屯门区	guaq	30000	810011
+元朗区	fyaq	30000	810012
+北区	uxaq	30000	810013
+大埔区	dfaq	30000	810014
+西贡区	saaq	30000	810015
+沙田区	ilaq	30000	810016
+葵青区	agaq	30000	810017
+离岛区	yqaq	30000	810018
+花地玛堂区	afga	30000	820001
+花王堂区	agia	30000	820002
+望德堂区	ytia	30000	820003
+大堂区	diaq	30000	820004
+风顺堂区	mkia	30000	820005
+嘉模堂区	fsia	30000	820006
+路凼填海区	kifa	30000	820007
+圣方济各堂区	cyia	30000	820008
+⌘	coap	0
+』	cobd	0
+㎡	guyy	0
+Π	codx	0
+⒀	coks	0
+￡	cohb	0
+ヽ	cojp	0
+㈦	coos	0
+れ	copj	0
+×	tuny	0
+√	svkg	0
+∠	cosx	0
+‰	twpp	0
+￣	cots	0
+κ	coxx	0
+⑥	coys	0
+	dgty	0
+	dxgd	0
+	hdqg	0
+	hovg	0
+	idpy	0
+	kunt	0
+	nqvg	0
+	rian	0
+	tcde	0
+	udij	0
+	ugfx	0
+	wqvg	0
+℉	wxqa	0

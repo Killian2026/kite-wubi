@@ -1,0 +1,6 @@
+# Rime 部署产物，不用进仓库
+build/
+*.bin
+*.userdb/
+sync/
+user.yaml

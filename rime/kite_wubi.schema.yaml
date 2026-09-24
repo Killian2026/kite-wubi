@@ -1,0 +1,70 @@
+# Rime schema settings
+# encoding: utf-8
+#
+# 风鸢五笔（kite_wubi）—— MVP 版：只保留「打码出字」本身。
+# 反查（z + 小鹤双拼）、简入繁出、日期时间候选、单字优先过滤器都不装。
+
+schema:
+  schema_id: kite_wubi
+  name: "风鸢五笔"
+  version: "beta1"
+  author:
+    - 码表 kite-wubi
+  description: |
+    四码定长的风鸢五笔。单字全四码（三码字补声母识别码，多音字多码），
+    词条沿用极点五笔词库；候选按 简体常用字 > 简体词 > 简体生僻字 > 繁体 排优先级。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中, En ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: extended_charset
+    states: [ 常用, 扩展 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+
+speller:
+  max_code_length: 4     # 四码上屏
+  auto_select: true      # 四码唯一时自动上屏
+
+translator:
+  dictionary: kite_wubi  # 主码表（kite_wubi.dict.yaml 里 import 了四张表）
+  enable_charset_filter: true
+  enable_completion: true
+  enable_sentence: false
+  enable_user_dict: false
+  enable_encoder: false
+  encode_commit_history: false
+  comment_format:
+    - xform/.+//          # 候选后面不显示编码提示
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default

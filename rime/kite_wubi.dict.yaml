@@ -1,0 +1,25 @@
+---
+name: kite_wubi
+version: "beta1"
+sort: by_weight
+import_tables:                 # 主表只引用，不放词条
+  - kite_wubi_danzi                 # 单字表
+  - kite_wubi_ci                    # 词表
+  - kite_wubi_shengpizi             # 生僻字表
+  - kite_wubi_teshuci               # 特殊词表
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:                        # 大写字母表示字序，小写字母表示其所跟随的大写字母所以表的字中的编码序
+    - length_equal: 2           # 对于二字词
+      formula: "AaAbBaBb"       # 取第一字首二码、第二字首二码
+    - length_equal: 3           # 对于三字词
+      formula: "AaBaCaCb"       # 取第一字首码、第二字首码、第三字首码、第三字二笔码
+    - length_in_range: [4, 10]  # 对于四至十字词
+      formula: "AaBaCaZa"       # 取第一字首码，第二字尾码、第三字首码、最后一字尾码
+...
